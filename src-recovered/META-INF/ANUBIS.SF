@@ -1,0 +1,3913 @@
+Signature-Version: 1.0
+Created-By: 17.0.12 (Oracle Corporation)
+SHA-256-Digest-Manifest: bfAsIklDcSuXgEc8mbFp3Tgueel3XIWYFOnc+2bAmKk=
+SHA-256-Digest-Manifest-Main-Attributes: deo0aubNWSD1eCG0wDpIq1qU/tTuUSA
+ lVf8bC17Wmoc=
+
+Name: net/anubis/client/module/impl/render/PharaohHeaddressLayer.class
+SHA-256-Digest: 0nXzq7X5pHL3wtItE8a8hXzHP7nwbCmFpYrcGxViixQ=
+
+Name: META-INF/jars/imgui-java-binding-1.90.0.jar
+SHA-256-Digest: zo7U1qJ4Esol5kNdf7NP4Y0nOXdCTio83c0SqA9r5Ks=
+
+Name: com/example/client/mixin/MixinCustomCrosshairGui.class
+SHA-256-Digest: T6JPnwwnVhcQxx/5hHiQt2f0J0QPgIqnJJW4SRdilZQ=
+
+Name: com/example/client/mixin/MixinTridentBoostTridentItem.class
+SHA-256-Digest: B+ibnESW1Q3BCMZg/erh7rqyFeRZA0UiAqWU784QDaA=
+
+Name: net/anubis/client/config/ShareDictionary.class
+SHA-256-Digest: E17rEm4QHJmudlVgiI2MPIjZHUnkgBa1BiN0+bZkBqA=
+
+Name: assets/anubis/fonts/manrope-bold.ttf
+SHA-256-Digest: eeeujBuMWDRAHq8Gcndm20fg0ElyxRFTX8wjTrZqrEo=
+
+Name: net/anubis/client/util/BlockEntityLeakTracker$Entry.class
+SHA-256-Digest: FILp1RjGS5qd0r2rayKBTpC9hhfHels9AhKrxO+7kPw=
+
+Name: net/anubis/client/imgui/UiFont.class
+SHA-256-Digest: JHzidMTGhJOnQCtJSH3Q87upyy33yC0WpuwCP3qoIwM=
+
+Name: net/anubis/client/module/setting/StringSetting$Preset.class
+SHA-256-Digest: knJ221hmVGrGZv4tQ1pPp8EwLQ2ANBkF9US45E4q39c=
+
+Name: com/example/client/mixin/MixinRotationMultiPlayerGameMode.class
+SHA-256-Digest: 9j90NWzbvMBdg7MsM1h2dlLFelFQ5yRmNyhqf0A2BKU=
+
+Name: net/anubis/client/module/impl/render/character/CharacterHolder.cla
+ ss
+SHA-256-Digest: Yj2VXdM/ncJ6fxgfcWXVyF5fN1XrvqrB4SbRb5di4Mg=
+
+Name: net/anubis/client/webhook/WebhookEmbed.class
+SHA-256-Digest: MeU5jI/EVxKWzMIsuFRleqrp7VQM8i9ugINuBQr16wo=
+
+Name: assets/anubis/defaults/modules.json
+SHA-256-Digest: 7bzch57hq1+Jfxy2ucvjs2in6p2Dt49DDLb7oeehF7A=
+
+Name: net/anubis/client/module/impl/misc/AutoClickerModule.class
+SHA-256-Digest: yhmB3vjPcCj/l/mX+LbP3mwhi71dxgq1D9swAKL2Exs=
+
+Name: net/anubis/client/module/impl/movement/elytrafly/PacketMode.class
+SHA-256-Digest: GxoQNqISr5qHLLmn8rk8npZe3AM/utVHxw4yFIbVilg=
+
+Name: com/example/client/mixin/MixinSpeedMineMultiPlayerGameMode.class
+SHA-256-Digest: B7CiJOJkX+YjhRKHGwelrCV9Q0KzCEASEQt6EuT/o0o=
+
+Name: net/anubis/client/util/spotify/PlayerSource.class
+SHA-256-Digest: g9iIjQHwIH+Tr4rOtzMFS5llSr2lvtriQCj4L0IG6x4=
+
+Name: net/anubis/client/module/impl/misc/nameprotect/AliasPolicy$Refusal
+ .class
+SHA-256-Digest: E57eU40QGerb3camknTQkb1CC7o3hrZLcATNH3ZIoAo=
+
+Name: net/anubis/client/module/impl/render/character/kit/Strand.class
+SHA-256-Digest: z+3MMfbxHy8annLy5KK7hn+xRMgcpDWKwK1irw0OPkM=
+
+Name: net/anubis/client/module/impl/movement/ElytraFlyModule.class
+SHA-256-Digest: HykauPdScQ2Nf/7rSNbqq/VH7KgR74MONYkYR7oUMgw=
+
+Name: net/anubis/client/util/spotify/SpotifyWindow$MediaKey.class
+SHA-256-Digest: SkikzrwNakMkKJjjwbm+U3le2rvt/CT/szhzPDhPbJg=
+
+Name: net/anubis/client/config/ModuleConfigStore.class
+SHA-256-Digest: klJbHOBS5DV/LhPWNZ1Nykxm0x7LXOBBo/F+wz4mp4Q=
+
+Name: net/anubis/client/util/NameFilter.class
+SHA-256-Digest: u65Bt7abkrR2gld7sg27cWhm5fPiw5O1xQmDoXHMopI=
+
+Name: assets/anubis/shaders/core/sky_theme.vsh
+SHA-256-Digest: OUOi8a8FjNjaPmIB1DEzRlLg6quw6nS4+jc104SzReY=
+
+Name: net/anubis/client/esp/BlockLayer$Cluster.class
+SHA-256-Digest: aDPVElrVEF8/s89/MgicgIg5gwO2MXIusF+zOs/Whds=
+
+Name: net/anubis/client/util/antivanish/AntiVanishText.class
+SHA-256-Digest: SlLnbAg5yPVYXciWa1d24sfy6kPbyiY/RUd4r98ZoR8=
+
+Name: net/anubis/client/gui/HudRenderer$VanishLine.class
+SHA-256-Digest: ngAtbHKP74q3MrHXdyaRQy1KGPP9GMhtDoSmq4CSfO8=
+
+Name: net/anubis/client/gui/BlockIcons.class
+SHA-256-Digest: 80GyqKeAArt/S86Sn2fKfqQwGSQl0f9SxYb6KGnK+3M=
+
+Name: net/anubis/client/module/impl/donutmacros/AuctionHouse$Config.clas
+ s
+SHA-256-Digest: +r94lBx4qRrZcHtUUPEMJvdTHrd83kl7CYQhC6/5hHY=
+
+Name: net/anubis/client/module/impl/render/CustomCrosshairModule$Geometr
+ y.class
+SHA-256-Digest: ynum/sVLkx8V63Jiz1qSgCdFuxI/P/w9GNsOqaAlWhs=
+
+Name: com/example/client/mixin/AccessorSpawnerNametagsBaseSpawner.class
+SHA-256-Digest: BzhJjL8sD18oQXOGwV425ihaRNNBncT4L8JcpCBWHkU=
+
+Name: com/example/client/mixin/MixinTimeChangerClientLevel.class
+SHA-256-Digest: kbTmfpaSvGHQ18y16JevuT6+VYaXma+o5f9bJpw2wEA=
+
+Name: net/anubis/client/module/impl/render/NametagsModule$Nearby.class
+SHA-256-Digest: NRBnwWnNuY5VcGnwnAYRCaV137grF8fyk6tlR4/9nx8=
+
+Name: net/anubis/client/util/quantum/ChunkSnapshotStore.class
+SHA-256-Digest: wPcCk6+RswRsanspb0TML6KjkXl9FvFfQBFH8RAv0So=
+
+Name: net/anubis/client/module/impl/render/CustomCrosshairModule.class
+SHA-256-Digest: 6yrKdXMCvTHAVpMOOP8Wr+4K9v0Ro1XrN1M3Yz8DPwc=
+
+Name: net/anubis/client/util/spotify/LyricsDiskCache$Entry.class
+SHA-256-Digest: kUxzc1ix+32UGpJBVDSgzQjOHz1JkyKdAw7iDB3tg+4=
+
+Name: net/anubis/client/module/impl/render/character/gltf/TextureAtlas.c
+ lass
+SHA-256-Digest: 05mbuZq2Vgcl0n2YJelCjvLkMDubqM/rTbrlUt6rJUs=
+
+Name: net/anubis/client/module/impl/movement/AutoWalkModule.class
+SHA-256-Digest: yswjfCkFI3/8H+1bQem1jRMcwDQlnG7TNbQdPC2tgW4=
+
+Name: net/anubis/client/module/impl/render/StorageEspModule$1.class
+SHA-256-Digest: 4tRELv7KnohvDf/9vD/NQbSco8Y8m/CJfNKhlYsE5y8=
+
+Name: net/anubis/client/util/TranslationGuard$Snapshot.class
+SHA-256-Digest: MrE/q8qOEgeHcOH47FGmj4ZmLL7dDjKAk4t9eRmE8wM=
+
+Name: com/example/client/mixin/MixinFakeStatsPlayerTabOverlay.class
+SHA-256-Digest: a9rNCKs20TKf0LNI6O981r/nsLqoSdLPzvrjfz/qlfI=
+
+Name: net/anubis/client/module/impl/render/character/gltf/CharacterBake$
+ Piece.class
+SHA-256-Digest: nFzmhleM2UM4NMJFFurpVtAKOaMyX5/6lx+clMWnGN4=
+
+Name: com/example/client/mixin/MixinJumpCirclesLevelRenderer.class
+SHA-256-Digest: w5Pfq85vwmQwhP832HuPfcYneHSYytk+X+6L3H1QPIk=
+
+Name: net/anubis/client/module/impl/combat/CrystalAuraModule$Plan.class
+SHA-256-Digest: qJLd4IZ0giLLTBbDvDKk7qzNF78x3ME63fhd5pDzY34=
+
+Name: net/anubis/client/event/impl/Render3DEvent.class
+SHA-256-Digest: mhNtghfiNWiwfMYe4VNC5c4cm3H0GgikAkJmEuxphlM=
+
+Name: com/example/client/mixin/MixinSwingAnimationLivingEntity.class
+SHA-256-Digest: DOHWeRXvawJptraY5XzgkAalfveqaewM333XLqahTd8=
+
+Name: net/anubis/client/module/impl/render/SkyMips.class
+SHA-256-Digest: Kfr8tA/c1Icja9J14CGHoM5gos9RDDmwra6LtfDccJc=
+
+Name: net/anubis/client/module/impl/combat/SingleAnchorMacroModule.class
+SHA-256-Digest: GWfiATb486/2C819r76sqL4rV7+P7hJBGyFSWu1TPG0=
+
+Name: net/anubis/client/module/impl/render/JumpCirclesModule$Lift.class
+SHA-256-Digest: 8TMUI5UswSdQmjUqshgK+Um7OChGxxOedoc5MDLWhI0=
+
+Name: net/anubis/client/config/ServerAddresses.class
+SHA-256-Digest: 8E+71bWdiWjf3NBPlMPd0uOf0/jVzlMyTql2ekB2hR0=
+
+Name: net/anubis/client/event/impl/Render2DEvent.class
+SHA-256-Digest: q+BBZh+7NkPrxeqa313nnhDIX7X9rak/OcxRmTn3As4=
+
+Name: net/anubis/client/module/impl/render/FullbrightModule.class
+SHA-256-Digest: 7dl8RRsOFsCQtgT9J0j8kpmKwtI2053CL0kwDK6WA20=
+
+Name: net/anubis/client/module/impl/render/FloatingRelicsModule.class
+SHA-256-Digest: vE05ZCRSZtSPp9437V/C0OUaQAObnPsScajHcoBN+uw=
+
+Name: net/anubis/client/gui/ToggleToasts$Look.class
+SHA-256-Digest: JyfCqE1+UsA1B6Lt78HSwg3zf0Ub7XnZVeRhGUT5ArI=
+
+Name: net/anubis/client/config/ProfileCodes.class
+SHA-256-Digest: m5B4LnGtE3jqFkhzi2+fXDf7Z600qZ2SKmZU39VGncw=
+
+Name: net/anubis/client/gui/HudRenderer$LyricWords.class
+SHA-256-Digest: Bj4TsoTEI4jZro1lKQt6ENCUwyGi1QhFgztpJjHdHr4=
+
+Name: net/anubis/client/module/impl/movement/FlyModule.class
+SHA-256-Digest: o/mTXRnv5dYF8Bz6FdCb/Cpm/VQ6AOboSfKBkMuwl3Y=
+
+Name: net/anubis/client/util/pvp/ServerRotation.class
+SHA-256-Digest: 9XeauZfCwvXIOUkgaihjV4U5crmscycjMPvHn/haYZE=
+
+Name: net/anubis/client/gui/HudRenderer$HotkeyPlan.class
+SHA-256-Digest: TE1vMxA7e8GLimJJSJYMxrg7rX7pn9vZKcxeEDrhIqQ=
+
+Name: net/anubis/client/gui/ItemIcons.class
+SHA-256-Digest: vkxZqZJ7DhmW5h/d9CA98ZwVHPkACpk1CcsnrcqqL/Q=
+
+Name: net/anubis/client/chat/ModuleChat.class
+SHA-256-Digest: u8X0ioYyIL7jxedeNa/1UtHCGtV5V8ihw3dSKII4TbI=
+
+Name: com/example/client/mixin/MixinMultiPlayerGameMode.class
+SHA-256-Digest: ewuwoVwA1oYU+Um/o3F7fpB8hVX9yp7Ez+S+V26Ju+Q=
+
+Name: net/anubis/client/module/impl/combat/crystal/CrystalDamage$1.class
+SHA-256-Digest: J9u0a1R2kr6w4ZjKNaWrMu6dzCmItmuPUMZJab1aJMI=
+
+Name: net/anubis/client/config/ConfigProfiles$Part.class
+SHA-256-Digest: +aEouhSPiRM7WHMDLir5EEUIzelh9T2sUnWezlAzyXc=
+
+Name: net/anubis/client/util/FoglessLines.class
+SHA-256-Digest: tQvGlfAt4YpgMuLuLydbR6OAf/HbO8ttU3mba3ZCUe8=
+
+Name: net/anubis/client/gui/mainmenu/OfficialBuildBanner.class
+SHA-256-Digest: wRDZbnyxINBqvOTpn16vkzu4BSL+9ZJLXyC4wNKHXBI=
+
+Name: net/anubis/client/module/impl/combat/anchor/AnchorGuard.class
+SHA-256-Digest: KtZuh29gFFxmFgs1VBBaGZMmy444x0XIfGGAbfEDuic=
+
+Name: net/anubis/client/util/seedscan/OrePredictor$View.class
+SHA-256-Digest: 0IDqKl4wcqfdSWo1hqRWrcsGfoLUpBz+uUGhkvkNDTU=
+
+Name: net/anubis/client/gui/HudRenderer$Segment.class
+SHA-256-Digest: mPLnGCAAKgw4Dy39OUw+XrxrSEzaPnknyKsTLRfs1uY=
+
+Name: net/anubis/client/module/impl/render/character/kit/Decal.class
+SHA-256-Digest: McP9AwYycQWyXsX0vIzXErMwbA4TpnrxN2igqcdisGo=
+
+Name: com/example/client/mixin/AccessorTriggerbotKeyMapping.class
+SHA-256-Digest: 1lxLnv8Aaybc457I3k/C1FVywbniffVD1h3gRHvWf/k=
+
+Name: net/anubis/client/module/impl/misc/PlayerBypassModule.class
+SHA-256-Digest: 5V26821Vm+sK4Bhd39ajaQ/ZqR3DhAf2Bus6xT4gtzc=
+
+Name: com/example/client/mixin/MixinLivingEntity.class
+SHA-256-Digest: 2Q7tCywVlo+vqc4jZTJ8U2pwvIfx4+h1SPHufC+qnA4=
+
+Name: net/anubis/client/module/impl/render/character/CustomCharacters.cl
+ ass
+SHA-256-Digest: pp8fR0luAhpwnEJ8A0ziLf2XT5WHDSVl8CfjkEy6hHo=
+
+Name: com/example/client/mixin/MixinMaceMultiPlayerGameMode.class
+SHA-256-Digest: pMUX7Q/5JiCk2a/rjbx2Wo/wpnhchFOl5LG8ahZnS48=
+
+Name: net/anubis/client/util/BlockClusterGeometry$Segment.class
+SHA-256-Digest: V9t0MDzA2u395dlrBShyP3ZY45wMf4NZKGKuMf49Ckk=
+
+Name: net/anubis/client/util/playerbypass/ChunkLightSnapshot.class
+SHA-256-Digest: Jy6E6q6cX9NK/5zAaKwp45cXQTN7MEkS06S1ALnFmHQ=
+
+Name: net/anubis/client/module/setting/StringListSetting.class
+SHA-256-Digest: d1vrxhRq5wiN337dOVlD91BsL1qAGdLb7Zb+MJuvMfY=
+
+Name: net/anubis/client/module/impl/donutmacros/Dialogs$Button.class
+SHA-256-Digest: NR03KFcqFzoovePgrKgV+JyD+PcjXgDG+5mUn0RMel4=
+
+Name: net/anubis/client/module/impl/render/PeepSky$1.class
+SHA-256-Digest: hWKMmBIcbTgJI0WmfdEtvCPGenOj6kw3dPuGk7w1SLM=
+
+Name: net/anubis/client/event/ListenerErrorReporter.class
+SHA-256-Digest: Fjlu9Dw3sJuKZWTgayOz1fmffj5XOVANb5Wd5U4UYhc=
+
+Name: assets/anubis/textures/gui/menu/bg_sky.jpg
+SHA-256-Digest: 4hi9Mc04S4dedvTPP93sgvpqmr61u3VYJSItUZaQRGc=
+
+Name: com/example/client/mixin/MixinElytraFlyEntity.class
+SHA-256-Digest: 4Mq1tEHCBk5HWzgQnpiresfFe/Gzwvf2wdo+H6MJOBw=
+
+Name: net/anubis/client/imgui/ImGuiManager.class
+SHA-256-Digest: ExeR4uD//G6mg4i5emBLNkx2XZri6Uvy+t7AGNFjNXo=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule.class
+SHA-256-Digest: ncWaQAdasNIGeofHwMche1ZjrGHLV69bjEohBsO0whI=
+
+Name: net/anubis/client/module/impl/render/HoleEspModule$FastHoleScan.cl
+ ass
+SHA-256-Digest: EDPlULHCt1kJBKZr1pUQ3ieSawm3nQSSIw56eLYVK8Q=
+
+Name: net/anubis/client/module/impl/donutmacros/Dialogs.class
+SHA-256-Digest: di9hnM4DqLu/lhl+29nY7vG86gLsqHpF6l8CGmQEag4=
+
+Name: net/anubis/client/util/playerbypass/AutoRtpLoop$Phase.class
+SHA-256-Digest: o+Knn10c27Ll2GF1LyKYM8BStefUL8gl7KUqWEBrjFE=
+
+Name: net/anubis/client/module/impl/render/WeaponInspectModule.class
+SHA-256-Digest: Yc8fhW8zAI4TR9Bg36BuvLaswFAeTluwqWwgqxKmf2c=
+
+Name: com/example/client/mixin/MixinClientLevel.class
+SHA-256-Digest: gavaZb7Day44zYxGIypZcca/MDPSHBCEgQ9vI9518NQ=
+
+Name: net/anubis/client/config/ConfigProfiles$Match.class
+SHA-256-Digest: s2iutTZbj0hxBRqIC82jN5uTh24GK54TKhQP7g46gpE=
+
+Name: net/anubis/client/module/impl/misc/AutoReconnectModule.class
+SHA-256-Digest: Y0gz2SN3lAeHiL27hAM64AFPF6o7wDjHlgIFljm15Vo=
+
+Name: net/anubis/client/module/impl/movement/BoatFlyModule.class
+SHA-256-Digest: U9b9oEcL/7y7T2gjA5+FnXyl2QrVlhuP9oOQGJuw1lc=
+
+Name: net/anubis/client/module/impl/donutmacros/Gui.class
+SHA-256-Digest: r3pm9uodVuCZPSiBJZIxAxhO8LYOFCUEHxsx1B53nOA=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$Probe.class
+SHA-256-Digest: p+voo3owmoFAo6cdqR+7kSh+cPWUdrWVuVxTqYHIajs=
+
+Name: net/anubis/client/module/impl/render/JumpCirclesModule$LogoTexture
+ .class
+SHA-256-Digest: LlMF3NI4MyMNq39dCPQkWjU/Y7MHJ9f/GyOu1bxPYbA=
+
+Name: net/anubis/client/module/impl/render/character/CharacterCache.clas
+ s
+SHA-256-Digest: HyQXMKqg0oriHoIXx8+hDxoh6ehJ5n/7ZiN8YNeJP2M=
+
+Name: net/anubis/client/webhook/WebhookPayloadBuilder.class
+SHA-256-Digest: 5EsImu4e/WaYN5ffeKy+xATYna3Kw/3Fmz20Z6FD5KQ=
+
+Name: net/anubis/client/module/impl/misc/PlayerBypassAutoRtp.class
+SHA-256-Digest: kkYlg8+1RwNYzFjEJClKNeAwS4IdC5daxTKGeisAlIQ=
+
+Name: net/anubis/client/util/spotify/DisplayText.class
+SHA-256-Digest: wigb1Visttuq7f5rUZ4PolNVTbZLktjMUh1i1HNuVEU=
+
+Name: net/anubis/client/gui/mainmenu/MenuTextures$Pixels.class
+SHA-256-Digest: x8AttFu/7CVSbwzxFPA1z2Ygrd+VBjmB5lMMXpHDcHE=
+
+Name: net/anubis/client/gui/AnubisWidgets.class
+SHA-256-Digest: NCQKfTSmQ9FsaGPt/vSQoJzCXVCzmKRTqEn2weggTT4=
+
+Name: com/example/client/mixin/MixinFallingBlockRenderer.class
+SHA-256-Digest: imAIEdKx66dUcM46ZeDioFNtFK8YqtospHqLIn085ps=
+
+Name: assets/anubis/textures/cosmetic/headdress_base.png
+SHA-256-Digest: yUYVzjvKZ7Qm96usU6QeT4OorKzNgdVDFe6hh+ykUX0=
+
+Name: imgui/gl3/AnubisGl3.class
+SHA-256-Digest: H5VtCwiqFuFZpqnQjUr2kpQMIvzuXyz456T/Vg6OIvc=
+
+Name: net/anubis/client/module/impl/render/TotemSpiritModule.class
+SHA-256-Digest: +OXmhhad8bhT1joaytZMihGTsY8U0f3/dYvnLtAedts=
+
+Name: net/anubis/client/module/impl/misc/LegitAutoToolModule.class
+SHA-256-Digest: OYZ6B6TMQOyJZERoAsvZDHaDY4VOV2g1wK1kL+zfFPM=
+
+Name: net/anubis/client/util/ChunkAreas.class
+SHA-256-Digest: mg0YMabtOtl/KUhHoGZFEQNXhjhPMw4n89fBLFEi27s=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/OverlayWindow$Affinit
+ y.class
+SHA-256-Digest: flu7BuQ/S+EDDv3Cq/Btdan/Zh5KWVA0Ie3eKoqWGZ0=
+
+Name: net/anubis/client/module/impl/movement/elytrafly/ElytraFlightModes
+ .class
+SHA-256-Digest: B6u5iVNQSNZzzngknnLR7H7vruYVe0WPJEyi8P67Lg4=
+
+Name: net/anubis/client/gui/ChallengeToast.class
+SHA-256-Digest: ld/tmD0/mFmstKXN72cJ3T5kz6UTrxH7XgikB1HuziA=
+
+Name: net/anubis/client/module/impl/donutmacros/Product.class
+SHA-256-Digest: r0XigdBCBXBfqOkixgC6NI0XylSMVnhoEbKSNytKLgU=
+
+Name: net/anubis/client/util/seedscan/OreSpec.class
+SHA-256-Digest: IANv8ntwYtNJFQFuUQFZDFtr+nfqQIlozPFvr6vaYM4=
+
+Name: net/anubis/client/module/impl/combat/totem/OffhandRefill$Offhand.c
+ lass
+SHA-256-Digest: l3IxrxeeoH5xCw6ESZNbuqcP1TdggIeacwE9Mg3mUvM=
+
+Name: net/anubis/client/module/impl/render/KnifeMesh$Shine.class
+SHA-256-Digest: C+VPo5M0lgIWPDT+RR7dfQ4wLe+QVVQQSmTHNGOIkdY=
+
+Name: net/anubis/client/config/HudTheme.class
+SHA-256-Digest: 1ESpb6TI8C1GVuKVaWUIWYsWlbLxrWq8QwnrRDQcoTs=
+
+Name: net/anubis/client/gui/GifDecoder$Frame.class
+SHA-256-Digest: nqU/mLCdUc7Ec6ve8RBZ9nJIrvE5ifh3i8L2zVxzBVY=
+
+Name: net/anubis/client/module/impl/render/PearlTrajectoryModule$Label.c
+ lass
+SHA-256-Digest: h9W3c7J6COLvqxV8Xh4MrBTDl3GyLYo6DYoEUaruYkI=
+
+Name: net/anubis/client/esp/BlockLayer$Vein.class
+SHA-256-Digest: r7+3ST2TEqrryoShy89wKP7zC/fNQiJZdoQsqUQXaAQ=
+
+Name: net/anubis/client/util/TickWorkBudget.class
+SHA-256-Digest: 29yYE3xDCyewuSFlzdXa3cLIHL5S8BfWS+XzEHfcGps=
+
+Name: com/example/client/mixin/MixinJumpCirclesLivingEntity.class
+SHA-256-Digest: jUkHGpf9PYUQZlLVSoaiwSGRQrnap07B9fxmDnzd3TA=
+
+Name: net/anubis/client/module/impl/render/StorageEspModule.class
+SHA-256-Digest: zqNMZlezpFIc+IFA1Nik/kUkUEosyI1mIPiEpN+3brc=
+
+Name: net/anubis/client/module/impl/donutmacros/AutoTpaHereModule$Collec
+ tor.class
+SHA-256-Digest: b2etx8TvKjuV7JBgjbmxEvzD2daIKjwxQH/Zhtinwa0=
+
+Name: assets/anubis/textures/peep/hellboy.png
+SHA-256-Digest: Bo6ejbJ8YnwewBeKzN0+UB5R252iEZ1UM6oSRMHoRYI=
+
+Name: net/anubis/client/module/setting/BooleanSetting.class
+SHA-256-Digest: mNl+xk4gw0pySGNe1Mmcuu3caSYw+xRi94DkadLrn6E=
+
+Name: assets/anubis/textures/peep/anarchy.png
+SHA-256-Digest: KVa7dtxcrHDWKX985JkJgQCsvWzYcCbuAC8pu/lHMAI=
+
+Name: net/anubis/client/module/impl/render/KnifeModels.class
+SHA-256-Digest: pO1xWDNWCJWv64XEnd1Cc+QtHH1+5zs3sboSfGNdpHk=
+
+Name: net/anubis/client/module/impl/misc/AdvancedFinder$MissingVisitor.c
+ lass
+SHA-256-Digest: 0Hwt8MuNtn0r+Lemoi293o794gm5ITNV8MjrZJrCbOY=
+
+Name: net/anubis/client/module/impl/misc/BlockNotifierModule.class
+SHA-256-Digest: HxcTb4xbyeCmvH6LabMdc+UyAZxEV14An/wes7ZkfFA=
+
+Name: net/anubis/client/module/impl/movement/SpeedModule.class
+SHA-256-Digest: +WhlMwkiCs9ru9zfoZwqeEXZmInX9PeLFVy6yvuyb7A=
+
+Name: com/example/client/mixin/AccessorAtmosphereClientLevel.class
+SHA-256-Digest: GT8tge6ybFciVaU/RTnAc6RtZH3hAlSsDBugsIguSdc=
+
+Name: net/anubis/client/gui/DonutRegionMapData.class
+SHA-256-Digest: 0WAmSxYZd963jQEUWVCOIbkawMIC/lAqKNB8aHOPw/M=
+
+Name: assets/anubis/sounds.json
+SHA-256-Digest: /evmz/9md47ay4TvDgAPfoq/5vQ3LLacQAVX7u2Qp0M=
+
+Name: net/anubis/client/esp/EspStyle$Registrar.class
+SHA-256-Digest: Xb+lpB8vTPV5QipoUra/YKQz/4FeZE7JzVBipiM13/8=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Blotch.cl
+ ass
+SHA-256-Digest: FB2bKwwglLWlkBXV3udHwO6p3MJmbY5VhGjV3gP0fzI=
+
+Name: net/anubis/client/module/impl/donutmacros/Product$Enchant.class
+SHA-256-Digest: JtKtZelSHxDme/DLCACN16wR9WmWg2BNcO4DBoo4SzM=
+
+Name: net/anubis/client/util/spotify/LyricsDiskCache$Stored.class
+SHA-256-Digest: VPJvp+0i0yD0asmjFT1qm7f8HYmVIHTj9Ev1U2Lz4p8=
+
+Name: net/anubis/client/gui/CooldownTray.class
+SHA-256-Digest: +VPFzIEE4clH9xt1R6RsvULmV8xmnx5luyhxesBdsgA=
+
+Name: net/anubis/client/module/impl/movement/entitycontrol/EntityControl
+ VehicleHook.class
+SHA-256-Digest: fX6KPrM5s/U7gx/TCKB04sLsLRny/h/BhEPnAS2P2Nk=
+
+Name: net/anubis/client/module/impl/donutmacros/MacroWorker.class
+SHA-256-Digest: lkqQcBbFIxan83fUMCo1RNR/gMPdkdSt1Lj6c7Zvogk=
+
+Name: com/example/client/mixin/MixinSneakLocalPlayer.class
+SHA-256-Digest: NysMyAR4DPPyzKos7j6iYnMJbOo+kgwSGGCnJX+fXmY=
+
+Name: net/anubis/client/module/ModuleRevision.class
+SHA-256-Digest: NzdXevoDkiegAr3ET0eh3OhAnmKP00dodM7seUkUtfY=
+
+Name: com/example/client/mixin/MixinCustomFovGameRenderer.class
+SHA-256-Digest: Tu4WGbtm4LXAF/9Mee3MedkrI21mSO+sFjDdefzUfcA=
+
+Name: com/example/client/mixin/MixinSneakServerboundInteractPacket.class
+SHA-256-Digest: ElqhwzoojtvEzIXCq4zJNv36IZ+DbcKW18Urjj/GLN0=
+
+Name: net/anubis/client/gui/RegionMapRenderer.class
+SHA-256-Digest: XHgJwtHGt0pDcJcfmfGQJ22Xl0Kw3WQHkKWwXG4h8V4=
+
+Name: com/example/client/mixin/MixinHandsItemInHandRenderer.class
+SHA-256-Digest: UpiFWckZxmyjIbX0Q0qkF0Y5NrcpIsFpC1eaIFbVxMo=
+
+Name: net/anubis/client/util/seedscan/AdvancedScanner.class
+SHA-256-Digest: urib+RcfH+h9nMwSOwi6df7vnobUwqk6n82r+ryr9YQ=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Path.cl
+ ass
+SHA-256-Digest: 3jKcsTIBQ9pq4dyKCXk+NrnptFOyDUfUfWSRRxDtU6Y=
+
+Name: net/anubis/client/gui/mainmenu/DuskScene.class
+SHA-256-Digest: D9jVp1PPvkUun9ywjCU0VfXfwnqwxiGYmHJlK1aptXY=
+
+Name: net/anubis/client/module/impl/client/SpotifyHudModule$1.class
+SHA-256-Digest: /8KZNJJd1nTavVqFcy1ZqkaljqbZ4fMFauQ9afSxops=
+
+Name: net/anubis/client/module/impl/combat/CrystalAuraModule$Look.class
+SHA-256-Digest: cqQBGYJMaseAG1OPta5rx1ecUoHToVlPzdyz8x0NGCk=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/StreamOverlay.class
+SHA-256-Digest: 1JBEK4rWEuELGFEzBj08hJe1lxHJX9v/BCkW3dXOvwY=
+
+Name: com/example/client/mixin/AccessorMovementClientInput.class
+SHA-256-Digest: ohEPLq2oOaOTxAUX24Vejn6dgbF4wJEl8mi9O7uniYU=
+
+Name: net/anubis/client/module/impl/misc/StaffListModule$Presence.class
+SHA-256-Digest: sjh4Gxp0FQrtyJuHYD6z9CI21WFVVg1E4ZpXsFeeNKA=
+
+Name: net/anubis/client/module/impl/combat/crystal/Combo$Kind.class
+SHA-256-Digest: 0YJqW6w5XkZcxwwuWtVzSon4Rlm+XfKZnul6z6FA57A=
+
+Name: com/example/client/mixin/MixinFlyLocalPlayer.class
+SHA-256-Digest: v+nUJ1eK16G84YnYg+rZDDYBvq4aB+TT/Dr7pWFxy98=
+
+Name: net/anubis/client/util/spotify/NowPlaying$Status.class
+SHA-256-Digest: mQkWhPEWqFVfWw5Nt5hXYR89k4DiixKeZptdLAs0JqQ=
+
+Name: net/anubis/client/event/impl/BlockUpdateEvent.class
+SHA-256-Digest: ZAVKeCMRJzPIyqjGqXRg0R2sUJ0L1V2CDlGLY6OUTQo=
+
+Name: net/anubis/client/module/impl/client/SpotifyHudModule$TrackLyrics.
+ class
+SHA-256-Digest: ulNgWPa1POPDAxsDtA/sAWVXhchtFlkA73Y7Ql4tLf8=
+
+Name: net/anubis/client/module/impl/donutmacros/AutoTpaHereModule$Inflig
+ ht.class
+SHA-256-Digest: 5TfpctcaO9Un94ylsyz3pxc2VKJbLu+BRG2l3uhw3ho=
+
+Name: net/anubis/client/module/impl/render/character/kit/Rig.class
+SHA-256-Digest: u4dTnH4XhS1wSa85FuoF5Qjr6iXi1TWD3bqdg2b/KAo=
+
+Name: net/anubis/client/module/setting/ColorSetting.class
+SHA-256-Digest: OLuWYd9ztsjDRfASnx8Q6P1xTkyLXN9h18sJy71AeUA=
+
+Name: net/anubis/client/gui/GifAnimation.class
+SHA-256-Digest: PM8Qes3Stchwx7ZfrzpWRjMC71UGvyKEYklLac9Nk40=
+
+Name: net/anubis/client/module/impl/donutmacros/PanicPayModule.class
+SHA-256-Digest: etUGcxLAYGnx5jRiO7CU5ARY8Y1RHFSaBQNcJPAZ9+k=
+
+Name: net/anubis/client/gui/FileDialogs.class
+SHA-256-Digest: Xx/UNxGQGUfN/qiXKrZKeX6bkCVX1qFnQJEUcCOhY4Y=
+
+Name: net/anubis/client/module/impl/render/character/designs/Sakura.clas
+ s
+SHA-256-Digest: jUwAuIkb2ZBOXO2/UBx/z9TgGT2M1zc9L59715ouOYo=
+
+Name: com/example/client/mixin/MixinSpeedDeltaTrackerTimer.class
+SHA-256-Digest: Wfrc2dSfDYn//X7PnaB9ZhfirhzFcHRYeLViy+7eL0U=
+
+Name: com/example/client/mixin/MixinAtmosphereFogRenderer.class
+SHA-256-Digest: 6Mhfnl3dlC15BQT7YL7htEvAYTahlhAmJKWnwW55Hhw=
+
+Name: com/example/client/mixin/MixinNoInvLeakInventoryModel.class
+SHA-256-Digest: 9USgLU/PZy4b+jw7gwh/49FAV1SpvADt6udYcTvrrCQ=
+
+Name: net/anubis/client/module/impl/movement/BoatNoclipModule.class
+SHA-256-Digest: j7z6kjA+6UoumB5UvsnI/Ns/Udk3Ovpe8jOb/76AL6w=
+
+Name: assets/anubis/textures/gui/menu/bg_sun.png
+SHA-256-Digest: IeZrVHfxfLhkZdKDL4bDpz4LNHVc4cRfRUlxBgmv3wE=
+
+Name: net/anubis/client/util/spotify/LinuxSpotify.class
+SHA-256-Digest: XMikLABo5wYm68hHTlco2tnu2mZRXZbmVe/AzW/YwFc=
+
+Name: net/anubis/client/module/impl/misc/nameprotect/ProtectedText$Runs.
+ class
+SHA-256-Digest: XhJUd2pYJ8eJ2f+g4Cf5Ge/LyJWHi+Rd5JaeWfT1WoA=
+
+Name: META-INF/jars/fabric-resource-loader-v0-3.3.4+4fc5413f3e.jar
+SHA-256-Digest: HxAAk7Go+S9nLqwcpBLjCB1pBzUIf12hEIczj5+30/E=
+
+Name: com/example/client/mixin/MixinTranslationGuardSignEditScreen.class
+SHA-256-Digest: gcMnT++Iq74ZoSbyV2VtBLhqsJaJGMcFj96SBADl3tY=
+
+Name: net/anubis/client/util/antivanish/AntiVanishHeuristics.class
+SHA-256-Digest: 1jHw8U+thhy3Qrc1j7tGMcVxobTb+mFaNEMMfYIcl+Y=
+
+Name: net/anubis/client/module/impl/misc/FakeStats.class
+SHA-256-Digest: KqoK0WIyLlgUJsvfeB1a+CWXJctIWaGus0PJ1iGtpuw=
+
+Name: net/anubis/client/BuildConfig.class
+SHA-256-Digest: TcZobOLoKXoEZ4ei+7bodkL9KkQaSRj5Gpw+2/NxnKo=
+
+Name: net/anubis/client/security/TamperWindow.class
+SHA-256-Digest: W4m8EA4gLAv0r/9unu0zDswzbzzYgOOtEpima51TgqE=
+
+Name: net/anubis/client/event/EventType.class
+SHA-256-Digest: t6ZpTyMqY86HT4fkG2+wygs1kHr0OPf08lsX/NMPy2U=
+
+Name: net/anubis/client/module/impl/render/character/kit/CharacterModel.
+ class
+SHA-256-Digest: Lv/ZfTx/3uK5deIGIT23A2fEtHnR/XSdcsNC9EH9H94=
+
+Name: com/example/client/mixin/MixinCharacterPlayerModel.class
+SHA-256-Digest: WejmxRoA+Otpb4ECxiXv3/nYssGtZsYFQUaiT8YCsKo=
+
+Name: net/anubis/client/event/impl/TickEvent.class
+SHA-256-Digest: B+t6VytG0xCdPj5FwrpsRH2pj9w9ETuNSJVi8CYbtFs=
+
+Name: com/example/client/mixin/MixinSneakKeyboardInput.class
+SHA-256-Digest: NDByBa8ucDYTGUcd6X7IQzpcZ8MsM5uc9aQ4IET1pIc=
+
+Name: net/anubis/client/module/impl/render/character/kit/PartMesh.class
+SHA-256-Digest: 7PPU9JPFK9REHWy+bL49N9llNoz+6uW7eRbPuiDKfNw=
+
+Name: net/anubis/client/module/impl/render/PharaohMesh$Builder.class
+SHA-256-Digest: NpOKhUMRU6bLbdtPicBKhFEugjNOhi1MKFwq81R2DW8=
+
+Name: net/anubis/client/module/impl/render/TargetEspModule$Mark.class
+SHA-256-Digest: wcR2oZc6D//K8RaGJu0gKqSvpNTZrS7mmgNBiAmXgTg=
+
+Name: assets/anubis/icons/icon_64.png
+SHA-256-Digest: VziORWAyucwIH6Jmel0M1b0eoBLIXRDgnvDvIrnjtj0=
+
+Name: net/anubis/client/gui/AnubisTheme.class
+SHA-256-Digest: S8ezapSTpqLOzw9SbJ1gQu1BnUbYXKJeYeGwdlGUuyY=
+
+Name: net/anubis/client/module/impl/render/EspModule$Group.class
+SHA-256-Digest: vUtW8Qze5+0ub2Dy5GjlmplmFQQHyNkkrnC2MT9zQRw=
+
+Name: net/anubis/client/module/impl/render/character/kit/Surface.class
+SHA-256-Digest: aFdCf1JaDYxqtwOGnpr5CEapWoGkUu/ddccZuqJ8dVk=
+
+Name: net/anubis/client/event/CancellableEvent.class
+SHA-256-Digest: b6IcrZjCqJe9+uugNC6d4BtfUoPFm5ZDEOga7uiiMsw=
+
+Name: net/anubis/client/module/impl/render/PinkWater$Unseen.class
+SHA-256-Digest: DCe0sLuBaJhhEwXULdubHf6Vwbebcp9eUT0LDIhpMXs=
+
+Name: com/example/client/mixin/MixinKeyboardHandler.class
+SHA-256-Digest: 01uZ/lAVYkW6VOL2GgaNJjF8UuTn0Hr6mlY1FxTj6mQ=
+
+Name: net/anubis/client/module/impl/misc/DonutNoFallModule.class
+SHA-256-Digest: iEGI4szNiIP+eqbeO78mnVGKJvd1cVhgdbbEQVcG05M=
+
+Name: net/anubis/client/module/impl/misc/AutoEatModule.class
+SHA-256-Digest: I05/5ABD5BkDs6QkQjKJVBfTwsQgGDeGuA0kWaR21H0=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$RoundCon
+ e.class
+SHA-256-Digest: 0Jtr9AnGthHGrGs1TK3oYroZoGuUvylpeHOReQP/JCo=
+
+Name: net/anubis/client/util/staff/StaffMatcher.class
+SHA-256-Digest: GIq5N4dvn5P8yFviz854gBfULLENz4XwTFTO9oVJHS4=
+
+Name: net/anubis/client/gui/StaffGhost.class
+SHA-256-Digest: POPfF8IoJFozl7kK8qpp0e+QcOjWG+oZhJOXPY0RyCQ=
+
+Name: net/anubis/client/module/impl/combat/AnchorAuraModule$1.class
+SHA-256-Digest: C1zSdal9mC+wC8/X/MFxflRLp/7teZflqB9ljTaS+yA=
+
+Name: net/anubis/client/util/spotify/WinRt.class
+SHA-256-Digest: hiE0vTfiNZOudwIXZ5WOlh2xu+MxCdfZckr6YtWlQe4=
+
+Name: net/anubis/client/gui/ModuleListRows$TextWidth.class
+SHA-256-Digest: N8RtJeM6SC2mDTmD3aEPq3/xir5VU2+bo8s/w/zFgj8=
+
+Name: assets/anubis/textures/peep/cake.png
+SHA-256-Digest: 9t5/yNhAnyyT71H5iOguHDJxJ8AeSpU+zy9OhoZdTYc=
+
+Name: net/anubis/client/module/impl/render/ShaderEspPass$Nowhere.class
+SHA-256-Digest: 0eOXEYn7q8q6RTpTnbqpxXOXdeTcDiyijF1jcG5xpH8=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Heart.c
+ lass
+SHA-256-Digest: rNpH8GGIoel9SW7dGTp6CVE+MBoCgxKyeD3fKR4JC4U=
+
+Name: assets/anubis/textures/peep/heart.png
+SHA-256-Digest: bJ+jcqHwJdfe/1k8LWNVdY1Vwce+fMqfpWPQquA7WAE=
+
+Name: net/anubis/client/module/impl/movement/NoJumpDelayModule.class
+SHA-256-Digest: moFQd8nn42FezhcDgwVQWT1aFL54XBYTUuzo+GN4fR8=
+
+Name: assets/anubis/defaults/clickgui.json
+SHA-256-Digest: uNnVtis3eJI8rhV+7Y0bRrm+lZfWLfmOf5ZPjf05HhA=
+
+Name: net/anubis/client/event/impl/PacketSendEvent.class
+SHA-256-Digest: 3lPmdgo0Ika091rFSO1l+fV3443YH6Tu3LYYrkZt7ns=
+
+Name: net/anubis/launcher/InstallNotice.class
+SHA-256-Digest: xEFJSzg9nr6ZRcMB8BXLrb2THLcD/bFS+R6jWLoSjEU=
+
+Name: net/anubis/client/module/impl/misc/AntiTrapModule.class
+SHA-256-Digest: JcC79Ah40mG3tQo0fgeYmMxbfgB0K5TnASkYGXhGGeU=
+
+Name: net/anubis/client/module/impl/misc/FakeStats$Hit.class
+SHA-256-Digest: kYjCw5i5qTCFlRobMhNafLYCCoMVz9QFiFNSbumScxY=
+
+Name: com/example/client/mixin/MixinDuskBackdropScreen.class
+SHA-256-Digest: 4JVOHs0qhH0Iw01J/RUA8s5FqFdIIMdYjg20fjxp2O8=
+
+Name: net/anubis/client/module/impl/render/character/CharacterJoints$1.c
+ lass
+SHA-256-Digest: DJM+wCtMIOgE6OeAFqtsJFZR1wC0J4vZhs326xNrilo=
+
+Name: net/anubis/client/module/impl/donutmacros/TpMacroModule.class
+SHA-256-Digest: aF30pFCicdReljT0rxg+pOJ2V/FHVI3/HC0wL068JhI=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Custom.
+ class
+SHA-256-Digest: aJIsvpgnAejHWsQXrIn3AIWbr4oaz42ptD8ncINqESM=
+
+Name: net/anubis/client/util/playerbypass2/SimulationSignals$ChunkSignal
+ .class
+SHA-256-Digest: CtS3gcE4H3kkeavcb53yf8J8WfAG59AMJeS0gFpJnJM=
+
+Name: net/anubis/client/module/ModuleList$1.class
+SHA-256-Digest: dF4QxGThpKHwt+2BgESWJZmDjIq4HH5WL6KFBPwgRX8=
+
+Name: net/anubis/client/module/impl/combat/crystal/HurtClock.class
+SHA-256-Digest: eE622sbAisS8jDXUHMGkiTl7G1EgQj0qExQOPPfnjXE=
+
+Name: net/anubis/client/util/staff/StaffAlarm.class
+SHA-256-Digest: khmXUgQRqsS/9N9eb2x7IG+h933bAOhSe7PWCqxAmSM=
+
+Name: net/anubis/client/util/ItemEnchants.class
+SHA-256-Digest: cRTgssZyksz+N8fF0WUmY9/ag8UlDt8BG58kVa56WB0=
+
+Name: net/anubis/client/module/impl/client/HudModule$ArmorWear.class
+SHA-256-Digest: HdlqjG0XeF8XLI31dnETvJGp1uoMfUis0evdSSld1Bg=
+
+Name: net/anubis/client/module/impl/render/PharaohHeaddressModule.class
+SHA-256-Digest: IRnouQoZes/Yv7C4nd8/sSbpbvwGJV84UhOl5daHZ+I=
+
+Name: net/anubis/client/module/impl/render/SkyLyrics$Shown.class
+SHA-256-Digest: +I2aemInowOqhx96bNitWUSkupggxvhjy4HIIhir2Ps=
+
+Name: net/anubis/client/gui/SurfaceBackground.class
+SHA-256-Digest: 9+U9PiUMNQdSAFSXPGl3wuX+EU5IxkGwjjy/XlZ2DDE=
+
+Name: net/anubis/client/module/impl/render/SkyEmoji$Match.class
+SHA-256-Digest: BErRmLeg5racdBwFClqf44UpVAEoQVohTbtdw7cNf0o=
+
+Name: net/anubis/client/config/BundledDefaults.class
+SHA-256-Digest: nZGYu+p/o1dtmu/xoBqyXNjSrpTYEtcVX9XI6sjo4tE=
+
+Name: assets/anubis/shaders/core/hand_aura.fsh
+SHA-256-Digest: HS06BfN57u451xV5iU4Tl2Ygz/H8sookE5eBkfnFN6M=
+
+Name: net/anubis/client/module/impl/donutmacros/OrderDropperModule.class
+SHA-256-Digest: 8uucq3KG8yTal5S7As3MCNRqxoLf4sdrqFjhqg5phlw=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/FakeLoadout.class
+SHA-256-Digest: ZVw4+zI9t+EwBLaTinIpshA8+sKcbzNzSHY0Xuqvq64=
+
+Name: net/anubis/client/module/impl/combat/KeyThrowModule.class
+SHA-256-Digest: +a+IebQMXr4xr2Esr0IhsG9SqFiGlyzQF1JAC5o7z6U=
+
+Name: net/anubis/client/gui/HudChrome.class
+SHA-256-Digest: wmJnoxJacCKiWWv2FGH9WNnVJ/lvSnNUr6FvudKnYko=
+
+Name: com/example/client/mixin/AccessorLocalPlayer.class
+SHA-256-Digest: X8kbiytqdVJTgA2e69kikq6eo17caTJ8MSltm3VmNXg=
+
+Name: com/example/client/mixin/AccessorCreativeSlotWrapper.class
+SHA-256-Digest: Mqe7CUjqxYzDUkw1gn4wsZrt1wTpXMl84v9MFuxEKU8=
+
+Name: net/anubis/client/gui/ThemeTint.class
+SHA-256-Digest: a09vwCt3F8kkUbtbPma3V7cOFC8g8UHVnuT+NPC0WIg=
+
+Name: net/anubis/client/config/FriendStore.class
+SHA-256-Digest: qCiX7tOkdGo4HzWHgUv6BhqVP7d6xCWMcI0fvNSNk8M=
+
+Name: net/anubis/client/gui/mainmenu/CreditsPopup.class
+SHA-256-Digest: auAEa9RQCLx65xVyD7B2L3vFRyboNA4GbiJBlnPeMiU=
+
+Name: net/anubis/client/module/impl/misc/NoInvLeakModule.class
+SHA-256-Digest: 1pU8LJZ+dDljzxq+lDKO85yPcInyvhKR3S+OivEqZXU=
+
+Name: net/anubis/client/module/setting/Setting.class
+SHA-256-Digest: IyDJWonptikEgjWVIjJFoRR0ejA+uPr4McB/do9uzvw=
+
+Name: net/anubis/client/config/ConfigProfiles$Header.class
+SHA-256-Digest: /tXpX1I/RlCMSye3XIr+pCAvZjX6SlnGTgxLLvtjBPk=
+
+Name: net/anubis/client/module/impl/render/character/CharacterJoints.cla
+ ss
+SHA-256-Digest: 7wutGc8Cpw+QGsze7PG+gqzX6rUg06eTdWwUc1cZyHo=
+
+Name: net/anubis/client/config/ProfileException.class
+SHA-256-Digest: DmzQU0K1JGpZ+vFxqE5+dSNTWQkkx7wjoe117BG39F4=
+
+Name: net/anubis/client/module/impl/client/RadarModule.class
+SHA-256-Digest: /JuQmc0FXkse2/WrLmoM6ztGIwo/ZHv1T/dY0rbyuNU=
+
+Name: net/anubis/client/module/impl/render/SusChunkFinderModule$GeodeClu
+ ster.class
+SHA-256-Digest: bBhA6w3D3ChyHRwkt4NoxTM2EGZVlnSrFOa038yZsfM=
+
+Name: net/anubis/client/module/impl/misc/NetheriteVisuals$Section.class
+SHA-256-Digest: zX+34J2xkz8sjIHbeFg59579I7phsta11+KYyaZXeV0=
+
+Name: net/anubis/client/module/impl/combat/AimAssistModule.class
+SHA-256-Digest: fLTlbu/CwnYreez/Vcq1ODXtsWvhvaajCRIDYchPHQ0=
+
+Name: net/anubis/client/discord/DiscordIpc$WindowsPipe.class
+SHA-256-Digest: G8COfhsLkzl/2ApqDA3HYI9KJtKU0BbQzV7lpi51AV4=
+
+Name: net/anubis/client/module/impl/render/character/CharacterTexture.cl
+ ass
+SHA-256-Digest: j4SCcU+p8/tqiSEnGdoB83RB41tsgIe6sLNn0emy63Q=
+
+Name: net/anubis/client/util/playerbypass/RtpReply$Kind.class
+SHA-256-Digest: AdNHEUrbIcBgKXLO+s5MqEpdbEKLpZi43LK0bj98Gj4=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Polygon
+ .class
+SHA-256-Digest: 7oqJODpFF+TrTtSwDxM02b1+tX6PDUdPOMN90xAI0Nk=
+
+Name: net/anubis/client/module/impl/donutmacros/SniperBot$Sort.class
+SHA-256-Digest: XFrGsrturEGBmRpHk50I71L5QJmx3RDUAFQMEdESPME=
+
+Name: net/anubis/client/module/impl/misc/nameprotect/ProtectedText$Piece
+ s.class
+SHA-256-Digest: hc5AXCnwzzHVOYW++meyIUU1DrputSUhY+wCtN0KLIE=
+
+Name: net/anubis/client/util/spotify/MacSpotify.class
+SHA-256-Digest: pVaC1bQK2KCM+G8sCbOZevoDhG7mSxW42RrXKHguRiQ=
+
+Name: net/anubis/client/module/impl/combat/AutoInvTotemModule$Step.class
+SHA-256-Digest: Ai9ixJ05NNcpVfBk1/cgWXriF0w206oxhJMM+qE8Xes=
+
+Name: net/anubis/client/util/seedscan/DecorationOrder.class
+SHA-256-Digest: TvASwBo1l8jrG4CO6HiwAMREuHqgaQV/lBpuUj8PUW8=
+
+Name: net/anubis/client/gui/PanelStateStore.class
+SHA-256-Digest: rFTpvjZADSe20u/QYv1sz4zyK6UX1oMGTBjK5H0GVVw=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$Signal.class
+SHA-256-Digest: WvmzcBZQ1xwoPwuyJNa6r8XeQCYKT8QJ+9QwcxhXv08=
+
+Name: net/anubis/client/module/impl/render/character/designs/Tralalero.c
+ lass
+SHA-256-Digest: 2CLyezEOwxEEld2d38ikaX+Ej086jnXX3ewMJtBvnt8=
+
+Name: net/anubis/client/input/AnubisKeyPolling.class
+SHA-256-Digest: y+HAySvEEOfIIW2UwLE8YyxM3JmJQgKLCVEpIx4hr40=
+
+Name: assets/anubis/icons/icon_128.png
+SHA-256-Digest: q8jjs/atQUDRtjVLCut8if6fX0BXRWheuFnstb8Y1vg=
+
+Name: net/anubis/client/module/impl/render/SkyEmoji.class
+SHA-256-Digest: 2P3fgI5QWH3nhAsZYOV3WiE1VB8Df3CmCjjDXQ0Jjig=
+
+Name: net/anubis/client/util/spotify/ScriptedPlayer$Command.class
+SHA-256-Digest: xxdXS4WYR8Z1ww06dKoavg8viQ2CVxfmVJWkrUMDnss=
+
+Name: assets/anubis/textures/gui/head.png
+SHA-256-Digest: bOsUa6/84xycIOcZk06Hhy65u2vEonquIhoQz3bsTBU=
+
+Name: net/anubis/client/discord/DiscordIpc$RefusedException.class
+SHA-256-Digest: 481jTL6r4ppBMt7FuqA5o44Ig/znCWV4s8v+aKc+D4A=
+
+Name: net/anubis/client/module/impl/combat/crystal/Combo$Shot.class
+SHA-256-Digest: mBLiCcRy7nW5+X51uIuUdtcg0+NwFG3h02kL8SN/zgY=
+
+Name: net/anubis/client/module/impl/render/ChunkScannerModule$ScanConfig
+ .class
+SHA-256-Digest: NUDnRgcxSm637920Vna+F0KwvbuwjY6smv5or8Ty9jM=
+
+Name: com/example/client/mixin/MixinTranslationGuardClientLanguage.class
+SHA-256-Digest: i6PS0EX73zuEJkicbFoBA7WU2ZECqmsvYP5YToeQrjI=
+
+Name: net/anubis/client/addon/AddonManager.class
+SHA-256-Digest: Uph5HwYiHSUXtk/UiJpqoaeSVRLr0tr/otqNdprfMYM=
+
+Name: com/example/client/mixin/AccessorBoatFlyServerboundMoveVehiclePack
+ et.class
+SHA-256-Digest: T3IdRC+xJZHx/Rz4DsTn7upl1vDyeEb9OF9K0iCRRMY=
+
+Name: com/example/client/mixin/MixinCharacterAvatarRenderer.class
+SHA-256-Digest: LtU8f6AY4W1+ckNGQJfuc3UC4WkNMJlvlo3f/E9SoI8=
+
+Name: net/anubis/client/addon/MenuPanels.class
+SHA-256-Digest: nNw+7WiUDKUI1HReZkB1/sBpx1iQZ9qnZfgOpSUhvcE=
+
+Name: com/example/client/mixin/MixinHandAuraItemInHandRenderer.class
+SHA-256-Digest: xDh16Bq6m4bWWBtNcMAqKfVUTIR613uepPDyTFIVLvE=
+
+Name: net/anubis/client/gui/ToggleToasts$Toggle.class
+SHA-256-Digest: cVGShmWC9wBn4/M2u5DfyjkDpClCpuQDvw/sbmwREO8=
+
+Name: com/example/client/mixin/MixinShaderEspLevelRenderer.class
+SHA-256-Digest: aK4wR/l6AqmIbpEWslY4HUIT0KZHWIGtMDuvEsf68AE=
+
+Name: net/anubis/client/module/impl/render/XrayModule$Snapshot.class
+SHA-256-Digest: EPkBvqUDbNVYnSW+xDpIy7OVds0mIr84HjSVl9LeNHc=
+
+Name: net/anubis/client/util/spotify/WinRt$WinRtException.class
+SHA-256-Digest: SAznwhjhKlJ1n1QcsV7ZYjctP/Y0dNijSAoE+7rwygM=
+
+Name: net/anubis/client/addon/MenuPanels$Panel.class
+SHA-256-Digest: uC9DPLA0Hk+e446vXzV2VNkIBoJlCfbYhHVc0W+Sy3Y=
+
+Name: net/anubis/client/security/PayGuard$Allowance.class
+SHA-256-Digest: kVdo7s+G2zjBO0IAzMPuzWJXbX7sYBMFBwF35R2jjtg=
+
+Name: net/anubis/client/webhook/WebhookConfig.class
+SHA-256-Digest: DxDnhbHsPXzjGbgPStznUyvVhs/moNwz50SlfBxFkEk=
+
+Name: assets/anubis/textures/sky_emoji/kiss.png
+SHA-256-Digest: YU1YPewlL/zoCLGtBCT77goT41IiRazg8gjtE0GKNJ4=
+
+Name: net/anubis/client/module/impl/render/BetterSusChunkModule$Source.c
+ lass
+SHA-256-Digest: N9VTiJV2m3VsoNOCSJFIKPeQNemsgpezvtLmGcRMgXA=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Intersec
+ t.class
+SHA-256-Digest: XTtjedMgMeMwH7OnZc39rEPiYHnfahsVVWQPptbQW9k=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Union.c
+ lass
+SHA-256-Digest: bS8PVQgDASsEdbaFjEFAWT+Q3Ll5ULAcDd0iOYaC+Pc=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape.class
+SHA-256-Digest: MPEqhaA4CAYCJRIS/5pY/dWNNaJUZPShNXVgRAeywfc=
+
+Name: net/anubis/client/gui/mainmenu/DuskWidgets$Anim.class
+SHA-256-Digest: KSJ5JambPDQvPHcrMCWpGgLMggHvVQnERed1qzgxBhg=
+
+Name: net/anubis/client/module/impl/render/PinkWater$Design.class
+SHA-256-Digest: RKnFuyYOAePLD9SwgWnZwqn5yk6qQl/jMg3MB6NAZT0=
+
+Name: net/anubis/client/module/impl/combat/AutoCityModule.class
+SHA-256-Digest: aCeYB562CmN1QseoBD+Podb3G8aRPmCQhG0LUZ+si28=
+
+Name: net/anubis/client/module/impl/misc/SpawnerProtectModule$State.clas
+ s
+SHA-256-Digest: n7HceZEybDEj/rA7s0X7ZvDDwmwWR//bRVaHfAUiU2A=
+
+Name: net/anubis/client/module/impl/render/character/kit/SurfaceNets.cla
+ ss
+SHA-256-Digest: 8y/xUIFibkW/oSrGC3eCVGODffem1KSGbsZP3ioE2TA=
+
+Name: net/anubis/client/module/impl/client/PerformanceModule.class
+SHA-256-Digest: 8icI4WVeHDSbQARSAQcdnxfVLRlxk7WWa6aHAFBvS9Q=
+
+Name: net/anubis/client/gui/ProfileList$1.class
+SHA-256-Digest: CYo5gy1OSOjNoXw2Dyk4a+Fw52IxgrRFAYgzgYF2t7Q=
+
+Name: net/anubis/client/module/impl/render/AtmosphereSky.class
+SHA-256-Digest: 9W4Iv/DIhnsMk9EZBiGcbI70sQziWFN6wIaXhBWsK0Q=
+
+Name: net/anubis/client/util/spotify/LyricsDiskCache.class
+SHA-256-Digest: NZbTdQ3JK2SqcTCYgj2sssrd7rB0mcCQzE8r9XGl5hA=
+
+Name: net/anubis/client/module/impl/donutmacros/PanicPayModule$Payment.c
+ lass
+SHA-256-Digest: qqRVmedcpXTokiVi7j0XxWjHaQRWsd9oSCuQE47Lstw=
+
+Name: net/anubis/client/module/impl/donutmacros/AutoSellModule.class
+SHA-256-Digest: yRhShsNUPGBh76Y1rVxCSGOcISmiivmqjOm8VITuD70=
+
+Name: net/anubis/client/module/impl/render/character/kit/Noise.class
+SHA-256-Digest: a8/mY1pkgq8G35Ge14Qe4BTZ+gbcZXwbNGaSBCq7ZTc=
+
+Name: net/anubis/client/module/impl/client/SpotifyHudModule$LyricHighlig
+ ht.class
+SHA-256-Digest: fFx/FZFTJJmtjFoIR0SxfJRXvGyRqdf6w4ecWCnetHc=
+
+Name: assets/anubis/items/glint_head.json
+SHA-256-Digest: Jlkwtc+VI0/uI0IeMQLydbHMSx3pAOQ4Wik5HeksVuY=
+
+Name: net/anubis/client/gui/ToggleToasts$1.class
+SHA-256-Digest: WVppg5g750LHJxGSF6Zk70XnoBtg9fGnrYzXB8+Q/Tc=
+
+Name: assets/anubis/textures/sky_emoji/fire.png
+SHA-256-Digest: NdXo1kR7QIaveH+sxf4S4eLK5regspZzCYkhJDe4g9Q=
+
+Name: net/anubis/client/module/impl/render/character/kit/BakedModel.clas
+ s
+SHA-256-Digest: SMVKnrZI0Lp3D9+pSwus6nrg8154Y56j1YUNGfvGXmg=
+
+Name: net/anubis/client/module/impl/donutmacros/AutoTpaHereModule$Near.c
+ lass
+SHA-256-Digest: KcLXzozffl8KKkF8NH728ZvyIJXKcqC53Wkg7hl+uI4=
+
+Name: net/anubis/client/module/impl/render/NametagsModule.class
+SHA-256-Digest: JMG1twZjdW5OsXS9rDVdS2LkAVzts3euM2BH3+UATvY=
+
+Name: net/anubis/client/module/impl/render/RelicParticlesModule.class
+SHA-256-Digest: bdEa+wzcjHZHryenEWGJhWSg9Y3iRkVK+DgBJ45UmCY=
+
+Name: META-INF/jars/fabric-resource-loader-v1-1.0.10+78c8b4663e.jar
+SHA-256-Digest: aaU07JSDXp5qR87DBb/ow5wswKx3Mj2LKKfE4GGUm+s=
+
+Name: net/anubis/client/module/impl/render/BlockOverlayModule.class
+SHA-256-Digest: mtLkUAGi0swOpZ3Akfx4yGXmPfGBfzPqYVo2+w+DuLk=
+
+Name: net/anubis/client/module/impl/render/SkyTexture.class
+SHA-256-Digest: PrmbocjP7k2xvcr4N+P2B3OKPhMlcdKyG7MaHSMwiPA=
+
+Name: net/anubis/client/module/impl/donutmacros/SnipeTarget$Preset.class
+SHA-256-Digest: 3R23Hyos7I+1SeqLeSFmDz18fiYigbbV6c8fJFvLoVk=
+
+Name: net/anubis/client/module/impl/movement/SpiderModule.class
+SHA-256-Digest: btx9FFzdt8WPZ3pniQD+UI/NSY8UP+3ZVbQ2DKaEwQ0=
+
+Name: META-INF/jars/imgui-java-lwjgl3-1.90.0.jar
+SHA-256-Digest: sOlFNBWBhdE3PO55QsIdGzzg+3QtnMSq6sRZ748MrSs=
+
+Name: com/example/client/mixin/MixinWindow.class
+SHA-256-Digest: D3r23gHitAaIJPEtd4L9PKXXuwLzJToeodmOJqao1fg=
+
+Name: net/anubis/client/util/seedscan/SeedWorldgen$1.class
+SHA-256-Digest: +X2B8jynrL7SgR6JCoIxebZ2El+HP9yB0yvxqFmCtUE=
+
+Name: net/anubis/client/util/seedscan/OreSim.class
+SHA-256-Digest: QXRtXUPXWuloFQov2qw3lyxhGMdQOaHWRVEQiV1/bM0=
+
+Name: anubis.mixins.json
+SHA-256-Digest: dbmYA4GtUer9zBQ/B+4GbwFlMcX3xK0AAjEXUCWZqHs=
+
+Name: net/anubis/client/util/netherite/NetheriteChunkTracker$CandidateLi
+ stener.class
+SHA-256-Digest: KxL3IJVlz1/c96P44zDYuHeCZ+1syEvCEq1NuhBYBlc=
+
+Name: net/anubis/client/util/TracerEngine.class
+SHA-256-Digest: 2Y1XetAPDZ/wMrgrvS24TdlJVPRvd/wALEHlAHx4c5Y=
+
+Name: net/anubis/client/module/impl/movement/elytrafly/BounceMode.class
+SHA-256-Digest: bwp/Fw137siJiXTL+DKVwHEHPzZXcXIpL9AkOwc0q/c=
+
+Name: net/anubis/client/module/ModuleProvider.class
+SHA-256-Digest: HbXdfNLvl7/OSB88jgaHMudwOPnTEsECC9PcX+2EOfA=
+
+Name: net/anubis/client/util/spotify/Lyrics$Status.class
+SHA-256-Digest: IdtH3BGHY6XA9mTP/szRfl6seoXUDDZSj3IPrGvkAyo=
+
+Name: net/anubis/client/util/AmethystLight$LightCache.class
+SHA-256-Digest: 5DSubvqkL4hh6c0li/vpJ/IeL/VsYin72l/NUUL74i0=
+
+Name: assets/anubis/characters/neighbor.anc
+SHA-256-Digest: kvEk6sM0bnqAXSG2iE1DjRKmoJ55aVsFwrjQUZgPTd4=
+
+Name: net/anubis/client/module/impl/render/character/kit/CharacterBuilde
+ r$Shaded.class
+SHA-256-Digest: ISvAxgqVwkTXADjHUWYZa1vv4aUB/+KX11/UbFgqeJQ=
+
+Name: net/anubis/client/esp/ChunkScanner$Consumer.class
+SHA-256-Digest: 3YsBmuO0z0L5kew9hkZfDeXC0XH0gE0BuM/kBYKTT6Y=
+
+Name: net/anubis/client/module/impl/render/character/kit/BakedDesign.cla
+ ss
+SHA-256-Digest: RfSFhvvFegtEnuRLlCT8tl0g8jMD2Vci2Nv95wHM/g4=
+
+Name: net/anubis/client/util/seedscan/OrePredictor$Inputs.class
+SHA-256-Digest: q/uw2FlfA84Qay5f6nIlXmoxoRrYqG8j+fd7A4+yjmU=
+
+Name: net/anubis/client/module/impl/combat/KillAuraModule.class
+SHA-256-Digest: BWv1G/B9weDP2ztdqzZzkGp7H6IwYazCfQxE1CtPcs0=
+
+Name: META-INF/jars/imgui-java-natives-windows-1.90.0.jar
+SHA-256-Digest: SohyMb1QE0o/MTAlhplW/TUq2u0FxLjqY7iOB0eid80=
+
+Name: net/anubis/client/gui/HudRenderer$Snap.class
+SHA-256-Digest: 49Ywlu5EMcomtmnmNLncMLmxqOJHcNDwoiApNuUYSYU=
+
+Name: net/anubis/client/security/PayGuard.class
+SHA-256-Digest: rDOyLfr4MuiUiwBtHUqy5TRrUz72FNSsAEyBvjQosNQ=
+
+Name: net/anubis/client/module/impl/client/SpotifyHudModule$SkyEmojiStyl
+ e.class
+SHA-256-Digest: ndNaAE14h6F1YjKO7FU60zTLeStPT1O1s/VTgbxZGlE=
+
+Name: net/anubis/client/module/impl/render/AtmosphereModule.class
+SHA-256-Digest: 9S7igFnKjUONq+UyQMfOos7n43hQUjRsAYvYEVcTVtU=
+
+Name: net/anubis/client/module/impl/misc/SpeedMineModule.class
+SHA-256-Digest: LBf2UUO1CpqjH61OkyxQ7hxacMkNidK5bsYjW15i/xY=
+
+Name: net/anubis/client/gui/HudRenderer$Type.class
+SHA-256-Digest: lZhyuDHPups22O68UZVlkxJpI7UKA9SW13545yrIiWA=
+
+Name: net/anubis/client/util/playerbypass2/SimulationSignals.class
+SHA-256-Digest: jCwXpQNAek5KjNr9u8Iie09jIgJMOe17UiV+uvWFm/o=
+
+Name: net/anubis/client/module/impl/render/EspModule.class
+SHA-256-Digest: Wx3WtH729S3VZOVM2PwhxyV5uhxNgWz4vZThImbpfgk=
+
+Name: net/anubis/client/util/playerbypass/AutoRtpLoop.class
+SHA-256-Digest: D7b5grUuazKKa3mmDiBnQXuVkbTt29GKU8KjkeokaIg=
+
+Name: com/example/client/mixin/MixinMouseHandler.class
+SHA-256-Digest: IrxUoBwkndjU8lUyoV+ca3nX8hsHhvPC3nW+mH8QG5M=
+
+Name: net/anubis/client/gui/mainmenu/DuskWidgets$Dialog.class
+SHA-256-Digest: W9JSXkyExR5SUjYhocPuLDg9Rx59otCftsX48mjLWLw=
+
+Name: net/anubis/client/util/spotify/SyncedLyrics.class
+SHA-256-Digest: OwNYeU1yg03rFyO/YWr3LFE+FE4ujOxtqS6+AuwP6XA=
+
+Name: net/anubis/client/module/StableId.class
+SHA-256-Digest: aO7MTgskQ6Xvmdiwu8RH5K+euQIvgcgoDHzVzGtm3Co=
+
+Name: net/anubis/client/gui/mainmenu/CommunityPopup.class
+SHA-256-Digest: RGb66wrHVbP4dyDKpxw/IC6jMcV+611IumWrZ0nHCs8=
+
+Name: net/anubis/client/util/BlockEntityLeakTracker.class
+SHA-256-Digest: Pe2XkHId/ANm4EeO61ucWBcMkpaokZP5BbQUCy25/c0=
+
+Name: net/anubis/client/util/playerbypass/PlayerBypassLightTracker.class
+SHA-256-Digest: mHDRgO/MTQhiLNdkIYH3zwudWKkUcSao3y9PvLNwZ3g=
+
+Name: net/anubis/client/module/impl/render/character/kit/Sample.class
+SHA-256-Digest: k2uve7DNh30rv45txTXfk/3CI3wgj7i1M7Syp1VfCec=
+
+Name: net/anubis/client/gui/HudRenderer$SpotifyLook.class
+SHA-256-Digest: 8mXg2Tr1+SeAXkhY6cBPE13NQNxRttqZ9m2E/zycvbA=
+
+Name: net/anubis/client/util/TranslationGuard.class
+SHA-256-Digest: yUk3sY3h2oBc1kXsP16KxHFBCScOo/MiFemtt8HhF0I=
+
+Name: com/example/client/mixin/MixinLocalPlayer.class
+SHA-256-Digest: Y+vJwVyNQJynDij+jKYG6tL5hCCWC4/ne5xzu1DglZc=
+
+Name: net/anubis/client/module/impl/misc/nameprotect/AliasPolicy.class
+SHA-256-Digest: tGwLyq3D7nzwHj6aDvcSqFWZqe+KagpmBp0f5rj1CJQ=
+
+Name: net/anubis/client/module/impl/movement/EntityControlModule.class
+SHA-256-Digest: /i18XfkqpeZ4ud2ZMAEpbwbHYOSx0in0/Fy8eGPb3wA=
+
+Name: net/anubis/client/module/impl/combat/crystal/CrystalDamage$Victim.
+ class
+SHA-256-Digest: 0toFDyddmvoCVifSCAzLLsVvd5cNSvyGPRcgvW3kHYc=
+
+Name: net/anubis/client/module/impl/render/HandAuraPass.class
+SHA-256-Digest: zKKWIih4ZV/q+NZwz5SC1bEBFFRwrfNRtM6vgdy2tqA=
+
+Name: net/anubis/client/module/setting/KeySetting.class
+SHA-256-Digest: 7zurEiewsZ3s10TV90c0tSHtvPcuAYR05vd8gp4W9LE=
+
+Name: net/anubis/client/module/ModuleCategory$Icon.class
+SHA-256-Digest: l6dzFWsyun6wwsjSJoWjD0dgdbvtFnNkznG+fDeS82M=
+
+Name: net/anubis/client/module/impl/combat/AnchorAuraModule.class
+SHA-256-Digest: KA5XWk+GkH4KjUZE9cZ8OCxYvpP/Aifv6Zq2HsDzD2c=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Flip.cl
+ ass
+SHA-256-Digest: D1OGhl8Yv4z1spKYW1Tje5C49vm9Gos9U8oLjRTH4WA=
+
+Name: com/example/client/mixin/MixinPinkWaterBiome.class
+SHA-256-Digest: ex/GAct1JKZO2lLbEcrsn1rx1rtX0tbTFLnQtIUJUAw=
+
+Name: net/anubis/client/module/impl/render/TrajectoriesModule$Aim.class
+SHA-256-Digest: NqCW/o8w03FJEm1+rnBVFGvmEXoBrNxjdyv8Me+BBF0=
+
+Name: net/anubis/client/gui/TargetCard.class
+SHA-256-Digest: VE8pGheQFZMa9GR8YLlYXkpBie7r9MytWt4rV+Vy/GQ=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Extrude.
+ class
+SHA-256-Digest: NE9QoUCTsP/qJZ0san0IZGBLIRQdhcvQ7d60rZtbmWc=
+
+Name: com/example/client/mixin/MixinLightTexture.class
+SHA-256-Digest: zNzSI19aODEbm69bI7QhI5wDseV8D+DZ0wzxq9wfhCE=
+
+Name: net/anubis/client/module/impl/client/HotkeysModule.class
+SHA-256-Digest: SmT1MAbwistJ2oWdDIMldsGkUTdZxpgIVVZLiKtry+Q=
+
+Name: anubis.indigo.mixins.json
+SHA-256-Digest: MsERyNQz/Zd5sWF5KEZMO7sw07X1qaVsOQYWMCClap0=
+
+Name: net/anubis/client/gui/WorldLabel.class
+SHA-256-Digest: PegCuwzJIaDWKZ2cLKy1hYWK2ka0aL+svvanzqnkopI=
+
+Name: net/anubis/client/event/impl/KeyInputEvent.class
+SHA-256-Digest: C5LEj0eGql5glccYDBqclEgVFqR9PtNC4YlAxSuVfnY=
+
+Name: net/anubis/client/gui/BlockListEditor.class
+SHA-256-Digest: oMLe7SH0kf/G3Y4rn4AY+Hw4/VHU707jcl1It24c1Wc=
+
+Name: net/anubis/client/gui/HudLayoutStore$Dimensions.class
+SHA-256-Digest: 5zb6DGRYNTDCwuty4/9bUuUC+SWX51WOFcYoNJzVCZw=
+
+Name: net/anubis/client/module/impl/donutmacros/SniperBot$Purchase.class
+SHA-256-Digest: 7Mdl+wIkGCdZI8WUsPx88qGzd18nSbjgCuOFrClOndw=
+
+Name: net/anubis/client/module/impl/render/TrajectoriesModule.class
+SHA-256-Digest: RST25BrLWZNMUyu98lrTPXxQe7h+cL9VsSQ1lnzoZTs=
+
+Name: net/anubis/client/module/impl/misc/AdvancedFinder.class
+SHA-256-Digest: yBCwaESsexLsmtvTZrzzMq5369e0nqhkyoddE+bbvOY=
+
+Name: net/anubis/client/gui/HudRenderer$CoordRow.class
+SHA-256-Digest: sD8xMLtA4hnlo8cPZhyXrJccOUKFFgvsFkwLmvT9JBo=
+
+Name: net/anubis/client/module/impl/misc/SpamModule.class
+SHA-256-Digest: 4vUpIWfkwm611Q89Xx/v7Cm9Yt+u1c6ejQdoyTJdou0=
+
+Name: net/anubis/client/module/impl/render/character/kit/BakedDesign$Sou
+ rce.class
+SHA-256-Digest: qKEmE5tFiyV2CYeSq73+Sutdr38Mw5hEDWshzZlGKSE=
+
+Name: net/anubis/client/gui/mainmenu/DuskMenu$Layout.class
+SHA-256-Digest: qiM3a//jAq4SMfKHMSiQGNlr90gQDp7OXsq4dzfEdYg=
+
+Name: net/anubis/client/util/netherite/NetheriteChunkTracker$RevealListe
+ ner.class
+SHA-256-Digest: 6HJAuDE7/fsIzT8yUEuid/MKGOKMr7PZDRYAn7Gqq+0=
+
+Name: net/anubis/client/util/Ballistics$Outcome.class
+SHA-256-Digest: D5ZIdfcbm2Y7qmeD/rzt4dGYGwRkCPkDULV/enEzCNI=
+
+Name: net/anubis/client/gui/ImageDownsampler.class
+SHA-256-Digest: cp+RAmW9of8ZhPJD6Ua2tHDfe1cuh9+Ehj5V8Gx0Xf0=
+
+Name: net/anubis/client/module/impl/render/KnifeSkin.class
+SHA-256-Digest: AlGCPt+2uyUECcDSWeOoJoTccnAWSAayTao8LJL+zPk=
+
+Name: net/anubis/client/module/impl/render/character/kit/Surface$Builder
+ .class
+SHA-256-Digest: c0kvW90rxjwZXKsYtg36qWlNkJWKOqOD2xjf2C3YTaU=
+
+Name: net/anubis/client/util/seedscan/TerrainChunk.class
+SHA-256-Digest: APUCEVXwhEAu7oPgkAbFx8cw/WKmr6ZiYuXtOHizwEQ=
+
+Name: net/anubis/client/gui/mainmenu/MenuIcons$1.class
+SHA-256-Digest: mYimvH2pGK4If20wz0O1sWbHDJc5A/5vmBfMCA/WQ8c=
+
+Name: assets/anubis/textures/gui/dusk_backdrop.png
+SHA-256-Digest: RmXH5TWM6yEkldS5toDvrikFemLNaMzC4nZ+aoKcAx8=
+
+Name: net/anubis/client/module/impl/render/character/gltf/ShapeCut$Arm.c
+ lass
+SHA-256-Digest: hwGwwsn7OUI/RfFbtlIqOImTDoninMkwomIsbO9pAQM=
+
+Name: net/anubis/client/event/EventPool.class
+SHA-256-Digest: 56aKlml5C5n0rbx0gNhbVBClHlHc1weJUOBhJJP/c78=
+
+Name: net/anubis/client/util/spotify/LinuxSpotify$DbusReply.class
+SHA-256-Digest: ZYoS6F9F1my3e6x4MwWySoGi4X2avfxBeIIPL1tdB98=
+
+Name: assets/anubis/fonts/OFL-rajdhani.txt
+SHA-256-Digest: mV2gDo3bv8qAGaGW11ipGm+SR8Ei9C09yKpx0jw9Gvk=
+
+Name: net/anubis/client/module/impl/misc/SkinChangeModule.class
+SHA-256-Digest: VsbFvldArwC+VIIoMnGx4hAQepxR9kmk44IHdERZDFw=
+
+Name: net/anubis/client/module/impl/combat/crystal/CrystalDamage$Blast.c
+ lass
+SHA-256-Digest: UY9/m4OGHT8LYuiMD1IFPEohZay6UhlbtDS9z+xyTP4=
+
+Name: net/anubis/client/event/EventBus$1.class
+SHA-256-Digest: 8OkAO/3mdaTzyaYP31955ynV8eIipp89DtCDY4vJY1Y=
+
+Name: net/anubis/client/module/impl/combat/totem/OffhandRefill$Status.cl
+ ass
+SHA-256-Digest: iJagICRfRMuX659HJ0ivVFydNLtHslfVQZE3QpFXFWU=
+
+Name: net/anubis/client/util/seedscan/BlobJudge.class
+SHA-256-Digest: hzGvv6gJ1zaVPHByueSLJO/9lKXKRQV5QwkddvDloHQ=
+
+Name: net/anubis/client/util/PearlTrajectorySimulator.class
+SHA-256-Digest: HDu4Nyl0JTZJ7Cwncmjb6CRdAHBn+9XYaUqV92+RE1I=
+
+Name: net/anubis/client/util/spotify/LyricsService$1.class
+SHA-256-Digest: tbt7Oels49OrFRHTnweqLzZzS41dpcsjuHYGigNVGkk=
+
+Name: net/anubis/client/module/impl/combat/crystal/Combo.class
+SHA-256-Digest: fIqZaHGKXDUSWuAAdUR+dHy0PXixZhQF1vpmdA7WQaI=
+
+Name: net/anubis/client/module/impl/misc/SpawnerProtectModule.class
+SHA-256-Digest: 6A+LiduxhMaY5R4+fbj02jnpDKKWehgkKFYjdEtTW0E=
+
+Name: net/anubis/client/util/WorldQuads.class
+SHA-256-Digest: PberUO6Y2Zw+b4fBO3KqFlLfciyRIcMerGOKsTabXLo=
+
+Name: assets/anubis/textures/sky_emoji/heart.png
+SHA-256-Digest: eUzOjLt7+OmleMMmMFBp4dHnJP314YgmYQNNCkPvuRI=
+
+Name: com/example/client/mixin/MixinSpamMinecraft.class
+SHA-256-Digest: NarReCju4PkN0flmzbvIoZ3TKeMI+GjWSm1jmmd6YQU=
+
+Name: net/anubis/client/module/impl/render/character/kit/Detail.class
+SHA-256-Digest: YO/UayXYMErRLSm2JKghMXnxmxr0sQXC20KfA0yerBs=
+
+Name: net/anubis/client/gui/mainmenu/DuskWidgets$Dialog$Content.class
+SHA-256-Digest: u1Fv5zraxzmN5NN7zL/78N83kQydtmqsV50T5ep23rI=
+
+Name: net/anubis/client/util/seedscan/BlobJudge$Cluster.class
+SHA-256-Digest: 8jSHCh4XQsXTFDCCAHKQlqY8mG0hJ0HxoB563LCQBVc=
+
+Name: net/anubis/client/module/impl/misc/AutoClickerModule$Button.class
+SHA-256-Digest: Ekg7tdFSLzPofft7zG+srS2PcbxTRvdF6XAcPDhfF5Y=
+
+Name: net/anubis/client/util/seedscan/OrePredictor.class
+SHA-256-Digest: pSR+sBAtzF/nxrG+MdebdZF4PgCY3n0JS/sTgTI/J/c=
+
+Name: net/anubis/client/module/impl/render/character/kit/Mesh.class
+SHA-256-Digest: gRksOd5DmzGBhXWviPajUdGWmNW1xibXAoQu371OR/s=
+
+Name: com/example/client/mixin/MixinTranslationGuardLanguage.class
+SHA-256-Digest: VX3rWiXlnqycW6dV6/h1Ecm/aLQsjYdzToEwL/+ucWA=
+
+Name: net/anubis/client/module/impl/combat/CrystalAuraModule$Candidate.c
+ lass
+SHA-256-Digest: //6jip5Ojz7Ch4B7waw1bWomNgu3YPBPSUHDWG4LUzY=
+
+Name: net/anubis/client/util/staff/ShardTracker.class
+SHA-256-Digest: dTva6B/s4nD6oMymGPVZuwMxysR9jfQmmYaH9YFxZ5o=
+
+Name: net/anubis/client/module/impl/misc/DiscordPresenceModule$Card.clas
+ s
+SHA-256-Digest: NPpzO1S8RIAMzY4D/YZFSoOr08knZW1aLu4YY0rHdBU=
+
+Name: net/anubis/client/util/spotify/LyricsService$KeyMemo.class
+SHA-256-Digest: W3tsE1c7IToN9LBGSXRL+PjvanrMAFBmzLN6sYzqnPo=
+
+Name: com/example/client/mixin/MixinNameProtectClientPacketListener.clas
+ s
+SHA-256-Digest: zrjA3HjocRSR/uN/EMejvXd3yts4KrMxp6jGAlpe3sE=
+
+Name: com/example/client/mixin/MixinLoadingOverlay.class
+SHA-256-Digest: VvzfzT32tc5i4D1DBcw2yJvcLPT6w04OmkSr6ItwzXQ=
+
+Name: net/anubis/client/util/CompletionChannel.class
+SHA-256-Digest: OrjfV2+NHBuYCmND0SxTdWHRqFHDRou7QZ8uFfK3+WQ=
+
+Name: assets/anubis/fonts/geist-semibold.ttf
+SHA-256-Digest: wKErSC/YGQm5395eGgcg0XYTujynz7CsaO3lWg96/d8=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$SignalType.cla
+ ss
+SHA-256-Digest: VA5Bqo/hDB1jyVa2eHgmLQzjlh7j2Gtpp318NlY8htM=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/Canvas.class
+SHA-256-Digest: ZeaYfGWWrcR6XpxNkNxN8YEW1IjPwApdJwZcIWkdSYo=
+
+Name: assets/anubis/textures/gui/menu/bg_near.png
+SHA-256-Digest: Qjw2C4b8Q4xQ1rY3XzjJJ9RHVbbk++FKzmmJIVnL2zc=
+
+Name: net/anubis/client/util/seedscan/DecorationOrder$TerrainLookup.clas
+ s
+SHA-256-Digest: 4PxRVW31V/e1VuAM3hWGgzIdG9v2xcOOSEieKnTVJ2A=
+
+Name: net/anubis/client/gui/DonutGoliathMapData.class
+SHA-256-Digest: +3psfTyZhvdZezyvxZlM+hQqMb9o55ESQSj/HyXmeXU=
+
+Name: net/anubis/client/config/ProfileAutoLoad.class
+SHA-256-Digest: hoFv1aQ84bruVCka4tTrRVrlRqJJYCl/h/jEkCdoVCo=
+
+Name: net/anubis/client/gui/BlockListEditor$BlockInfo.class
+SHA-256-Digest: Bvs+Vl2aBSHHvmC6M0n6WVjm29h/WIYJcrRWHMJiViw=
+
+Name: net/anubis/client/gui/GlintHeadRenderer.class
+SHA-256-Digest: HFWePb8N8hPgao/wJEO8/S1DX9lRhKnAudjC8J2LqLs=
+
+Name: net/anubis/client/module/impl/render/character/kit/Simplifier.clas
+ s
+SHA-256-Digest: 3kdmqTuyEXByv7ZuoKHLfwwNa2sD4WBPOMromgmm1ZE=
+
+Name: com/example/client/mixin/AccessorHandPlayerModel.class
+SHA-256-Digest: VusGN1OUYaKJUMEwHU26GzU9c8DtjvlricoHpYOYv4Y=
+
+Name: net/anubis/client/gui/GifDecoder.class
+SHA-256-Digest: iFTxgAj6wjOF/fMcIsk+9X11UJbD22KIQL0u0k+z2yU=
+
+Name: assets/anubis/textures/sky_emoji/love.png
+SHA-256-Digest: CjXMAweChzQn6II4+FUQmjrEv1gYyqjUkuBC/lANgt4=
+
+Name: net/anubis/client/util/spotify/MacSpotify$1.class
+SHA-256-Digest: 6mEmAYq+AghAJ6StaqrZAytj8F97PKFjgO5oF4PlQBY=
+
+Name: net/anubis/client/config/ThemeStore.class
+SHA-256-Digest: oTqCRdRugWnPUf9S1wljz09IfD2WB2hQXHj319o9JIU=
+
+Name: net/anubis/client/module/impl/render/character/designs/Miku.class
+SHA-256-Digest: MdS9r6Yi6SPJxl8Rx3BsnYR/0Zyml6yUqJ6txa39Q4E=
+
+Name: assets/anubis/shaders/core/color_grading.fsh
+SHA-256-Digest: W/dQtqdO8U1om4U8NkZD61FzXx8yQJLn2Yz43NrMNhQ=
+
+Name: net/anubis/client/util/spotify/PlaybackClock.class
+SHA-256-Digest: 4CgZVdzrbf3CIcHEHI+aT8aLOiS7m75jpuPMd7tbvro=
+
+Name: net/anubis/client/util/BlockClusterGeometry$Face.class
+SHA-256-Digest: PWB6fgsJ+95Mdg5kl4JRQsv3qYBXOhgRLN38Y+YAADA=
+
+Name: com/example/client/mixin/MixinSkinChangeItemInHandRenderer.class
+SHA-256-Digest: a2e39N5Cj9YRPCQB3DEtBzBEELOSUFD1DRA3mgshMWI=
+
+Name: net/anubis/client/module/impl/misc/NetheriteFinderModule.class
+SHA-256-Digest: q3dY0JLLeUssbjnyAWIYxjUlqNrwqooZhu0IwpZh3XU=
+
+Name: net/anubis/client/gui/CooldownTray$Slot.class
+SHA-256-Digest: 2ls4zLvuXXy6JmoTeOgbAHgMn0gkpvW7KZ2QAtgD4Wo=
+
+Name: net/anubis/client/util/BlockClusterGeometry.class
+SHA-256-Digest: v3JG9vHDG94TI94aabvzfzTrGR1ANQ8SvfMntCqztDk=
+
+Name: net/anubis/client/module/impl/combat/TriggerbotModule.class
+SHA-256-Digest: m96ehsWjbanD1qA4kjtgHeh0VMU7NYEIz4XTqB3UEq0=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Union.cl
+ ass
+SHA-256-Digest: hktIyedjfLxYBIxb0p9DpPCnoxTy8Ff3dbhWkXIigcY=
+
+Name: net/anubis/client/module/impl/render/MotionBlurPass.class
+SHA-256-Digest: 1cDk2hfokmUEVrQ/IITwN/m/QpiPXar0ahi8pSiPlq8=
+
+Name: com/example/client/mixin/MixinJesusLivingEntity.class
+SHA-256-Digest: h6MzeV1H6HEk/3r4KsJWwR0ZR0Z619Tvv4ZLzmX6qRo=
+
+Name: net/anubis/client/module/impl/combat/SingleAnchorMacroModule$Step.
+ class
+SHA-256-Digest: ctTWvpDfE06gIotO7KHV88WFo5vJLc9Sp7GD7cknpjU=
+
+Name: net/anubis/client/gui/HudRenderer$InfoItem.class
+SHA-256-Digest: juhuRmYOo3HaUGnGfPUlXMDKIcANayVDdHZWnJ3K9wo=
+
+Name: net/anubis/client/gui/ItemPickerEditor.class
+SHA-256-Digest: ZzlpMvlGG0uumSQ6FD/6xv0KthJx9e7Av+YchfSPx3g=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint2D.class
+SHA-256-Digest: B0fSpNT48+bLdnT2sKOiRfU935ta0Qi6tgYKWfRAoS0=
+
+Name: com/example/client/mixin/AccessorLevelLoadingScreen.class
+SHA-256-Digest: 2Lxa1IZ7fcM/+hjT8kGIjMC7XH/owpx/umXK7w0yBqc=
+
+Name: net/anubis/client/module/impl/combat/CrystalMacroModule$Plan.class
+SHA-256-Digest: dMguTP2/Dh9QQXGg4wjtvsgVI6baPvpfIXTl9EaFbXs=
+
+Name: net/anubis/client/event/impl/PacketAppliedEvent.class
+SHA-256-Digest: zpAxqFEz9ujukLN5MTRePpCg+HJbpUsbrpSB1F4+rH8=
+
+Name: net/anubis/client/module/impl/misc/DiscordPresenceModule.class
+SHA-256-Digest: xjm+n/vWcEh7jY2Ek9K3M5gPlFJs4Uzfc1Y6IDegUf0=
+
+Name: net/anubis/client/module/impl/render/character/kit/Part.class
+SHA-256-Digest: tQgfTJrDM1ufepLQiZYbNKOAoBNX3dr27NuZLu7yJ90=
+
+Name: net/anubis/client/util/Ballistics.class
+SHA-256-Digest: hWJwhdHCCE8Z7e4nQA8i86gftLPyB2Ig0jBwJeSpXYU=
+
+Name: net/anubis/client/discord/DiscordIpc$UnixPipe.class
+SHA-256-Digest: Iy5BxKvh3W8ckVdLnAaAd9PFbOxNT4vzbq2eTmo/FqE=
+
+Name: net/anubis/client/module/impl/render/PrimeChunkFinderModule$Change
+ Summary.class
+SHA-256-Digest: zgh3eVG8rXgGml2ue2JRu19QDwvG9+2hZdEyRPQOaIo=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Circle.
+ class
+SHA-256-Digest: 9Ln9/YC1opxOGUTJRItc6XevF2OJmC37dO2X9luVe5I=
+
+Name: net/anubis/client/module/impl/render/ShaderEspPass$Rig.class
+SHA-256-Digest: 707w7tHnMeewVmzL2gYDMMnsZj8/MdpkUHX4msyTCic=
+
+Name: net/anubis/client/module/impl/misc/StaffListModule$HudList.class
+SHA-256-Digest: /lZn5E9GjCeKw6snQLcSKsPsj5UYVpYx5pYP77Pf/+E=
+
+Name: com/example/client/mixin/MixinJesusBlockCollisions.class
+SHA-256-Digest: NP1l4EHXPihtmmd6dISNY/95kcL87hNxJO2g/WIs83s=
+
+Name: net/anubis/client/addon/AnubisAddon.class
+SHA-256-Digest: tGG9U0diMvoHfNKypsQtl07gauxp5ehZr+47pPKx6Mg=
+
+Name: META-INF/jars/fabric-rendering-fluids-v1-3.1.43+4ebb5c083e.jar
+SHA-256-Digest: wJ3Uy9yEEC/DuZotfOI9/7fqUSyXBU/U+ZifO5CXyi0=
+
+Name: net/anubis/client/event/impl/PlayerMoveEvent.class
+SHA-256-Digest: NVG4UVpaZ4kC/88aWmpLZO2o2aM5xf6ZBxhZTnAiPKA=
+
+Name: net/anubis/client/webhook/WebhookService.class
+SHA-256-Digest: tbdLogwFh/IV295Wzg5GpNziFVWL2OSAy3zy7AMAVI4=
+
+Name: net/anubis/client/gui/BlockListEditor$ListState.class
+SHA-256-Digest: 6p7oufTP9LTdhRAOU+emQJxcF2zf/R1ZZwLQ2HSUfV4=
+
+Name: net/anubis/client/module/impl/combat/crystal/Combo$Track.class
+SHA-256-Digest: lzyV2LxwobnBNNYvbB2j0fbWwQtLuoTyr9Leoj5ccVM=
+
+Name: net/anubis/client/module/impl/combat/AutoInvTotemModule.class
+SHA-256-Digest: bcqnQ+LBaTT+ZikWtrgA1ckAUkGPfuPsmv1UBM8oiqE=
+
+Name: com/example/client/mixin/MixinNameProtectTextDisplay.class
+SHA-256-Digest: /c9rtIFGuDvXWYBzTyKlqofGLKEH0DJDg9BH/1Zx5i4=
+
+Name: assets/anubis/fonts/OFL-silkscreen.txt
+SHA-256-Digest: G91fqkwWriD6K7rDspm54q5YS6knUzLX8PNmgE9Z2S0=
+
+Name: com/example/client/mixin/AccessorGameRenderer.class
+SHA-256-Digest: YwdxTUqLhWEykk54Dw8fDl4G8r5+lZWCBEAnT0IwQls=
+
+Name: com/example/client/mixin/AccessorHudCooldownInstance.class
+SHA-256-Digest: 1vESCXiOROQUVroVSs5E7kmTWU+RiLlMDVHFMJvBmmg=
+
+Name: net/anubis/client/gui/AnubisTitleScreen.class
+SHA-256-Digest: ULJsslnHpXY6ew0NpGYv+BlTYsh34cmmXRzAmwFxuwU=
+
+Name: net/anubis/client/gui/ItemPickerEditor$ItemInfo.class
+SHA-256-Digest: 0nclvFrBZ2RBol5Ji6WsKNj5Bx+TYEKzjCvyUSQuP60=
+
+Name: net/anubis/client/module/impl/misc/AdvancedFinder$Scan.class
+SHA-256-Digest: xZqdXRBpieW8tlYLJ3U+SNpMeQGnZBY6M+CGEEcZ9aY=
+
+Name: com/example/client/mixin/AccessorNetheriteClientLevel.class
+SHA-256-Digest: bex+S8SjsFrjLmkEE+7HNvDg+e2CsG+37/UCwLquVPA=
+
+Name: net/anubis/client/module/impl/render/WaypointsModule$Shown.class
+SHA-256-Digest: 8t5QmKSPgF4vYW+1jOKaowILbbQAJiGoZQLd/XoiJKE=
+
+Name: com/example/client/mixin/MixinSpeedLocalPlayer.class
+SHA-256-Digest: OXYHOPcR99O2uKKK27J4x6ifVs710m3/QE5UO89dOCs=
+
+Name: net/anubis/client/util/seedscan/VanillaBand.class
+SHA-256-Digest: V0EFZ1nsPVDj718+VJury0IpRm2FqTqmKlFhyOu2oNc=
+
+Name: net/anubis/client/module/impl/render/PinkWater.class
+SHA-256-Digest: +TX0s8kv/WNx6GzDAE5/q0jB/j73w27eToEo/t7qN2A=
+
+Name: com/example/client/mixin/MixinBoatFlyClientPacketListener.class
+SHA-256-Digest: 7NC/SzqAc3aI0GgeC1YG7lSZFI3b0HMoiTWFd/z5KMs=
+
+Name: net/anubis/client/module/impl/render/WaypointsModule.class
+SHA-256-Digest: r0TlGdvMYwV17hpaoHZJm6fHfHzi0W9ygMiHq6/gsNU=
+
+Name: net/anubis/client/module/BuiltinModuleProvider.class
+SHA-256-Digest: N5VL5PbOjC7JohrZT213DytpFskYric2HjUwibrKDWc=
+
+Name: net/anubis/client/module/impl/combat/crystal/CrystalDamage.class
+SHA-256-Digest: QPyO26BbUgbb6z6MNx3twxp+0RfbdqdMKzF5+aLDiF8=
+
+Name: net/anubis/client/module/impl/misc/StaffListModule$Sighting.class
+SHA-256-Digest: cTQTNQdF1ZMjH9GMKi4AR3jwcF1xhY0aa9BOp9xNN/w=
+
+Name: net/anubis/client/module/impl/render/HandAuraModule.class
+SHA-256-Digest: H8O5X6ZF6oHQMB3L+2hWs6h/oY1O65duLOhXjxNM/Es=
+
+Name: net/anubis/client/event/ListenerList$Handles.class
+SHA-256-Digest: HNZIwcj+kYc9dSAS2372maYL7tTAHvVj9jr1MfssNko=
+
+Name: assets/anubis/textures/peep/wave.png
+SHA-256-Digest: gstsmm19ckwgqZhn+l3QkELCLwIJd0mz9joYRCuA2uM=
+
+Name: net/anubis/client/util/playerbypass/VisibleChunkCache$Flagged.clas
+ s
+SHA-256-Digest: pyMF/HT1x8lhuawFzLmCMda1/gOyH/+isXhJ35gyH+w=
+
+Name: assets/anubis/textures/gui/hud_emblem.png
+SHA-256-Digest: OFSwCNPF6p/x5X4bCG8HbtNcq8h2FcS7rFPVcKb9rdI=
+
+Name: net/anubis/client/module/impl/render/ColorGradingModule.class
+SHA-256-Digest: KVUNXa8hFMfMuI/b0lIW7HXn7lGE/higBZI+P6Tyws4=
+
+Name: net/anubis/client/util/seedscan/GateHeights.class
+SHA-256-Digest: nf51XAy2N7ZMPgB2Czv5jD1rRuauNHxYwOv+CkmVTDs=
+
+Name: assets/anubis/textures/sky_emoji/laugh.png
+SHA-256-Digest: jKGk+Dk/gWCOEIq+JI6OMT0whfkHn8Vqdt0+cm/QKiY=
+
+Name: net/anubis/client/module/impl/combat/MaceModule.class
+SHA-256-Digest: mtWMYS46r2Y2gjRmPVd/b+fYCk3pr34/DY2+oF1iwB0=
+
+Name: net/anubis/client/module/impl/render/AtmosphereStars.class
+SHA-256-Digest: mGLhjii6lj/H8goD6OgQcJOi4L+kzooNN3YOv/yDgE4=
+
+Name: net/anubis/client/gui/Motion.class
+SHA-256-Digest: xcCz9aGDvX/B257+3jlLRc+SB7bbuSb98EcBVmZhHBY=
+
+Name: net/anubis/client/module/impl/render/BlockOverlayModule$1.class
+SHA-256-Digest: I28pkOLKT8B+CYvHH2WBJh9I+hqOAg7IdtpIYKy62EQ=
+
+Name: net/anubis/client/config/ModuleCodes.class
+SHA-256-Digest: AgGsUBIJAV16HiuSHKJjVJSfbCmCMsdbukAEmsh4WS8=
+
+Name: net/anubis/client/gui/ModuleListRows$Row.class
+SHA-256-Digest: 4Mtpw3ilknPX1+3SnHG/BWuVkGceQEzUn6pv3ujn7Mw=
+
+Name: net/anubis/client/util/spotify/MediaSession$PlaybackState.class
+SHA-256-Digest: RCGmZQlusC12/BkzfVL92mc0SvevR2sShhEhqfbHQvA=
+
+Name: com/example/client/mixin/MixinCamera.class
+SHA-256-Digest: 5IbI6Zp0cCvkA81P2pc0P2xye2AangiZXLg2IXpKkSU=
+
+Name: net/anubis/client/gui/mainmenu/DuskWidgets.class
+SHA-256-Digest: QNv9Es3WY9lQb04bVivvZBmcUUd/+cJG38P9Hq2j0WQ=
+
+Name: com/example/client/mixin/MixinHandModelItemInHandRenderer.class
+SHA-256-Digest: 96Go+7txFa2nxl78r9Hoy3JbSO80OMfifSJdH4vF+jE=
+
+Name: fabric.mod.json
+SHA-256-Digest: Q4rIEV/lqbA2RvJuRYOdCigzzvS4I7nGxcGT9FYSmxU=
+
+Name: com/example/client/mixin/MixinBorderlessWindow.class
+SHA-256-Digest: a2cclH/6v7jgNUVMZzZrUggv5mv4x/QUtypntO0X5Ew=
+
+Name: net/anubis/client/gui/HudEmblem.class
+SHA-256-Digest: 5mEreZbnSoTBHH0wMB+8ig41+CYQ68anj5Y1j9tjwGs=
+
+Name: net/anubis/client/gui/BorderlessFullscreen.class
+SHA-256-Digest: IQTL86/3GEGqkioVhgS1VME4bBe/HbA9Nbm8PqDEgZk=
+
+Name: net/anubis/client/gui/ClickGuiRenderer.class
+SHA-256-Digest: QE140Nc9tLhQxV94INV9rvuNbOaPty4p2Lrh393xsoY=
+
+Name: net/anubis/client/module/impl/render/PeepEffects.class
+SHA-256-Digest: iAXFF5b1aFgSdTbXkZxHRJmL0vQj0q50vjv5tKg8tAw=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Wood.clas
+ s
+SHA-256-Digest: lCwT7DuLM/z3QPyE+YX+xP/MRAYIVy+nHiqtciCt6H4=
+
+Name: net/anubis/client/module/impl/misc/spawnerprotect/SpawnerAlerts$Cl
+ ientHolder.class
+SHA-256-Digest: LzUq/Jf9XOnwg8G7aYvTSe5V8GlZxfry7+1Ob5Bn9No=
+
+Name: net/anubis/client/event/ListenerHandle.class
+SHA-256-Digest: ZLDKyO90RtdetIS1TJsGTlTGo7JYgOQfwalkeOtIvcU=
+
+Name: com/example/client/mixin/MixinTrialSpawnerRenderer.class
+SHA-256-Digest: bg0JhVf0nqnxKVMm7yOjIw9d1qgY8siB4wlO6l+BcUg=
+
+Name: net/anubis/client/module/impl/render/PeepSong.class
+SHA-256-Digest: lcCZ0gn7Yp3Mh9QJbNr7yMhKXgR4QdOFhl0IOt4NFj4=
+
+Name: net/anubis/client/service/humanize/HumanInventoryTiming.class
+SHA-256-Digest: L6PNtEfvPD5rm3yME/Wk5mNqnFfo+tl0s1JGnPsZBgs=
+
+Name: net/anubis/client/util/playerbypass2/SimulationSignals$Kind.class
+SHA-256-Digest: gIYZn6DlxZ5qgOZlnzJVVZR6LizDDjXNbq+h3vg3q5I=
+
+Name: net/anubis/client/module/impl/combat/AnchorAuraModule$Blast.class
+SHA-256-Digest: kNHX6HvRKrVDSertKfozn/HZLb6oJMBAbrSyks9iNtA=
+
+Name: assets/anubis/shaders/core/glow_esp.fsh
+SHA-256-Digest: 1QX4F18QaCZa5qPMyv42RBD8UNgf8YT53RaK2Omt8/4=
+
+Name: net/anubis/client/util/staff/StaffMatcher$Match.class
+SHA-256-Digest: gBnsh8uCyng3+1tHFpmLpn6q53UMt5FdVsNjXkAp/cA=
+
+Name: assets/anubis/textures/sky_emoji/broken_heart.png
+SHA-256-Digest: 6m2Wlvh9vZHRupGU39QPH65hskvN6uFQPwSBV6VZIBo=
+
+Name: net/anubis/client/module/impl/render/BlockEspModule$1.class
+SHA-256-Digest: KzjZe8fOHNzk3Dg1ChXWi4hWBOWjkDaGsMYb4hY0igU=
+
+Name: com/example/client/mixin/MixinCharacterLivingEntityRenderer.class
+SHA-256-Digest: Q1VdCdZrZvs7blWiI2wC6iyFb3j3g4KSHBMOIAZu4NI=
+
+Name: net/anubis/client/gui/LoadingScreens.class
+SHA-256-Digest: J61kFc9HAtGjmNJIV4AOsQ69vsPiuoqKnavG57djxlo=
+
+Name: net/anubis/client/module/impl/render/character/kit/Motion$Input.cl
+ ass
+SHA-256-Digest: oQt02kSwkzbXThLVFAyIbF8dZ2x8CNg4iyi+pPt3/8A=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Custom.cl
+ ass
+SHA-256-Digest: f7UyGd/mpOtvessfEjXloKsRvdWuPfaUbv0Y+KyDCaU=
+
+Name: assets/anubis/textures/sky_emoji/hug.png
+SHA-256-Digest: /tq4mcCrn4scQZkY97JBp1soQ6XFyJ8nwHWya2lKxcU=
+
+Name: net/anubis/client/module/HudOverlayProvider.class
+SHA-256-Digest: 6RUb/SqgjIhQYKPvtQJMglYmm9V6z6EiCXJxWhURaCo=
+
+Name: net/anubis/client/event/EventBus$RegistrationEntry.class
+SHA-256-Digest: Na0zKAmLT7ZwCsQZzlwaDiX2ry8ujeqWa6k3H+8/foM=
+
+Name: net/anubis/client/module/impl/render/PharaohMesh$Look.class
+SHA-256-Digest: bO86mC/QHfiHOCCnDUDmLBqI4ilIuB0a51L6FKJzf7o=
+
+Name: com/example/client/mixin/MixinTranslationGuardAnvilScreen.class
+SHA-256-Digest: Vx9OcBoZjh72HbotG8kqBus7bmK5BL6nWazA5VcjkFg=
+
+Name: net/anubis/client/module/impl/donutmacros/OrderAhSellerModule.clas
+ s
+SHA-256-Digest: WG0diri9692PRpnfukt6wFTmY/I7HIoy/SKpC/SwfrA=
+
+Name: net/anubis/client/module/impl/movement/elytrafly/ElytraFlyInventor
+ y.class
+SHA-256-Digest: hFzy+6agfbseTttHVtNMuDfMQtxRp5gBlpeVn9laxk4=
+
+Name: net/anubis/client/chat/ModuleChat$Body.class
+SHA-256-Digest: cUS0J15puIiFUpfDYGYXsyfytVGK0rpoEdHZvsM06uY=
+
+Name: net/anubis/client/util/spotify/LyricsService.class
+SHA-256-Digest: 5SaTmq+uCl4bOg3+1Lkj1TZxsGHd3IJeHgEiVij9GE0=
+
+Name: net/anubis/client/gui/BlockIcons$Icon.class
+SHA-256-Digest: gA0RqlG48e0xJFs6nu02JmxhNJa4YfDUko6y+fskOho=
+
+Name: net/anubis/client/util/seedscan/BlobJudge$Verdict.class
+SHA-256-Digest: BXbMIyBjnHXp9LC3KF3/pPqkMjoQnm9O7k6XUodeaik=
+
+Name: net/anubis/client/module/impl/render/SkyCanvas$Run.class
+SHA-256-Digest: fm/asqr3RxznuV/bqGnT35X2ItH0Z2j1f2Ho2zyNALI=
+
+Name: net/anubis/client/gui/HudRenderer$PotionLine.class
+SHA-256-Digest: 6Yu1y7TgjcxsYO9zd1lpcQDWEGQfwseHFBPJSJDIWvo=
+
+Name: net/anubis/client/module/impl/donutmacros/CompletionRequests.class
+SHA-256-Digest: n1voQzVaSwOrXPdTuA5p1U8aRZVJhq4DbL0CJvenSfc=
+
+Name: net/anubis/client/module/impl/render/AuraBlur.class
+SHA-256-Digest: wC3uK4N0RSBw3YxiDlGr1pXYFkqbUOmpxRqB1ZBDvUA=
+
+Name: assets/anubis/shaders/core/motion_blur.fsh
+SHA-256-Digest: czD2Y7HHqPp16q3TNdTUoqd6DRSEBpNuIjJ9+7v05XE=
+
+Name: net/anubis/client/module/impl/misc/AirStuckModule.class
+SHA-256-Digest: wdp7y4aHg8FwpTnmhbOWrwlczpMOYnEd1Q0TWfBKnmI=
+
+Name: net/anubis/client/module/impl/render/BlockEspModule.class
+SHA-256-Digest: j+P6HO3LtlHNUvRBuv2tceqW9rqVo0obv0U6Fpb2R8k=
+
+Name: net/anubis/client/module/impl/donutmacros/AhSellModule.class
+SHA-256-Digest: CfUbxQAx08rffXs4MVdaSI8XCYyvFNty2BRn8sTrEHo=
+
+Name: net/anubis/client/module/impl/client/HudModule$ToastStyle.class
+SHA-256-Digest: PYRXaiZCIRxl5LRhQUhlA5qSX7bZN3mArzGh0Jn/8ZY=
+
+Name: net/anubis/client/event/Stage.class
+SHA-256-Digest: jCjozJGp+nUli8W4e5Br2ryF7+m/+41+1aEYwEv5xok=
+
+Name: net/anubis/client/gui/HudRenderer$SpotifyPlan.class
+SHA-256-Digest: 4iWcTqcRfo2okjeL9UydSvM4BbD7HTDyR38srqXo2DM=
+
+Name: net/anubis/client/module/impl/render/BetterSusChunkModule$BlockRea
+ der.class
+SHA-256-Digest: XZ8z7RsmjdrnZAkhlOzl9ACjjrBstPg8ElYbiE4wRdg=
+
+Name: net/anubis/client/gui/ThemeImages.class
+SHA-256-Digest: 3blj8/wslOi5pdzeMijLoiZUX2rIrzI2Bvr2uh0R60A=
+
+Name: net/anubis/client/gui/mainmenu/MenuFrame.class
+SHA-256-Digest: YhcijdzKljgmCfQ3+1E+Usar3L6SA1gHggi/ntgzoMw=
+
+Name: net/anubis/client/event/EventBus.class
+SHA-256-Digest: XydzANvPC7GcBht1H5vrmKyAlq7bdBtDfNPmfpFuL3s=
+
+Name: net/anubis/client/module/impl/misc/DiscordPresenceModule$Link.clas
+ s
+SHA-256-Digest: Ne17u7AZSKglGcUtLi75LcaX6XJlQFDRpTEDHG46r4M=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Torus.cl
+ ass
+SHA-256-Digest: dGYjiu2IuslRRwa8dm+LACS2zHVm0P83hxnm3DtqP9I=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Shading.c
+ lass
+SHA-256-Digest: vBCp+U2Of3bFvs4UqxUlT4q4vAX2wcXdo6H2iO9SnIs=
+
+Name: com/example/client/mixin/AccessorHudItemCooldowns.class
+SHA-256-Digest: TPKjK6pQOt/CYOO5y8sXyYtVZkLuOdHYUH6Yp/PEa3o=
+
+Name: com/example/client/mixin/MixinBoatNoclipAbstractBoat.class
+SHA-256-Digest: 4Xg7AmxYoHFsSEB2Lu5GUZ2H62neNTF3vIR6OGeYRKQ=
+
+Name: net/anubis/client/module/impl/render/JumpCirclesModule$Ring.class
+SHA-256-Digest: mdWE2wFyIu9yPm19QCh7SagWlkXaegphGu2oXqvNzY4=
+
+Name: assets/anubis/textures/sky_emoji/think.png
+SHA-256-Digest: T/XF3Uiwma3KdsoqAsaqAhDsEyJqo9+uLpSbe44Z3Mk=
+
+Name: net/anubis/client/module/impl/render/WeaponInspectModule$1.class
+SHA-256-Digest: PjnrJ0WqIJwi9hsZrM+2Sapr9a9VWrOmq/41p46F/kQ=
+
+Name: net/anubis/client/gui/ToggleToasts$Toast.class
+SHA-256-Digest: XDUFzGHbqkabymF637jP/AlrS7eKtXpk1zQSUifGHaY=
+
+Name: net/anubis/client/security/OfficialBuild$State.class
+SHA-256-Digest: xw6v/EODrkrZ7dx4nwQSpoRRbLwepOsOAZyXkz44n9g=
+
+Name: net/anubis/client/util/LightSnapshot.class
+SHA-256-Digest: 7hme3xTuGvSWfZWspm4PZh6LzwQfARPYDX8NJRJvToM=
+
+Name: net/anubis/client/module/impl/render/SkyLyrics$Slot.class
+SHA-256-Digest: TZqu6rjTYUZkT4x54M252nt3iRISFSPvAFGpQyxQNfE=
+
+Name: net/anubis/client/module/impl/render/SlashTrail.class
+SHA-256-Digest: L0qofrTZUsscWE72EOtub4Xnw1zLCI9zROkew7XS1t4=
+
+Name: com/example/client/mixin/MixinNoJumpDelayLivingEntity.class
+SHA-256-Digest: r3ASknGr2esTZdQ9WXHxaeIThGc/RZdjTyjqHipAoAI=
+
+Name: com/example/client/mixin/MixinNameProtectPlayerTabOverlay.class
+SHA-256-Digest: DRFiTaFiylPOaY5oRyI6vgkGno9xPSecSiQU9RY3Sow=
+
+Name: net/anubis/client/util/playerbypass2/SimulationSignals$Share.class
+SHA-256-Digest: Xj8uibYHbfwcFw1RszyFft2dthdrdy8/Acu00LPQS1A=
+
+Name: net/anubis/client/gui/BlockListEditor$Fit.class
+SHA-256-Digest: hYypBIKZr1AvU1WTdBp8rkvHmXkV1/QP9Vlacu1h4ME=
+
+Name: net/anubis/client/module/impl/combat/CrystalAuraModule.class
+SHA-256-Digest: w6wbDKyG6UiGnbG5GkDZa6vuihxjPH/t2pjd6PZSLoc=
+
+Name: net/anubis/client/config/ConfigProfiles$Contents.class
+SHA-256-Digest: pRcw40uetGToJWMuMpL6Ey6aiHhofvHOqq/GP+u4tUE=
+
+Name: net/anubis/client/module/impl/movement/speed/SpeedMode.class
+SHA-256-Digest: eloERQsxEUmXchpt8WMt+vzt9r0E8aSuFRzFqF21z0k=
+
+Name: net/anubis/client/module/impl/render/character/CharacterMotion.cla
+ ss
+SHA-256-Digest: Ni55H17TlX9t7WRAcRL92XvnduOsGbYdLOaz/ZtEM90=
+
+Name: net/anubis/client/module/impl/misc/StaffListModule$GameModeSwitch.
+ class
+SHA-256-Digest: 1eyR1csqrftLMvzCttcYDFB9/H4elJSBy6p5S2J/OT4=
+
+Name: net/anubis/client/util/spotify/MediaSession$Snapshot.class
+SHA-256-Digest: VtR4PhOdDwjmWIXdWL7eugc5K4wtHH/41jc/dq4KlYI=
+
+Name: com/example/client/mixin/AccessorCombatMinecraft.class
+SHA-256-Digest: deN3Y4Tu4BcZtaO08eTJXByy3ecDtTTyQ1ehig9qxSo=
+
+Name: net/anubis/client/module/impl/donutmacros/AuctionHouse$Stock.class
+SHA-256-Digest: qGBALLVyEwo0FCdq9AYMq2M1ochCjQrEnmM7zr5bUsI=
+
+Name: assets/anubis/textures/sky_emoji/music.png
+SHA-256-Digest: MUvANphIRZWM4SgN2JDE9E9PWuAeXPwiMTkKcyaMxw0=
+
+Name: net/anubis/client/module/impl/client/SpotifyHudModule.class
+SHA-256-Digest: GiDn3jdDbhaLSDzOPGSqf2mf3KDtPIw5hlzRH+MyHoM=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D.class
+SHA-256-Digest: ebOIr1J6ZB5XdClRKtbt1Wn8qEBnxqJQVGRRN2+0H0U=
+
+Name: net/anubis/client/module/impl/donutmacros/ServerText.class
+SHA-256-Digest: XqBGPx1FFOfKgvjYFOvWDg3wkKucD4KfXE05EQ1VVEM=
+
+Name: assets/anubis/sounds/spawner_notify.ogg
+SHA-256-Digest: eMrZ8joE9iWFsNuEMPxbZ1JFroyJxgoIa3458Kco/0o=
+
+Name: assets/anubis/textures/gui/logo.png
+SHA-256-Digest: Zi1+2L/ZOyU+C6yxx3Xis1yqbMe06xwNUzWPMtlABII=
+
+Name: com/example/client/mixin/AccessorJesusServerboundMovePlayerPacket.
+ class
+SHA-256-Digest: n/DnhN8pkvlL3MIWOon7tiNuSqHV6PXHiTTRRW16V0I=
+
+Name: net/anubis/client/module/impl/client/SpotifyHudModule$LyricMotion.
+ class
+SHA-256-Digest: OoIJXrQXe5E2QiIlwGZga+tG/TFhgEkZx8OovyI++J8=
+
+Name: net/anubis/client/module/impl/donutmacros/AutoTpaHereModule.class
+SHA-256-Digest: YApc5Vs/V563vPGbCxvGqv0rFYKen+OwW5dcmGflnVs=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Revolve.
+ class
+SHA-256-Digest: +R1F3q+cqr9ddIAV/kSej5PbJzIypyaXzkOmMX4b23c=
+
+Name: assets/anubis/textures/sky_emoji/sleep.png
+SHA-256-Digest: 6rg7B4lPuInmFGaOo1fJY22N0E4PAg3JDMc6Pd9J6HE=
+
+Name: net/anubis/client/event/impl/MouseInputEvent.class
+SHA-256-Digest: RC5W+vCOBwOX/Op+V7vSUfblCSsjzADW5zgv988BkRo=
+
+Name: net/anubis/client/gui/HudRenderer$VanishPlan.class
+SHA-256-Digest: UFUwfwI2n9n0suZbKAiw2rDc4WzRU1DdEcgJyVBP0uA=
+
+Name: net/anubis/client/module/impl/render/character/gltf/ImageDecoder.c
+ lass
+SHA-256-Digest: PE1LPpaqx88e1CfodbjSHQI1rlYqV+MF9Vsb6Gd+Xes=
+
+Name: net/anubis/client/module/impl/render/HandModelModule.class
+SHA-256-Digest: hC6WiOsiDnF/uQjX6mCYea8WmROfhQfV6WKEEB0cm18=
+
+Name: net/anubis/client/module/impl/misc/spawnerprotect/SpawnerAlerts.cl
+ ass
+SHA-256-Digest: 849R9O4Owx6BUKHzvMUGYxf6+xqpZOZ1ofCc5VMX5mE=
+
+Name: LICENSE_anubis
+SHA-256-Digest: meyb3sZTyk9Dq3yTHLzfWds3LgxNl/T+0Mi6Y0NbGCM=
+
+Name: com/example/client/mixin/AccessorHudToastInstance.class
+SHA-256-Digest: VXKh3AbJRSyMkc0/9LmVFpH91Ie4RLlXkywRthO/8DI=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Taper.c
+ lass
+SHA-256-Digest: Dhz+PVAA55w+SDIDUtbc3WhWwD6G9Q8CPns7ZQwerj0=
+
+Name: net/anubis/client/module/impl/render/SkyLyrics.class
+SHA-256-Digest: ycAvT6WWPY4m6doDjiVarvoGHhRV1F+3GKhXhcLnlEc=
+
+Name: net/anubis/client/util/spotify/LyricsService$Memo.class
+SHA-256-Digest: cnP39HtinmCc88fTkDaSNjLv7ynKHe9h5t9q5gZUbCk=
+
+Name: net/anubis/client/util/playerbypass/ProtectedChunkStore$Bucket.cla
+ ss
+SHA-256-Digest: c4R8TtYnRCAynTwwmJJPgC71SFMMZjwyCRYhrLXuSt0=
+
+Name: net/anubis/client/module/impl/combat/JumpResetModule.class
+SHA-256-Digest: t/jG+KfbTRZa+a+C2kZRdqIOplq/dhqN61BxC8Cx4vc=
+
+Name: net/anubis/client/module/impl/misc/BlockNotifierModule$Finds.class
+SHA-256-Digest: eX70TRbEc49KYgh+bh8ZOZmbyArhcJdyPY4OqgUDOAg=
+
+Name: net/anubis/client/util/spotify/Lyrics.class
+SHA-256-Digest: 0QcjliXdHHx0qC/9PMYSFv/edUmVPLX/QeK5pfCZKA4=
+
+Name: net/anubis/client/util/playerbypass/ProtectedChunkStore.class
+SHA-256-Digest: YjS+zbiEF1D82wd9caUEFIixoxIEFIvTjvnMI+f3DBg=
+
+Name: net/anubis/client/module/impl/misc/AutoReplenishModule.class
+SHA-256-Digest: T9M0c6xUlDxaS0kW9P1QJ7ZYq5weJbP13mD7eymUvPA=
+
+Name: net/anubis/client/module/impl/render/TrajectoriesModule$Track.clas
+ s
+SHA-256-Digest: Gf1FFEoS+S2U+bDq9v9r4O08s4UdxxNor/eYl4V9wOk=
+
+Name: com/example/client/mixin/AccessorElytraFlyMultiPlayerGameMode.clas
+ s
+SHA-256-Digest: BY2DBaFAfLdQcCL6ZDa4m2cgqbWIbh1Ciq9qai0kM5g=
+
+Name: net/anubis/client/module/impl/render/PeepSky$Look.class
+SHA-256-Digest: QrzXldNI9Gm0nfY/++bPmcEAApfDRjBc45i1QHi6Evc=
+
+Name: net/anubis/client/module/impl/render/SkyImage.class
+SHA-256-Digest: K369SixVLBWnDopz70eeEm3RFlmAFt6E1Lb3zZg7X8Q=
+
+Name: net/anubis/client/event/Event.class
+SHA-256-Digest: UhOfwKSNSrqPRrJ3omWaITlu2/41pFLO798l2qJTbo0=
+
+Name: net/anubis/client/module/impl/misc/HomeMetaModule$Step.class
+SHA-256-Digest: yYaCS82I/XcWLupl2g3P0+F/v3OMza9DrJC3KTOlVo4=
+
+Name: net/anubis/client/module/impl/render/KnifeSkin$Sink.class
+SHA-256-Digest: BCsgCq0UOyhSFRqMlss6HKnqgtNWby3NMleolGGLPQY=
+
+Name: assets/anubis/textures/sky_emoji/cry.png
+SHA-256-Digest: UK30Z0xIuUlH95B5M4LAZEMdE6zKjNu/hGqZsAdPapk=
+
+Name: net/anubis/client/module/impl/donutmacros/SellRoutine$State.class
+SHA-256-Digest: rkkw/EatTRYPdQuQFMFyWNy70SVvIxl8niZU3/j0rw8=
+
+Name: net/anubis/client/module/impl/donutmacros/AutoTpaHereModule$Delive
+ ry.class
+SHA-256-Digest: BSFSsd67Bb7/O1+bVXI8NzTkHXsP1EwuNyl6thj7E90=
+
+Name: com/example/client/mixin/AccessorPinkWaterLevelRenderer.class
+SHA-256-Digest: niGxp/PXB+N5LFjj5HOcrZWtW+/AdP7xsoVMaeA1LzY=
+
+Name: net/anubis/client/module/impl/combat/WTapRecodeModule.class
+SHA-256-Digest: KvP6chQ0YoRaJR69B1e+2cEYPzJgnZIRLiL2GNVQxgQ=
+
+Name: net/anubis/client/module/setting/ItemColorListSetting$ItemEntry.cl
+ ass
+SHA-256-Digest: fcFdXsKGjNGCiGrpLYbjpG/WCLvhn96xA/OKRXV5fYg=
+
+Name: com/example/client/mixin/MixinCharacterAvatarRenderState.class
+SHA-256-Digest: dvEu+qmZojyxj6d/Y9uXrsv/M+iQwT+Wvzn8mDnlvoo=
+
+Name: net/anubis/client/util/spotify/LinuxSpotify$1.class
+SHA-256-Digest: vdoTuwgtl5uIjHu8Umt+hpP9MvEhmPJdqQ4PEyUU8tU=
+
+Name: net/anubis/client/module/impl/misc/AmethystBypassModule.class
+SHA-256-Digest: 8OvPEEp+zKm6+mP3QfL3x4SfT/j5MhVDW2+RMlV8dYk=
+
+Name: net/anubis/client/module/impl/misc/NetheriteVisuals$Options.class
+SHA-256-Digest: iX01PD0NoHub5ZPhTq9VX+eyyWqRa1IrAYkLl7Mqae0=
+
+Name: net/anubis/client/module/impl/render/InspectAnimation$Clip.class
+SHA-256-Digest: VSOwDX83lsQknXQ4zPuyPz5ZgZopv0Wdr617184YzOY=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/TextPanels.class
+SHA-256-Digest: Bo6F9O/Wg2YQDT+Dxm8QPdIpfQxxCvXjnnIyvCL37OU=
+
+Name: net/anubis/client/module/impl/render/HitParticlesModule.class
+SHA-256-Digest: 3TfzTFBGXmBTrBYdHSNgiKPHZPtTSrkYB8oD84XaIcc=
+
+Name: net/anubis/client/util/seedscan/OreSim$World.class
+SHA-256-Digest: 4d/8HNHDTd4EkgmMfAdQFgDUG0WXhAfWIOROzwS3EGM=
+
+Name: net/anubis/client/gui/HudRenderer$Step.class
+SHA-256-Digest: hK6qQR+674/qQRBxpeRo1btpETZjU2ODqleobD68Bq8=
+
+Name: net/anubis/client/esp/BlockLayer$Found.class
+SHA-256-Digest: hU3FbwGg/wYks9JySLeQCm5dQqtZ2IqdVAlkJk69LYc=
+
+Name: net/anubis/client/module/impl/render/HitParticlesModule$Burst.clas
+ s
+SHA-256-Digest: Xpo379HVh3oaGfU6tJW7HaiLCFB0/RNzOgRBtfaDK+M=
+
+Name: net/anubis/client/util/spotify/MediaSession$Thumbnail.class
+SHA-256-Digest: aXZCzK+GqG0Hw5v0jtyBXuV0CopbwrFyjlKUOryTAKE=
+
+Name: META-INF/jars/imgui-java-natives-macos-1.90.0.jar
+SHA-256-Digest: fqHSMApOTRoQMa7RnkkLEUTEJ0+rRIGO5odxDjklDI4=
+
+Name: net/anubis/client/module/impl/combat/CrystalAuraModule$Side.class
+SHA-256-Digest: Dejlj6XA4oQJNQaDmrzFnlAX1Yk9Jc0fiC7cWBVPnbo=
+
+Name: net/anubis/client/util/netherite/HiddenDebrisScanner.class
+SHA-256-Digest: 9e9/n+uxWrfLJr2aRvaM6tgWWVwytflyMJDsRbGzzQA=
+
+Name: net/anubis/client/security/OfficialBuild.class
+SHA-256-Digest: s4aQY6bzztftHDDVvkcycy1HT08YddCVDF3jYJk4mLs=
+
+Name: assets/anubis/shaders/core/sky_theme.fsh
+SHA-256-Digest: n8mMBK20kHuF2x3MGz4/wEarxQ7LQH1ygNarR0C+fPk=
+
+Name: com/example/client/mixin/MixinSwingAnimationItemInHandRenderer.cla
+ ss
+SHA-256-Digest: 6bhqKjppMzyIQROUCY76EHIWQcAhFQqYY+gTaxTpcjo=
+
+Name: net/anubis/client/config/ConfigProfiles$Profile.class
+SHA-256-Digest: zuIQ6WkxjbWJpvrY5yKf5475IOnpQ+qO+0UMF/gGhEE=
+
+Name: net/anubis/client/module/impl/render/character/kit/Atlas.class
+SHA-256-Digest: pDgwrFEdlNYN6stxb1KPMZT6MUrOYQathfBNUJu+YAA=
+
+Name: net/anubis/client/module/impl/render/KnifeMesh.class
+SHA-256-Digest: Zs9ktOet8u6ZIT/a+U4fO3a0IR7XXFgucblQ+Hw5LaY=
+
+Name: net/anubis/client/event/EventBus$2.class
+SHA-256-Digest: mvHHRsXk1OUGYDuQkODCQuJU5FOv9SgDn/tAf8iGY7k=
+
+Name: net/anubis/client/module/impl/combat/melee/MeleeAttacks.class
+SHA-256-Digest: bik9y5mWUD85fcDKa9rEcXiQGns/dd6B6xd9+JCs634=
+
+Name: com/example/client/mixin/MixinLiquidBlockRenderer.class
+SHA-256-Digest: nMLrxbMMjxPZUXW0EQELsZa/1JRwrMARxulT7wYBARg=
+
+Name: net/anubis/client/module/impl/render/HandsModule$HandState.class
+SHA-256-Digest: gIgXLDl+V20mMCKwmW1yo9Ifecbpbia5fjgsEjkZ4hg=
+
+Name: net/anubis/client/util/seedscan/ShownChunk.class
+SHA-256-Digest: JcJM0ovR7JI8M/R+Xsu4g3Nc7kzzSZveKeuawXaB4AA=
+
+Name: assets/anubis/fonts/silkscreen-bold.ttf
+SHA-256-Digest: iDmlnKP7SCRI+pLOq9k4FkDcSJ+rAbTmW9m+6UaMhwo=
+
+Name: com/example/client/mixin/MixinScreenEffectRenderer.class
+SHA-256-Digest: nxInpDFJmaG/baVFNgwCjqWm9fht06YMMcvxrczAeKA=
+
+Name: net/anubis/client/util/seedscan/BlobJudge$Client.class
+SHA-256-Digest: yOdhA2t2/J7J+2Kf5kb7eDPCByREibzmX0FS7cjO2lU=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Scratch.
+ class
+SHA-256-Digest: gpKq2+i3awcQqwTP9C/FziN3yHIfzBtLdyMdRdBy47s=
+
+Name: net/anubis/client/module/impl/misc/WeatherNotifierModule.class
+SHA-256-Digest: sKOAL0uAf/fyw/cXERc4TU5SR0y7QbLbnjlaZ2b98Jg=
+
+Name: net/anubis/client/module/impl/movement/TridentBoostModule.class
+SHA-256-Digest: WsTaiR6VORiNt8ycapUqCtAYP3neWX06sLbNy7CBR8g=
+
+Name: net/anubis/client/gui/BlockIcons$Sheet.class
+SHA-256-Digest: hCVcey+zZQ0QW3IOOMixoYAzFu5lm5a27dudeeMU8HU=
+
+Name: net/anubis/client/module/impl/combat/ShieldBreakerModule.class
+SHA-256-Digest: 6YNKAvz+e1aYW4bh0Wqf4zRym/JsD1kGN79IJuLcgkk=
+
+Name: net/anubis/client/module/impl/misc/PlayerBypass2Module.class
+SHA-256-Digest: FfFByfKE9wsa6xJSm3PmCwOtd4pH+zWmvC3HYzzxDl4=
+
+Name: net/anubis/client/module/impl/render/character/gltf/GltfFile.class
+SHA-256-Digest: uLYn15nJcB2e9M8ABEGQcYJB5M+Fh6puYKmvJ91F/n0=
+
+Name: net/anubis/client/module/impl/render/character/gltf/MeshReducer.cl
+ ass
+SHA-256-Digest: zniDndaVgBXhsPCL/0Pq0a1nhHwBpCahpnwFINQNflM=
+
+Name: com/example/client/mixin/AccessorBlockOverlayMultiPlayerGameMode.c
+ lass
+SHA-256-Digest: 1k0rFnRBfYNO6BeqDLtMRgRpoXIXYVUMarTzA4fQiMk=
+
+Name: net/anubis/client/module/impl/render/SkyCanvas.class
+SHA-256-Digest: 40MvMsI7BAwEA9aE/4AflCbvzaUQ0dPmEsUvJBcQFQU=
+
+Name: net/anubis/client/module/impl/render/character/CharacterLighting$1
+ .class
+SHA-256-Digest: 2Hnd3J+E+DR4uWfFz1gCCEoqQrSdrBwOvU0bjHqB4U4=
+
+Name: net/anubis/client/module/impl/client/RegionMapModule.class
+SHA-256-Digest: NJ5dNsVmqXubJNAIgIJM4Fy7p58gBXiOht1ovuXMA24=
+
+Name: net/anubis/client/module/impl/donutmacros/SniperBot$Step.class
+SHA-256-Digest: oaWcoSxGh3Mu+O9+fOuK2/ykmjcQIAHGN3OTTA76rbM=
+
+Name: com/example/client/mixin/MixinNameProtectBossHealthOverlay.class
+SHA-256-Digest: qJFhHxYJqPEYNhcW3wYZUM0hyHz/12BQtzMz0ePIC04=
+
+Name: net/anubis/client/module/setting/NumberSetting.class
+SHA-256-Digest: HuWZOMwOOTFhV619woAEjgiN0fZZGzVvrIsOSvByzcM=
+
+Name: net/anubis/client/module/impl/render/character/designs/Aoi.class
+SHA-256-Digest: c0FmiMuvrRnK/pq9G/eE1OVJf/8irqi8ddLOsQqtGZY=
+
+Name: net/anubis/client/module/CombatMacroLock.class
+SHA-256-Digest: NVyO5jVbS+xVNmLO4GnlgObwZqIQC7wRTSYP/z3Jjtw=
+
+Name: net/anubis/client/module/impl/render/TracersModule.class
+SHA-256-Digest: 76OWaiipq5ty9jlfEK2Zz/IfKgtCqoUASpWrRfgXw2I=
+
+Name: net/anubis/client/gui/WindowIcon.class
+SHA-256-Digest: pT9SUMBjZKpFANhD1IaBmXiL+eqPvEvMjrdMMmF2j24=
+
+Name: net/anubis/client/module/impl/combat/crystal/HurtClock$Mark.class
+SHA-256-Digest: gPlyzntYiKMBMJJ512PaznIexYsFRni5Drmdd1LFqac=
+
+Name: net/anubis/client/event/EventPriority.class
+SHA-256-Digest: vxpAxu2F8RaPzpFr72w16BwNh36iL9a+sJeznRA1nXY=
+
+Name: net/anubis/client/esp/BlockLayer$World.class
+SHA-256-Digest: 8b6Krtj/0KSY3Vxq+uzIAlWnZQsltZRSyFiKNVYhmEY=
+
+Name: net/anubis/client/event/impl/ChatSendEvent.class
+SHA-256-Digest: nG9GCVnTHCXLJZXA+NozAU3l4s6EunRUZPkAcp3K/3M=
+
+Name: net/anubis/client/module/impl/misc/StaffListModule$Classified.clas
+ s
+SHA-256-Digest: 5iCTlrg2NKCc1R5LnB0DGArr+neZYE8EParyk2ATu08=
+
+Name: net/anubis/client/util/spotify/SpotifyWindow.class
+SHA-256-Digest: vhqYhI1W6+nuY7gMPteOZKJEMZwWX8JS/Fq5y7XRiG0=
+
+Name: net/anubis/client/module/impl/render/KnifeSkin$Streak.class
+SHA-256-Digest: uF1fmf728QSJ56If5geWTAYB0Gf5UJazUNeF8H1fgMI=
+
+Name: net/anubis/client/gui/mainmenu/MenuContext.class
+SHA-256-Digest: wW1BPMIF81BWbTNGwxy5awqRmF2r7JivZuDg6gkOnEY=
+
+Name: net/anubis/client/util/PearlTrajectorySimulator$SimulationResult.c
+ lass
+SHA-256-Digest: 7VGzmd04+QqCkpidQEbm/ebtZqroR/fiCfGMyvnkoic=
+
+Name: net/anubis/client/gui/ModuleListRows.class
+SHA-256-Digest: NOLAzwZ6e3pZhZTGFd92dXytj02ZfeR9IqlRr3jutZQ=
+
+Name: net/anubis/client/gui/ProfileList.class
+SHA-256-Digest: 3JFMiP8OI68LV8CvdCGQCDp/vYnVXUhadKhRL/dAHfs=
+
+Name: net/anubis/client/event/impl/PlayerAttackEntityEvent.class
+SHA-256-Digest: ThUgSQmT7JdUVuhTBzL+8Ln8IW9GjOe5o7RWSxI736M=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$ObservationTyp
+ e.class
+SHA-256-Digest: Rs3sEW+tRJi0LHuYYSdyZMnhpdSz+ge1pezFfu/dnsA=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$Observation.cl
+ ass
+SHA-256-Digest: d1Bh5shbiFf1k9kLuLbqnLsDQuiZePCRllq1mUDFPCo=
+
+Name: net/anubis/client/module/impl/render/HoleEspModule$Mode.class
+SHA-256-Digest: TDEz0ix3X68CUvM3E5aLklV1hWOUKBgVXP0v5Fg6d1k=
+
+Name: net/anubis/client/util/pvp/Rotation.class
+SHA-256-Digest: F9N75930u10tt6KdXsVGDVWvBZqY9IP620c40N084HE=
+
+Name: com/example/client/mixin/MixinCustomGlintTextureTransform.class
+SHA-256-Digest: 6agMRNKytYm2W79CyiY7+11y4wOv/bY8yOhfVcrXiqE=
+
+Name: net/anubis/client/gui/HudRenderer$HotkeyLine.class
+SHA-256-Digest: FydyjuYfux0TjfkNHVcHEumraobuyFEVBn4o+koaKNw=
+
+Name: net/anubis/client/module/setting/ActionSetting.class
+SHA-256-Digest: Z1yhXKSnrf1dNsNW7VTGSBG53hx+wzrE6O8QGebPBzQ=
+
+Name: net/anubis/client/module/impl/render/character/gltf/MeshReducer$Mo
+ ve.class
+SHA-256-Digest: 6XEfa38tiXrggpTA/4SleA0qe6KKR2bOZtnF/7R0YJY=
+
+Name: net/anubis/client/module/impl/donutmacros/AuctionHouse$Listing.cla
+ ss
+SHA-256-Digest: ANX9V9tNZd68i0aLvH9YlKG/Ru06ShXDZqyNZ2837+E=
+
+Name: net/anubis/client/module/impl/misc/AutoRelogModule.class
+SHA-256-Digest: 5mkU3rM78UxImIfjcduczs1pWWZmHXlngjCqNhdhd4k=
+
+Name: com/example/client/mixin/MixinNoInvLeakContainerScreen.class
+SHA-256-Digest: kZ/ZQSXyvGyaEMZVJtVX5ceDyPsMqyjAQ8L4Js7Awng=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$KnownPlayer.cl
+ ass
+SHA-256-Digest: 0KYNn3XZKCKKo6HERioT0EuV1V0c/z0OAXBZBd/bmZ0=
+
+Name: net/anubis/client/module/impl/misc/ChatMacroModule.class
+SHA-256-Digest: TTGopq+UUiNPYSK6kW50yO/zfVvaeXi9YcW4XnRmaqo=
+
+Name: net/anubis/client/module/impl/render/PeepArt$Art.class
+SHA-256-Digest: jouk8V7Cwqe6i2Lp0D3179/4PzF4Zp9lRl2fX8iwjio=
+
+Name: net/anubis/client/util/seedscan/AdvancedScanner$ChunkResult.class
+SHA-256-Digest: taaJQeDQZQCXH5qcjb3zzmVCi3qbzi8PhRMGg/qckwQ=
+
+Name: net/anubis/client/module/impl/movement/speed/VanillaSpeedMode.clas
+ s
+SHA-256-Digest: Cqu6WPIHm692Kesg5ACzLJXnf8SfoXneJjlQqV+NaoE=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Rotate.c
+ lass
+SHA-256-Digest: BFWS9WtAZp9vjGUCjtSYo6XZOCegcWfc0zEBW5xVqTA=
+
+Name: net/anubis/client/util/seedscan/ChunkDecoration$Builder.class
+SHA-256-Digest: 8IVIltsysKLWqqKO0WDse9kU0vCm5qeZPLKUg6pDlQo=
+
+Name: net/anubis/client/module/impl/movement/ElytraFlyModule$1.class
+SHA-256-Digest: vTj4jd4LJEf+OEsCX0kAGdItVDwwIHtmYU8v6lwNRTo=
+
+Name: com/example/client/mixin/MixinFriendGuardMultiPlayerGameMode.class
+SHA-256-Digest: 5HQDQEWBTgSxxQs1te+Yto9EYs3cR1Yb0J+wpNWo6ng=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Field.cl
+ ass
+SHA-256-Digest: j1iGYejcMNJuLW2Z+FOwpSrRP3lWSgH5XsYwlzOwP+c=
+
+Name: net/anubis/client/util/TranslationGuard$GuardedLanguage.class
+SHA-256-Digest: zmT/C9N4iCd1qvCGrqHUmSMCFN0hNTMxqpR8H2XCrBU=
+
+Name: net/anubis/client/gui/mainmenu/DuskWidgets$Dialog$Choice.class
+SHA-256-Digest: UMl+1+K/XV52ILX/wVtd8QpDjqWucjse093AGKWOEdo=
+
+Name: com/example/client/mixin/AccessorHandItemLayer.class
+SHA-256-Digest: p/Dyye90pn9f2V28R/UvDUPT1m058CxS0ab4Ohz3YDc=
+
+Name: net/anubis/client/gui/HudLayoutStore$ConfigFile.class
+SHA-256-Digest: SytrMfQ/amBpV4j8u1JJvhSrjXvhH42LzB6TK/4wTj0=
+
+Name: net/anubis/client/util/spotify/LrclibTrack.class
+SHA-256-Digest: S7wLg3kgwocpXpqTuTgBe1yZ7J8AuAKisMb0tEG4uas=
+
+Name: net/anubis/client/module/impl/donutmacros/AutoTpaHereModule$Result
+ .class
+SHA-256-Digest: UaKJ1SS/nhS8g1WI4dp7/mRDu0sTgRetEdhXSQ476Ls=
+
+Name: assets/anubis/lang/en_us.json
+SHA-256-Digest: w4lguZiSzFWSued8MD2ZFJrF61wI6C5sbOlewVMJJqw=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Custom.c
+ lass
+SHA-256-Digest: MLREEtyzyyJ+6EJUwD3PbhCodGpvOwcoUZsokB01lAA=
+
+Name: net/anubis/client/module/impl/movement/speed/StrafeSpeedMode.class
+SHA-256-Digest: 9XV9yuj8Tsl+KjCtgrKpc+G+ur7Mg/liQHxul6o1Ujc=
+
+Name: net/anubis/client/module/impl/render/character/CharacterCache$Entr
+ y.class
+SHA-256-Digest: QNAfWuZPX0AS7USgGYo+SvcjW9V+DjVTqZ/VdgCxAZg=
+
+Name: net/anubis/client/module/impl/render/character/kit/Colors.class
+SHA-256-Digest: xY1xVxs4HQBC3R5AWLCdUeFHSy30aZb+9oRueHvGMO4=
+
+Name: net/anubis/client/module/impl/combat/FastXpModule.class
+SHA-256-Digest: qrzETvUF6qOUMwXlNStSgZXzOe1A17bq1OkMUneAKWQ=
+
+Name: net/anubis/client/module/impl/render/TrajectoriesModule$Plot.class
+SHA-256-Digest: h9scxGKb02T4pq/EEpG6SrfpI2IB+cLjRNevDcxjoOI=
+
+Name: net/anubis/client/module/impl/render/CustomGlintModule$GlintTextur
+ e.class
+SHA-256-Digest: CxtwavBT0IDbY4vYjTz/onaLUUAGZcqymRGHysDQ8JE=
+
+Name: net/anubis/client/util/seedscan/BlobJudge$Vanilla.class
+SHA-256-Digest: QfC3eqmSovCdB0gh+b/Cz+TsNz+BiqIsKKS3hSj0mGc=
+
+Name: net/anubis/client/module/impl/combat/crystal/Crystals.class
+SHA-256-Digest: pHWhyEwddokMfSgzSZ/Vj/2FMUeZhmOCDFebuzmWZ88=
+
+Name: com/example/client/mixin/AccessorAbstractContainerScreen.class
+SHA-256-Digest: n2zt8HkIVhX61cjC5N1xSNDcWcbGsAph6A7fxCV5gD8=
+
+Name: com/example/client/mixin/MixinPayGuardChatScreen.class
+SHA-256-Digest: a8ku+Qtr2EtaOcwAAl2jsWo6XK0zaWZHF+gvwRI2kvo=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Box.cla
+ ss
+SHA-256-Digest: Gk8NzsUqLql7CCHqVb+ZYkwnapBNZHey/6bJbNiu5A0=
+
+Name: net/anubis/client/util/seedscan/OreSim$Chain.class
+SHA-256-Digest: 1zUbM1lPU9ZNTpAIERHCXe+tYMI05edw48j0RXbgprM=
+
+Name: net/anubis/client/gui/ImGuiScreen.class
+SHA-256-Digest: 0zc6hvQsEm07Dw+wmAFm2fF03cxuOW4mczwidlQ/9ZA=
+
+Name: net/anubis/client/gui/ThemeImages$Texture.class
+SHA-256-Digest: wILc5CqAR2DrtQNY3DABGjs8DxerBK2ceO8EU4cup0s=
+
+Name: net/anubis/client/module/impl/combat/crystal/LootLatch.class
+SHA-256-Digest: UpxM2W5nMFL7Tw/Ne8rAXkIJV+NbzYchqquIQQiKaX8=
+
+Name: net/anubis/client/security/PayGuard$WarningScreen.class
+SHA-256-Digest: 5MyDNnhYeaFIItT2kFCBeGJYUq62ctuJL5QRl3MGkwE=
+
+Name: net/anubis/client/gui/mainmenu/DuskMenu.class
+SHA-256-Digest: tLMy/kvmFJKhiiSWG9gbLeJoRovn3NA+gRVTi3ALMc0=
+
+Name: net/anubis/client/module/impl/donutmacros/TeleportConfirm.class
+SHA-256-Digest: oE1EFRXKkSeDvHvMo4X8j8PciDyl+ra5Kls1tBhqckA=
+
+Name: net/anubis/client/module/ModuleCategory.class
+SHA-256-Digest: lo3Ire39Voo28gySNloQaahuQw9NNo9reLbdw7EASw4=
+
+Name: assets/anubis/textures/peep/star.png
+SHA-256-Digest: VJR5xcGMWxGXyiUnpyiVqAKPaVulV5XAZqMneCPsVNQ=
+
+Name: net/anubis/client/module/impl/render/character/CharacterModule.cla
+ ss
+SHA-256-Digest: r00jK6QLpvtDdnP/bZ5WHtJLZPomQjsJqn2nOmGH0t0=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Field.cla
+ ss
+SHA-256-Digest: ePA5EpvcqFulyu4qIkAM78IHxkVlU+Shy/QkCcCN1T8=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Grain.cla
+ ss
+SHA-256-Digest: ANx/DP5ltpaQcg6XfxD6gd1X8xNUL31Z0KlVF69TXbs=
+
+Name: net/anubis/client/module/impl/combat/SpearLungeModule.class
+SHA-256-Digest: 1rvfY9kXxkd4Rx8b2pELmmvabEOn106iPQQzkZmvdcs=
+
+Name: net/anubis/client/gui/AnubisWidgets$Snap.class
+SHA-256-Digest: L0LuQtrFcdzVYatJb/+ZEabP8yVdG3mI6CxHf8bteNU=
+
+Name: net/anubis/client/util/LevelUtil.class
+SHA-256-Digest: B+5dwz7qVbYE5LqGca7F3Y+a7JvWtt1Fk1gEFQA21bg=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Glow.clas
+ s
+SHA-256-Digest: qURQLDi87Gd4hzfvXybXmvjayZoyd8T96B+h7VDR1+I=
+
+Name: net/anubis/client/gui/WorldText.class
+SHA-256-Digest: YJ8MGkhmBlcEiu6xwg5vKjSTNtaGuiTuxW0/M9mFg10=
+
+Name: net/anubis/client/event/PooledEventType.class
+SHA-256-Digest: BKT87dQGw0dIrAcAdMk/dZX1nD9rDDWF9xDjtIAh6UM=
+
+Name: net/anubis/client/gui/HudRenderer$SpotifyGlyph.class
+SHA-256-Digest: iPkfxHTRl9VRfnaUz9Nzu+560SSdZKAr1H9sE3xgQ90=
+
+Name: net/anubis/client/module/impl/donutmacros/AhSellBot.class
+SHA-256-Digest: TIxl3KGp5ntQj22b2QcAKKtDPLO/h80eNxXNN/jXo54=
+
+Name: net/anubis/client/module/impl/misc/FakeStats$Stat.class
+SHA-256-Digest: nbJZV9249RfI2Wl6z/E6cpqJX9z6gKJClEkV333xFEU=
+
+Name: net/anubis/client/module/impl/render/character/gltf/Skeleton.class
+SHA-256-Digest: 7s+82mNQzxh+pfZ1ySn+0+qorQArsHbdKTVQgk5bQZA=
+
+Name: net/anubis/client/module/impl/movement/elytrafly/ElytraFlightMode.
+ class
+SHA-256-Digest: h7RLOiF1bT/n1RWUnvEX00QmcZj1MZNu+jEI0U3ZzJs=
+
+Name: net/anubis/client/util/spotify/NowPlaying$Source.class
+SHA-256-Digest: LMg5WmgFDARoZOwRD1CxpZYv3gZ+Atbb3cWhc+CQRLg=
+
+Name: net/anubis/client/module/impl/render/character/gltf/CharacterBake$
+ Cut.class
+SHA-256-Digest: 2mQ2ZSGezD8/iNcyj18svSq8TdLeUtuT9N6enqFqeoc=
+
+Name: net/anubis/client/module/impl/donutmacros/SniperBot.class
+SHA-256-Digest: 9AEDkqF8VFMSSlHOqaW0a7FNa/B/IX+Xn0Q2NPh3poU=
+
+Name: net/anubis/client/gui/mainmenu/DuskEmblem.class
+SHA-256-Digest: sqd+3LHhs2f7OwA0AQsaPKzoa1D002g/Y9hOe7tFeG4=
+
+Name: META-INF/jars/imgui-java-natives-linux-1.90.0.jar
+SHA-256-Digest: q/95gk+jUGNma1qlxUkVe0iqRjBdl0kpAXXeHkgcF4s=
+
+Name: net/anubis/client/util/seedscan/BlobJudge$Bands.class
+SHA-256-Digest: YVVCKs348+5K/wau2YzmfwfP8MeHE9RqnZ2XefPYlsI=
+
+Name: com/example/client/mixin/MixinColorGradingGameRenderer.class
+SHA-256-Digest: 5HCLWB+fQAtKySx0YqtU/XoEd5xbTygH4faBz1oe2qU=
+
+Name: net/anubis/client/module/impl/combat/totem/OffhandRefill$Driver.cl
+ ass
+SHA-256-Digest: O9o/29uwamoBLMevG5hBcokSa1rxaGP2zDR7J5Wd9ws=
+
+Name: net/anubis/client/module/impl/misc/FakeStats$1.class
+SHA-256-Digest: 1v/lPXu23KeAxQERsiE88RlGG4fBNJiEU3TvzPcPdEI=
+
+Name: com/example/client/mixin/MixinGameRendererEffects.class
+SHA-256-Digest: uuSJoXDAk57FmZhOuX5kBeNJHTecFPvsuPhlLcggykM=
+
+Name: net/anubis/client/module/impl/misc/AdvancedFinder$ProbeVisitor.cla
+ ss
+SHA-256-Digest: xgINtVXGFLwmmnG4lLmBotxh0RmIeUE7DyEKDNmkJgo=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/OverlayWindow.class
+SHA-256-Digest: I7sR42Ao3GP0GM5AW8iRUYJwS7E8dK8+oQdQk9aZDR4=
+
+Name: net/anubis/client/module/impl/render/character/gltf/CharacterBake.
+ class
+SHA-256-Digest: 29fmCH+JNhZr2rAovlK6asmWZo7wrfwp2n3sQthuyk8=
+
+Name: net/anubis/client/module/impl/combat/totem/OffhandRefill.class
+SHA-256-Digest: B+xIxUk4mXFe0xb3NdNgvJB1O2OqzWM9fsbP0Sg2eUU=
+
+Name: net/anubis/client/module/impl/render/character/gltf/Mat4.class
+SHA-256-Digest: 698URsp+kauvNQSQDJNkzwaa2Og8JwfLr/WgBLE6wb8=
+
+Name: net/anubis/client/gui/SurfaceBackground$Lines.class
+SHA-256-Digest: JFPJl3eMmxIX9yjCQFEov15Mh6R0Hdn/ISIlDlvhv9k=
+
+Name: net/anubis/client/module/impl/movement/EntitySpeedModule.class
+SHA-256-Digest: zCiEH3vDQTgwCXwUlmRU9hSuwthDyXfTVnvM+50JDuQ=
+
+Name: com/example/client/mixin/MixinNoRenderWeather.class
+SHA-256-Digest: zO2bQvTqm0LxwgXtAjreciJxU7FFSu3ndXnJe9igHqk=
+
+Name: net/anubis/client/module/impl/render/ColorGradingPass.class
+SHA-256-Digest: piFkxTYQesfBnRaYj4HwZv9Sf0J0M+RtmA3u3ZBVvqM=
+
+Name: com/example/client/mixin/MixinNameProtectGui.class
+SHA-256-Digest: 8ho+dupqzp6pjWPD4sLaVI1ykYLU6ZE4Mfer/5HJ4QE=
+
+Name: net/anubis/client/util/netherite/NetheriteChunkTracker.class
+SHA-256-Digest: Fg1sALT5sKGVbRjq06eh04umxC9Zo9tSWa9UuGc6EXM=
+
+Name: net/anubis/client/ClientBrand.class
+SHA-256-Digest: 83xfcvwzBqI4JSnRAYx2v12sfiEg74UwtCswyQE2VQM=
+
+Name: com/example/client/mixin/MixinNameProtectEntityRenderer.class
+SHA-256-Digest: Vy9dJWHmX7LbxiNWiXKshrHh1gzA9cSAE6mKBK0rlPk=
+
+Name: net/anubis/client/module/impl/render/ShaderEspPass$Drain.class
+SHA-256-Digest: zZXhL6JBnELufyan/9aj2UV0WwPcO1bieowV+kePlSY=
+
+Name: net/anubis/client/module/impl/render/PearlTrajectoryModule.class
+SHA-256-Digest: ecYgUiZWLxkKtDJFBgzAdVdvHMxrE50nxA294E5APZ4=
+
+Name: net/anubis/client/config/Surface.class
+SHA-256-Digest: De6WAVWDlYpE+x9PUlPhGfII6NFc3fIuq7/Q6/39Es4=
+
+Name: net/anubis/client/util/spotify/ScriptedPlayer$CommandFailed.class
+SHA-256-Digest: b7fQaTBJ0UENztyHZerrJR4ByeBBKAs9c/l893Ohco8=
+
+Name: net/anubis/client/module/impl/render/FloatingRelicsModule$Relic.cl
+ ass
+SHA-256-Digest: E1cSuPIceE8dM2u/j6vO1TwDniMgiqBB7lfrnhiScpE=
+
+Name: net/anubis/client/util/playerbypass/AutoRtpLoop$Config.class
+SHA-256-Digest: yMiBwS43iC0b1sUsl/omPdwTjcvzFBfq/2YxIKjeCzw=
+
+Name: net/anubis/client/util/CompletionChannel$Form.class
+SHA-256-Digest: j8NZsSMcWQ/zv8WGlo5UIp9OoWwUegetco7nwDriIhI=
+
+Name: com/example/client/mixin/MixinBlockOverlayLevelRenderer.class
+SHA-256-Digest: h8LlfVcRWO2DDUoJ/7zRLNmdKQ/RsuiwR22k2zVRtrA=
+
+Name: net/anubis/client/module/impl/render/KnifeMaterial.class
+SHA-256-Digest: c5e3v2SnjKGvbG1g8RZC7QjhSgA9q+0m7mbGCmnEP5I=
+
+Name: com/example/client/mixin/MixinModelBlockRenderer.class
+SHA-256-Digest: T5lrI5p4BD6TYLUUibXhoY+atiq0DVbgu/6yOsrCaTs=
+
+Name: assets/anubis/textures/sky_emoji/angry.png
+SHA-256-Digest: dQYe5Dn9gapXuYE1au6GGFkooR2y1Mosxzq99ZMJIVs=
+
+Name: net/anubis/client/module/impl/render/StorageEspModule$Type.class
+SHA-256-Digest: bwshIxs6FN6hedwAi3r2QBPcJlMC9C5+h5EZbCRoCvI=
+
+Name: net/anubis/client/module/impl/misc/PlayerDetectionModule.class
+SHA-256-Digest: NZo7za+Zve82r1hGF47B02XA51qfZSoIoXTFISYLq0Q=
+
+Name: net/anubis/client/util/combat/CombatTarget.class
+SHA-256-Digest: IfFWNwoavMqpKIRjJz08jTDeNX7qlsqSzXhcBLumkCw=
+
+Name: net/anubis/client/gui/mainmenu/MenuTextures.class
+SHA-256-Digest: ZMQaCapUvzx9JlVzKV95jeIK/eEFCg/t+IPv5f+BQPI=
+
+Name: net/anubis/client/module/impl/render/character/kit/CharacterBuilde
+ r.class
+SHA-256-Digest: eGQDo1HuReh11LR86ZGTzdQwsppsMT8CZeBIOCcCb8s=
+
+Name: net/anubis/client/util/pvp/InputControl.class
+SHA-256-Digest: 92HpCqhLt56X42VGlM9+KCB2Q3sPeLp13VjKcyr7W34=
+
+Name: net/anubis/client/util/playerbypass/VisibleChunkCache.class
+SHA-256-Digest: ZAmKv5pKdezpKw46IqdJ5MgHfghNoVay/LLQpVJTzLE=
+
+Name: net/anubis/client/module/impl/misc/NetheriteVisuals.class
+SHA-256-Digest: f+lozxjDLnwOylr5F5TiMcWMc6EhaB7+8OpRYW9OOgQ=
+
+Name: net/anubis/client/module/ModuleRegistry$TypeIndex.class
+SHA-256-Digest: EEfR9tdFBQSggAbATlufEiisNxa7i9Cj7ZMDrHP3hPY=
+
+Name: net/anubis/client/module/impl/misc/NoInvLeakModule$1.class
+SHA-256-Digest: aaSxmlSyMO89/6OT93sS16KwyFsGX4fqvUFh4kQKr4o=
+
+Name: com/example/client/mixin/MixinMovementCorrectionKeyboardInput.clas
+ s
+SHA-256-Digest: GWJxYAkWNUf/tMhu2XFz1Low291pLLCUVohOsnTeg4k=
+
+Name: net/anubis/client/util/playerbypass/RtpReply.class
+SHA-256-Digest: 5IqTrWK3PsHOFzSHLrVjXK5q2HVF8OKuB9ZkM8/mv54=
+
+Name: net/anubis/client/module/impl/render/JumpCirclesModule.class
+SHA-256-Digest: TG3ozeH/FSx9P1J6G8MgxEHTzEkkGvxaO4hP9jUDhkM=
+
+Name: com/example/client/mixin/MixinMinecraft.class
+SHA-256-Digest: TKYAwnkN5dJMVvMJt7xO/ojLXk4a9YmvQ8ymMzcFQ0k=
+
+Name: net/anubis/client/module/impl/misc/PlayerBypassAutoRtp$2.class
+SHA-256-Digest: YD/Ki44BDLOBUeIZuEoll8uvz50w2rYj4iSlSloT/Eo=
+
+Name: net/anubis/client/util/ShaderOverlay.class
+SHA-256-Digest: OeyGqe8wUqrkVlIrWSET56goNorIhYGAruNO9SFoHN8=
+
+Name: net/anubis/client/module/impl/donutmacros/OrderRestock.class
+SHA-256-Digest: mBR5EuO2f9vtvZUVMD5OHXNqMCWAftV7KJq0VDKEp7M=
+
+Name: net/anubis/client/util/spotify/ScriptedPlayer$Reading.class
+SHA-256-Digest: 0lps7PBiU3/74JdcHNBMVTMixXt2d9pduH9zEvVvo2I=
+
+Name: net/anubis/client/module/impl/render/NoRenderModule.class
+SHA-256-Digest: cT4ElAm3yD5qPaBSCdXfM9Z7YsU13e9A4JX3LBC3Nrw=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Translat
+ e.class
+SHA-256-Digest: UQhva9pdiTU5yEYJDzL5bZOtXDAwb/sW7h7xNZqVxUU=
+
+Name: com/example/client/mixin/MixinNameProtectGuiMessage.class
+SHA-256-Digest: 4LLB7nF8J6J4ftrkD+RB8xrlAGcRBDNvR38m5hG6anU=
+
+Name: net/anubis/client/module/impl/render/character/designs/Luna$Lock.c
+ lass
+SHA-256-Digest: TqjMW5mC7l7a4Mw4CpAhLyR7wUD7RsgR/j+fhuGiZXQ=
+
+Name: net/anubis/client/gui/mainmenu/DuskWidgets$Scroll.class
+SHA-256-Digest: QlhAD+hr2uYKi1R4ZLRNbNCfvn5wG7lk3A80U3W7oHQ=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Cylinder
+ .class
+SHA-256-Digest: pPb753YeYnnBPeMwZLmDScn4Duo6Y6WICcAbucPco+4=
+
+Name: net/anubis/client/module/impl/render/SwingAnimationModule.class
+SHA-256-Digest: qHMtE2KXW3p/5Du9Xfcgcpt8pTjttaDBp9B1Qwq1uUo=
+
+Name: net/anubis/client/security/TamperStop.class
+SHA-256-Digest: UfRh5aesVgXVMjn800DIgSmy7BVFe3wJbDF9XIvsxl4=
+
+Name: net/anubis/client/module/impl/render/character/CharacterLayer.clas
+ s
+SHA-256-Digest: hB32N620pf3/m1gybOcXffg6EQnThj/D7V/qjIVQEes=
+
+Name: net/anubis/client/module/impl/donutmacros/AuctionHouse.class
+SHA-256-Digest: R7HMWPd09dJzGIaASiQSKeQicE8kUjGQ6b+H/m2r0T8=
+
+Name: net/anubis/client/util/glyph/GlyphShapes.class
+SHA-256-Digest: ZfrsxmpHyE6AZAHHlMQjMgrG55yA9I64TJ0v5HJLFzc=
+
+Name: net/anubis/client/event/impl/ModuleToggleEvent.class
+SHA-256-Digest: RmQVU1z+ZDjaEuryODe58ZCNsGvbdVrC2tzt2KZd0ek=
+
+Name: net/anubis/client/module/impl/combat/anchor/AnchorGuard$Cell.class
+SHA-256-Digest: cc5e5QET27ceFK1v+R4fdDsYnFHH7gnbJkF45oN78dQ=
+
+Name: net/anubis/client/util/PerformanceBudget.class
+SHA-256-Digest: noPB9uTkAAn4a4OyrzunuLWBkSOefKz7Alm5DsShDn8=
+
+Name: net/anubis/client/module/impl/misc/TridentUtilModule.class
+SHA-256-Digest: 5rSt6SPBmdSkVPlANwMYBL7ovCrq1gFqRne78DepVcQ=
+
+Name: net/anubis/client/imgui/ImGuiManager$1.class
+SHA-256-Digest: lso1/kU/uB/gHETcpFABm9/joTQIUKKbSdSDW/Fymto=
+
+Name: net/anubis/client/gui/HudRenderer.class
+SHA-256-Digest: joCYqSYk5RiQ+niGyG4cZkNE+ABMx5aPSIgDSBoXAME=
+
+Name: META-INF/jars/fabric-api-base-1.0.5+4ebb5c083e.jar
+SHA-256-Digest: 9gkAs3k4Ib0kgXZU9915ZgsusRz6CBvQliN4rxRLnao=
+
+Name: net/anubis/client/util/Ballistics$Flight.class
+SHA-256-Digest: tyNDLr+4FSovO4s7NM/m8ic2PwkdkJYRNZbtPvKijEc=
+
+Name: net/anubis/client/util/SessionWorker.class
+SHA-256-Digest: r6wd6FLqjfLvH2yLV79srNdeQPS7hJtJ67JqvPwGF3w=
+
+Name: net/anubis/client/module/impl/render/AtmosphereShaderSky.class
+SHA-256-Digest: tEitQ1mUxPBs9OQwbsX4DZNYluEY1Eu3kz07lTP1YMQ=
+
+Name: net/anubis/client/module/impl/render/character/gltf/CharacterBake$
+ Result.class
+SHA-256-Digest: KMUUYWv1esGSzt2uT1sUVTNEXG4vrUSBv7D0/ePASAM=
+
+Name: net/anubis/client/module/impl/render/character/CharacterLighting.c
+ lass
+SHA-256-Digest: pZKeFq4jjL2aRmQYyu8v6SiFq0+7mgi1jmTP1waooaM=
+
+Name: com/example/client/mixin/MixinMobEffectFogEnvironment.class
+SHA-256-Digest: IMnGhxTcrqewhQwwQYtJ2lk1zBVzSJoebXssl/ct6VI=
+
+Name: net/anubis/client/util/pvp/RotationUtils.class
+SHA-256-Digest: v41QVVqmtQ8GRcS2n/eC1TKnXejBnyp+0f5//oJse10=
+
+Name: net/anubis/client/esp/ChunkScanner.class
+SHA-256-Digest: PFpG4yR5tvwGm0ZshQAJCmdCoyar+vaeSF944WlH/EE=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Op.clas
+ s
+SHA-256-Digest: 6Bee1bARGFeDzPq+0sgkNgXnIJnDFsqZEkOtMafVdSQ=
+
+Name: net/anubis/client/util/spotify/LyricsService$Found.class
+SHA-256-Digest: VslF+A3k+/5pZ1u8UQ+QgCSVxTaozCUmK3TZ37ECXpI=
+
+Name: net/anubis/client/gui/mainmenu/MenuIcons.class
+SHA-256-Digest: Ggaen2mKJmS5BMsGIDHHUIAM4N/whYTgCq82uNPukw0=
+
+Name: net/anubis/client/event/Listener.class
+SHA-256-Digest: 4BuPZRP7ZcUtn/oCKt0oIP9Vnxrtg4Xz4bP7Ri2DElg=
+
+Name: net/anubis/client/module/impl/render/character/designs/TungTungSah
+ ur$Bark.class
+SHA-256-Digest: QsKwZIViJLtfWAe1NB4e6mUcCzJNVnMzbCeYU1tY1Ok=
+
+Name: net/anubis/client/module/impl/render/character/CharacterRenderer.c
+ lass
+SHA-256-Digest: cXDoho82Y4gc38bqqlE7ozkBt/E1EWBYFstlIF2P8qU=
+
+Name: net/anubis/client/module/impl/misc/StaffListModule.class
+SHA-256-Digest: LmBZGat8KG5ayz9iL9IpqJroP6VZxNFXcdXWfkcAnaY=
+
+Name: net/anubis/client/util/seedscan/WgRandom.class
+SHA-256-Digest: DA3V5Vnj452v1Vsqiy0oWidAiddng6ut0THWociT/iE=
+
+Name: com/example/client/mixin/MixinEntityControlLocalPlayer.class
+SHA-256-Digest: tsJ/TpWCp/F5RSsa6BUzes08Kk6j1fRu29IMNFNOAeI=
+
+Name: net/anubis/client/module/impl/donutmacros/AutoTpaHereModule$Phase.
+ class
+SHA-256-Digest: EdhFUI+99hB4AxNcteK5ZG2EMTLE3NkZKukf+aysVLI=
+
+Name: net/anubis/client/security/TamperWindow$1.class
+SHA-256-Digest: DCwky6avZfC8xcaeJObASTZab2HccqwT2E/kB93YN+0=
+
+Name: net/anubis/client/module/impl/client/HudModule.class
+SHA-256-Digest: 9mRGR3b1kto9Zk/zLsMVy0W4Y1jNDyYM6ZxmDNHMk3c=
+
+Name: com/example/client/mixin/MixinSectionCompiler.class
+SHA-256-Digest: 6ObFSf8MNvLwGRsZfsYi3N9lQX4n0j65vnnjQSi27AQ=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Round.cl
+ ass
+SHA-256-Digest: B83K59rAE0xqPN9rrsXkmv/psGRBKtgbTj5305odhXs=
+
+Name: com/example/client/mixin/MixinVisGraph.class
+SHA-256-Digest: JbofAQEnghshcRt2W0Q0lEdtmMxX3phqSZzldZ3P42o=
+
+Name: assets/anubis/fonts/silkscreen-regular.ttf
+SHA-256-Digest: NBTyALO8Igfz6r6eSk667oMScCKgT/qM+6Tv3+8DU98=
+
+Name: net/anubis/client/module/impl/render/character/designs/TungTungSah
+ ur.class
+SHA-256-Digest: yrFK6WEgGnzGQoeFh67xP0m8dHPocvuh/BhKeZiUisc=
+
+Name: com/example/client/mixin/MixinGlintHeadSpecialModelRenderers.class
+SHA-256-Digest: ScBjT1dcqtUao2J6GZOOz6f7t7+lqLQlE2fcCiy+5+I=
+
+Name: net/anubis/client/module/impl/render/ChunkScannerModule.class
+SHA-256-Digest: aRyshh2XItfSu568byqxavZIloEiiKceg9k4ebZvvYA=
+
+Name: net/anubis/client/module/impl/render/PeepSky$Built.class
+SHA-256-Digest: T64XwLDdhMLfVTJt2D/2qi/45RBPicpNDuzAV+cULxo=
+
+Name: assets/anubis/textures/sky_emoji/cool.png
+SHA-256-Digest: Z1jkPY694ltC/OPwua6usJTUrlxiym08vPggcbr7FEk=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$HudEntry.class
+SHA-256-Digest: M+1mIuawa4lTBpo0X+sMsatUW7h87VmNWfVFIRmYduk=
+
+Name: net/anubis/client/module/impl/donutmacros/SniperBot$Hit.class
+SHA-256-Digest: QcwaDp2Zi4ja9OcJmIrAqAyS3rCaCi+bvsdwbfNnvkM=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/OverlayArt$Image.clas
+ s
+SHA-256-Digest: yOEQ6x3lxNHNSaVoAhEHHQAwt5VK1sKcU75UnsUMCFo=
+
+Name: net/anubis/client/module/impl/render/PeepSky$Palette.class
+SHA-256-Digest: Xb2fBiCzT367uMpEd0WYojw6V/Stt4zg+cSbGi9uATQ=
+
+Name: META-INF/jars/fabric-screen-api-v1-3.1.7+4ebb5c083e.jar
+SHA-256-Digest: U7a6EjS12/jvzWIEdbFrLoTMhDLkuZT5E5tLr1lmLfw=
+
+Name: net/anubis/client/module/impl/render/PeepSky.class
+SHA-256-Digest: SguwarT6LObSKpdwJSOpiAwS82pkrW/IFnRXUgYzLik=
+
+Name: net/anubis/client/event/impl/PacketReceiveNettyEvent.class
+SHA-256-Digest: fDCDqLwyce4LaLDaevDSi3MegPYvSREglQLpfFB9dIs=
+
+Name: net/anubis/client/module/impl/donutmacros/Dialogs$1.class
+SHA-256-Digest: //DJWOZvUwM2YSF6JWYPRVvzSNaFFUg7gBP3dxxce9E=
+
+Name: net/anubis/client/module/impl/render/ItemEspModule.class
+SHA-256-Digest: zSk5dZ+9VQVW3fRnL9Uz8CRxmmUMnOcMPkxUU68LT74=
+
+Name: net/anubis/client/discord/DiscordIpc.class
+SHA-256-Digest: iToZyeSppg0aGqnlSWagd0gVU64wAOP+l9TGTKIv+lk=
+
+Name: assets/anubis/fonts/rajdhani-semibold.ttf
+SHA-256-Digest: nS6VtcSy4JALh3hXeT1488oaZQBHB/+lx4AAdWfXQDk=
+
+Name: com/example/client/mixin/AccessorSkinChangeEntityRenderDispatcher.
+ class
+SHA-256-Digest: XJCMUmXGAOXHoHCYoIq+XelSkzMDfoFGYH9HsuK3keA=
+
+Name: net/anubis/client/gui/mainmenu/DuskWidgets$TextField.class
+SHA-256-Digest: ex8qxXkikxQxa/T6h9Jo4bMlqIBih9efpbC5PmaYksw=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Transfo
+ rm.class
+SHA-256-Digest: Ffsgev0e5ol2CmaEh5FUeMpszLUudWesc5isTqSISSI=
+
+Name: net/anubis/client/util/BlockClusterGeometry$Mesh.class
+SHA-256-Digest: LCZ+C6DBeabDXAAgt4Yce7v6hltxkanKGG1fSlDBj3Y=
+
+Name: com/example/client/mixin/MixinMotionBlurGameRenderer.class
+SHA-256-Digest: rRkkB1lFctCf2LZADoCUqQsK+M8tG0ubyUTlYTLzTaQ=
+
+Name: com/example/client/mixin/MixinPinkWaterFog.class
+SHA-256-Digest: JL+GkCDcwyOmxUSFHDlOIivdkDVr55NMfiw9HqLy1tc=
+
+Name: assets/anubis/icons/icon_256.png
+SHA-256-Digest: DEJ3b4PCcMHEFG+A1ystiAwjQSkuvkPkmGvYEb5TUEo=
+
+Name: com/example/client/mixin/MixinLevelRenderer.class
+SHA-256-Digest: 3/9MyPtyGR31+ai7wfukk3UlJMe2D+lx4vNSmmLohCM=
+
+Name: assets/anubis/textures/misc/knife_base.png
+SHA-256-Digest: wTKvlfXO7MhLaY250h456Xndc38y0xp65CnM52iRmHg=
+
+Name: net/anubis/client/service/TickJitter.class
+SHA-256-Digest: hQfmtqUkeWVkB1JBkPwOxE75Ezwajc5bxLH+yi2p+X4=
+
+Name: net/anubis/client/gui/ClickGuiRenderer$1Item.class
+SHA-256-Digest: U9jPrPEl/FwEt9qDh/tyeOBRGKuilWGyDcUXEBPKf2g=
+
+Name: assets/anubis/icons/icon_16.png
+SHA-256-Digest: hERICfQ/whF2diXwW6See9Tgzzr9Hk1nj0ArF7+I7/c=
+
+Name: net/anubis/client/module/impl/combat/crystal/Crystals$1.class
+SHA-256-Digest: cQQKhfFGmORMxOUJ5H0du06s4m3/0VVm3x2oJzkRJSw=
+
+Name: net/anubis/client/gui/HudRenderer$LyricItem.class
+SHA-256-Digest: RbKRFL+x3VqG0tFFcFujtA7oWRKmlAWmLwNGaCbvg3c=
+
+Name: net/anubis/client/module/impl/render/KnifeSkin$Centre.class
+SHA-256-Digest: yL0OX7iWYJUJio3FxV16OkVCYZWBJdU1YyjUJzJ+N1Q=
+
+Name: net/anubis/client/util/GeodeGlowScan.class
+SHA-256-Digest: qAhFScKSnnUrpF97r94UuvPFs4hNQ4JFrXjV+Kvl31k=
+
+Name: com/example/client/mixin/MixinEntityControlEntity.class
+SHA-256-Digest: CIBaAJ/CMVjiK7085IE+jsT5SsDE4MdRCcJ8URuMuaE=
+
+Name: assets/anubis/textures/peep/crybaby.png
+SHA-256-Digest: zQeEk1xSD9au/9dZYpEFci2wMR1dHy18cgFdtmACflM=
+
+Name: net/anubis/client/module/impl/render/PeepWorld.class
+SHA-256-Digest: fT39cmXBPfitdpmJ2fAiV8cDEfuqq5scvyQ1n/KEcqc=
+
+Name: net/anubis/client/gui/mainmenu/DuskWidgets$Icon.class
+SHA-256-Digest: shyqhdAmPCM1dP/zWiFdm9ZjkZ7l6S8w9miCpTUm7FA=
+
+Name: net/anubis/client/module/impl/misc/AutoClickerModule$1.class
+SHA-256-Digest: uobBsPuIXqzy5ICsMuCTWodVkZgzW7/ZAvJPiS1hNLM=
+
+Name: net/anubis/client/util/combat/TotemPops.class
+SHA-256-Digest: m/BZ93PC0W/D3h8rq0GfwEIJm1jNGwjZ5ThA4WGp2s8=
+
+Name: net/anubis/client/module/impl/misc/QuantumModule.class
+SHA-256-Digest: C+ckWU76bN5O7gkcuNCrs0c94zmJ/gQPZBRaG99TjQk=
+
+Name: com/example/client/mixin/MixinFreecamLevelRenderer.class
+SHA-256-Digest: ubEBiwRJsv7BHi0Qx/dJN0ma5Dpb7Tr4lxhO7VZQtu0=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Ellipsoi
+ d.class
+SHA-256-Digest: hXKsBLDDIdrO6ny0Q1sVf5JwmDEtior2QSof/yAQs2w=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Subtract
+ .class
+SHA-256-Digest: e/0A1Lmhsu/1pP0pNgzjVMaMbsH9thj2XDudiO30yg0=
+
+Name: com/example/client/mixin/MixinPlayerBypass2ClientPacketListener.cl
+ ass
+SHA-256-Digest: swrvhWZ2uZeF+1FMlF29b6xUB98LPzlkuJelw1wkghY=
+
+Name: net/anubis/client/event/impl/WorldEntityAddEvent.class
+SHA-256-Digest: IEDZVVpdD9uiMDdCoxMyXAvSyHXGqRi6+GuW6IqueLw=
+
+Name: net/anubis/client/module/impl/render/TargetEspModule.class
+SHA-256-Digest: kq8EGLRDqezfQcn/HE4B/0J8C5NcUQ2bray0o4myfGU=
+
+Name: net/anubis/client/gui/ClickGuiRenderer$PanelLayout.class
+SHA-256-Digest: boId3C9mjkmns8aqXT4UfHa1gPtFkcJ/cNJyK4epWMo=
+
+Name: net/anubis/client/util/seedscan/DecorationOrder$Shown.class
+SHA-256-Digest: xZxO6/3NYRjEjjfWUlyQUO1lIgigOgLTTtBhKRW0bRg=
+
+Name: net/anubis/client/module/impl/misc/WeatherNotifierModule$WeatherTo
+ ast.class
+SHA-256-Digest: KaQyVVSc74GRCKasO7OK8wQ2AehQQtIxpwiAmm5hovs=
+
+Name: net/anubis/client/gui/HudRenderer$InfoPlan.class
+SHA-256-Digest: TB6eywgH3Bxr+dL4RdXvGLsCI6pmhGH7M3bb+/xL5aA=
+
+Name: net/anubis/client/module/impl/render/character/designs/Mika$Curve.
+ class
+SHA-256-Digest: G0Pv40DopYzhN0mMOCTks7TI0pJT2qNPm92mx9oi0lA=
+
+Name: net/anubis/client/event/impl/KeyEvent.class
+SHA-256-Digest: if06mIXtCL1F6OiKv0UZZTn2syAYGHVL+1NBTQ7ZrTc=
+
+Name: net/anubis/client/gui/HudRenderer$StaffLine.class
+SHA-256-Digest: FlaWsJzIq9oPJWsDY5l5k3bYtW06vdxB0qEfbUtB654=
+
+Name: net/anubis/client/util/playerbypass/PlayerBypassLightTracker$Spott
+ edListener.class
+SHA-256-Digest: VN9PZRezA4/IqI/dQZ7+vNQXsz5C+2ZrsIZvCy64SRg=
+
+Name: net/anubis/client/gui/MainMenuRenderer.class
+SHA-256-Digest: Yk8w/+aUoVIYp9yIxc1WeQmm1xKvWl6U2q8/RGA71tQ=
+
+Name: net/anubis/client/util/seedscan/PredictionArea$1.class
+SHA-256-Digest: K2NlTfWWsrm00ToohXbi/Scs0sPh7OB8RbZqwrI6LZ0=
+
+Name: net/anubis/client/util/seedscan/SeedWorldgen.class
+SHA-256-Digest: QqS+GKDKf6A4XA5r/YsFrnXhcSNYjJoX03YxASf0Stc=
+
+Name: net/anubis/client/gui/HudLayoutStore$HudElementState.class
+SHA-256-Digest: teefjZB8JrRivbck7Ae61kgN5yU+bKw7SgNgtM7/HPM=
+
+Name: net/anubis/client/module/impl/misc/AdvancedFinder$Probe.class
+SHA-256-Digest: f1C7H6yABz07/cfPRxF9OEeBV9k4hgEfMLaSnu+cS1M=
+
+Name: com/example/client/mixin/MixinBlockEntityRenderDispatcher.class
+SHA-256-Digest: O2FL+gwY7nHLfSGkuuJmnBySF+34CiJxn82rOcIOrqE=
+
+Name: net/anubis/client/module/impl/movement/entitycontrol/VehicleAntiKi
+ ck.class
+SHA-256-Digest: XnE7f1wBbWGQTjpjDlrhY/Sua6OVCnsGMlM3gyhOe5s=
+
+Name: net/anubis/client/module/impl/render/character/kit/Mat3.class
+SHA-256-Digest: gjsjZf1UZf490UDuAzKDKhMlX0JaSOB7ik6enaUR9lI=
+
+Name: net/anubis/client/module/impl/combat/HoverTotemModule.class
+SHA-256-Digest: Xg9sCT0Db6pa008gv1vSKaeOHHX/h8Am5K1Y78NfRgY=
+
+Name: net/anubis/client/module/impl/donutmacros/OrdersNav.class
+SHA-256-Digest: hxzYPcGG8gFUnIs2JidOW9qFPGMmPjPTQUsPBG+2El4=
+
+Name: net/anubis/client/gui/GlintHeadRenderer$Unbaked.class
+SHA-256-Digest: PEsP2QbNuEyNaczbA8LVfWA6s+orjjO8gzASBYSITOQ=
+
+Name: net/anubis/client/module/impl/render/character/CharacterRenderer$1
+ .class
+SHA-256-Digest: p5XKRQGd4sPUEqEPJzkrZxBIgjqgdZs7ls7WnuQ0E00=
+
+Name: net/anubis/client/event/LambdaListenerFactory.class
+SHA-256-Digest: F2+7B7vaFweY9rhWGcRT1Nehi8pWMW2p3JWZWa9KfFM=
+
+Name: net/anubis/client/event/PooledCancellableEventType.class
+SHA-256-Digest: 5Du+Pf7RM/OJNpzPoB298gjH/YDgfndn1iz8T6/fuI8=
+
+Name: net/anubis/client/config/ThemeStore$Preset.class
+SHA-256-Digest: ah3mNdzXOTgn/PY1pbwcEEazcPRKsWhA2j44aFiIe2I=
+
+Name: net/anubis/client/util/seedscan/PredictionArea$MayWrite.class
+SHA-256-Digest: qmyvVqTAGyPvXyGm8tfeveQ4BVYyEFaA0Fi6jfwplKA=
+
+Name: com/example/client/mixin/AccessorHudToastManager.class
+SHA-256-Digest: ID41nYIquBeaeIOwRUjIQtsn3w1rTr+w7/slbCE6UTs=
+
+Name: net/anubis/client/util/BlockClusterGeometry$Membership.class
+SHA-256-Digest: JeRCCcEJVugzPq9R5MmSKFtXMu6H0YwwPFZ2Ubfu93U=
+
+Name: net/anubis/client/module/impl/render/KnifeSkin$Part.class
+SHA-256-Digest: AqpRgV2FqJthrTWrvo3NOjdGGwxL4H4ZZCfKv+jMrdc=
+
+Name: net/anubis/client/module/impl/misc/CoordSnapperModule$WebhookHolde
+ r.class
+SHA-256-Digest: J4uLP+ioloM1Bt9OpvUaUHcUpOAMLAM1klAICfm1pVQ=
+
+Name: net/anubis/client/esp/ChunkScanner$ScanCursor.class
+SHA-256-Digest: mnERSieu5qDN5Rbhu5Fx9fPdy6xHSVdWlZNP1BV6xSo=
+
+Name: net/anubis/client/module/impl/donutmacros/AuctionHouse$Problem.cla
+ ss
+SHA-256-Digest: UE9VpxBW4usYRmmSTSmQyAhcGKznvx/SeLhXPTAvs6g=
+
+Name: com/example/client/mixin/MixinAtmosphereSkyRenderer.class
+SHA-256-Digest: Qogz795aOgrN2sY3Iljqde85WbRGPfXyCx4ZlVwKbU8=
+
+Name: com/example/client/mixin/MixinEntity.class
+SHA-256-Digest: KTSSOT5J8SnppAt/SKTonO4DvMzp2X+QL7QYrrZ+Ykg=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$Detection.clas
+ s
+SHA-256-Digest: sPEG/swcwxBDrl0AWrSRsUngYwR4Uvo+K23H/f1/yfU=
+
+Name: net/anubis/client/module/impl/render/character/gltf/PosedMesh.clas
+ s
+SHA-256-Digest: cGKqPvZMooulRh9q5Hfm8jzjem8iUPeMNFrFv3004Fs=
+
+Name: assets/anubis/fonts/OFL.txt
+SHA-256-Digest: J1Wd9EizuLrpBx17kV6QCUX52LwSWClok6MJeRfAZ9M=
+
+Name: net/anubis/client/gui/Motion$Store.class
+SHA-256-Digest: tJOrRt6dGR2a1fhgFQc7sjEggA07VRP0hPwPvK+apcI=
+
+Name: net/anubis/client/util/spotify/LyricsMatcher.class
+SHA-256-Digest: zCbtea0cGb0FSGTlw1myNzlfZkZZ0CjT+l2RGokwpUc=
+
+Name: net/anubis/client/module/impl/combat/CrystalMacroModule.class
+SHA-256-Digest: r6EzOpnqwc7hz6uF5D37tlCM5umf6kuBucUeuYIzpxU=
+
+Name: net/anubis/client/module/impl/misc/CoordSnapperModule.class
+SHA-256-Digest: +5ydcnxumn5RdlH2re5QWTn8v/tnQoMS8kfHrSRsmME=
+
+Name: net/anubis/client/module/impl/render/HandsModule.class
+SHA-256-Digest: Rl3TSPxbVTJcq1KhCHvZg76uII7vcCi+Pi5SRDTo9s0=
+
+Name: net/anubis/client/gui/HudRenderer$LyricView.class
+SHA-256-Digest: sD1YO+QwXiO4NC5EltNNNGu/47igpbEtHngN85b/tKU=
+
+Name: net/anubis/client/module/impl/misc/StaffListModule$HudRow.class
+SHA-256-Digest: YpcJFlQbxEAbLdix5EeAlMvOOkpWl2A94x+GX55XDPg=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/OverlayWindow$Unsuppo
+ rted.class
+SHA-256-Digest: h7c5zX6WjFVwVQtuLh71Zb7L/UmcczB27D17XF+iWug=
+
+Name: net/anubis/client/module/impl/render/TimeChangerModule.class
+SHA-256-Digest: iCSuM+Dmdb1VQOegZ9hZmnFue44ep6UZCvNN00tC7oY=
+
+Name: net/anubis/client/module/impl/render/LowHealthWarningModule.class
+SHA-256-Digest: AVG5E+mp3zjdeuyYzdfBmynagzMb8KirN9QNmkSDuLk=
+
+Name: net/anubis/client/module/impl/render/character/kit/Motion.class
+SHA-256-Digest: 6Ewz1JfQRkEI8y3IcxyIF5L1lKRX+P4zNXOUTRozppg=
+
+Name: net/anubis/client/util/pvp/TargetingUtils.class
+SHA-256-Digest: LaOJIkrOK2A4l2jkzYbY/dcuiLSpWEZdlBpPGF3BvKE=
+
+Name: net/anubis/client/module/impl/render/character/kit/Lights.class
+SHA-256-Digest: a1Sm76H9vX2b7gYhjoDuN6zRqz5vqUAkfeBq8LNdGuc=
+
+Name: net/anubis/client/gui/ItemPickerEditor$EnchantRow.class
+SHA-256-Digest: PSxZC12366HRFsBOK2OQuX0iKeFQ+PdEL8Dg/70VQmg=
+
+Name: net/anubis/client/module/ModuleRegistry.class
+SHA-256-Digest: VM5GKjstq12HgfCKjSJ3AgnKIzyovHZQ3Slqxf2UR4Q=
+
+Name: net/anubis/client/module/impl/donutmacros/MacroWorker$Cancelled.cl
+ ass
+SHA-256-Digest: QWqz8KxN0GXCYGUvOTLG3gC1fm6ma7O77ZMhaboiv5k=
+
+Name: com/example/client/mixin/MixinNoInvLeakGui.class
+SHA-256-Digest: qo8PkNMQmJoJnJZrp4Kzdp1/SMm9+0Fy+R1+w9t3AEw=
+
+Name: net/anubis/client/gui/RegionMapRenderer$Size.class
+SHA-256-Digest: lxiHGIHkhN8a1ayM8M8+9zRFxWWB50fUSZ4fJoQe24I=
+
+Name: net/anubis/client/module/impl/render/SpawnerNametagsModule$Shown.c
+ lass
+SHA-256-Digest: WS0tjD+q66zPc0vaWCgPtHe1rtoFnWusbry0BcZv9MY=
+
+Name: net/anubis/client/module/impl/render/HeadCosmeticModule.class
+SHA-256-Digest: 3mZLt4dXj8f+09XmSV3xr5Dnqtb5oIzt9UhflftgI8M=
+
+Name: net/anubis/client/util/playerbypass/DarkSectionCheck.class
+SHA-256-Digest: khH+zfAW0XFyo/fyJfxuSNXMAEeHGuLl3jblq49k754=
+
+Name: net/anubis/client/gui/ItemPickerEditor$Summary.class
+SHA-256-Digest: F+JOIS2MWLYj0PBm1j/UmmtmbCN6+zr1yJp+c4Hd090=
+
+Name: net/anubis/client/module/impl/render/ZoomModule.class
+SHA-256-Digest: /Jz0EVwCbl2x0llwiVgG8SjnQjf1FhwEywTeJ1x2jRg=
+
+Name: net/anubis/client/module/impl/client/SpotifyHudModule$Poller.class
+SHA-256-Digest: sE1Bq5u8ovMxgXKMBTt4F/VzVZG570GCanChVm7mHOw=
+
+Name: net/anubis/client/module/impl/render/XrayModule.class
+SHA-256-Digest: pa/05Vr0Crc+IlZcN4cdlTx3n7HEq+21PAlkvwPFyLc=
+
+Name: net/anubis/client/module/impl/misc/StaffListModule$Changes.class
+SHA-256-Digest: YpUgJBBOlDO5vhq5e6xVaSF1Sp7/NsrELA9vX4WobsU=
+
+Name: com/example/client/mixin/MixinSpamClientPacketListener.class
+SHA-256-Digest: wVV2PF695eSSAyAL0sFt53wzFscXbcSG3r0CH9MngTs=
+
+Name: net/anubis/client/module/impl/movement/ClickTpModule.class
+SHA-256-Digest: powYR8BJT+02cC+NABqyUWBDzshOAeOhyIRE8jIHkgc=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Shell.cl
+ ass
+SHA-256-Digest: OxanGx0xhqVMFTckXK+DaJoZUFyPwTBJESL8XSiBeYM=
+
+Name: net/anubis/client/module/impl/render/JumpCirclesModule$Logo.class
+SHA-256-Digest: xh16NV7XPNjPnwnaI/J1STyNoaTuxHufI4B/pKeyihs=
+
+Name: net/anubis/client/module/impl/render/CustomFovModule.class
+SHA-256-Digest: Gqpz3liaNIsy3wNYKfnXTXCfOo69rsZ23wUHUggYmRc=
+
+Name: com/example/client/mixin/MixinClientPacketListener.class
+SHA-256-Digest: UzPfyOk/uT9baU9hqkhZtkWA+LAst9jw9+8UpImb9so=
+
+Name: net/anubis/client/module/impl/combat/melee/SlotReturn.class
+SHA-256-Digest: +Krc7IstJqGpTfkn3KoseY7MYMwEWbiILrFwUpUQmjU=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Field.c
+ lass
+SHA-256-Digest: Ny9htzqDj/PUcSmXdEEzBBXwatBs9Ig8Oy9SqTSskzo=
+
+Name: net/anubis/client/config/ServerAddresses$Address.class
+SHA-256-Digest: Kz59Fl7FTmWbQiIFQOCNN7sE86oXNH0aJgNxLs9gO8s=
+
+Name: net/anubis/client/util/seedscan/PredictionArea.class
+SHA-256-Digest: K0irxhcEbydPQv0+qZycgDp7Dl4YT5cl1rCK+fkhT4c=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Box.clas
+ s
+SHA-256-Digest: 001TPeSCfHknRGLs7ijwYw1S6E9LoDvXeST8NOQpHrQ=
+
+Name: net/anubis/client/module/impl/misc/NameProtectModule.class
+SHA-256-Digest: 0k9uVoJnigDf38OaKarC22IlBwrVn0NSLSi5uOeHrYw=
+
+Name: net/anubis/client/gui/HudRenderer$ListPlan.class
+SHA-256-Digest: 4iVbk/wAhOtB8sWoGmY5REF+b3y75MKAoE4gnq88Hp0=
+
+Name: net/anubis/client/gui/GameIcons.class
+SHA-256-Digest: QtB/v6XXm4wzRUSeMMfI0MYhmlTijPX9Baycjkzb/K8=
+
+Name: net/anubis/client/module/impl/combat/AutoTotemModule$1.class
+SHA-256-Digest: bWk5sdGDINYYHF8dSgyrbxEw0ZiBJF+1Hsk1okS0RGI=
+
+Name: net/anubis/client/util/netherite/NetheriteChunkTracker$Candidate.c
+ lass
+SHA-256-Digest: FePMKNNgLuDrOuf1qTXxxToRjmD1ppZK48MPQt4zEIg=
+
+Name: net/anubis/client/module/impl/render/BetterSusChunkModule$Record.c
+ lass
+SHA-256-Digest: rfPRgpMVo73DgnwAR+yhN6zi8jtAcEhCQAVyeFXxQQM=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Plane.cl
+ ass
+SHA-256-Digest: LX9i8veLewhlC0LgCDm9W1XOkI/Ri6GldVHmtiZAyLk=
+
+Name: com/example/client/mixin/MixinNoInvLeakEquipment.class
+SHA-256-Digest: KDBNbbo7reVK84smibH36U2qTNgYBrwhyIPLw4iKKw8=
+
+Name: net/anubis/client/module/impl/render/PrimeChunkFinderModule.class
+SHA-256-Digest: nXjLHZeUfDc5Og47jLwWNdAOXwGC4H/uDJynpOYzNNI=
+
+Name: net/anubis/client/module/impl/render/character/designs/Luna$Tier.c
+ lass
+SHA-256-Digest: b3k9pN70UYAt/cberthPfSbMySXBepAqsF1ZZoWacDI=
+
+Name: net/anubis/client/module/impl/combat/CrystalOptimizerModule$Attack
+ Probe.class
+SHA-256-Digest: HUwKcLpfYpGmLDvUfJUUjruGSWghiLA6AejCWutNa0U=
+
+Name: net/anubis/client/util/glyph/GlyphSwarm.class
+SHA-256-Digest: Og7DOjMkwIKIyceaIrSwufAY7JRUi5HBvZz2J09NLuo=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Solid.cla
+ ss
+SHA-256-Digest: imq0eJ0DG/Wvma44/J1xm12rsbwJf/l3wTqO1D6QoOA=
+
+Name: com/example/client/mixin/MixinEntityControlMob.class
+SHA-256-Digest: TVlSoUghTYDUlN0EaxtO9NCOC1ozjfeF+XEdeV3CUl8=
+
+Name: net/anubis/client/util/spotify/MediaSession.class
+SHA-256-Digest: gw+yAXrg3tezJdIgIAr2G/4hQIjW0Uun3kb2U+vqctc=
+
+Name: net/anubis/client/gui/HudEditorScreen.class
+SHA-256-Digest: g0WsUxBMluaMzYFHh/Im74IyEle+YQsxp0lXjjtAI3w=
+
+Name: net/anubis/client/util/playerbypass/AutoRtpLoop$Step.class
+SHA-256-Digest: wwOMIN6z4tx/Xu00U6syWlsDVDvkSkHZkR9jx5sqZac=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$RegionProof.cl
+ ass
+SHA-256-Digest: yvdssGTpGrI9TzH5MCTI/VatF4lUlc9Dj+f9PhVJ+Gk=
+
+Name: net/anubis/client/module/impl/misc/RenderDistanceToggleModule.clas
+ s
+SHA-256-Digest: +i1k3bjyn6/RBv7pCpLpkblAw2LgNHsNv6Tr0yDAtJo=
+
+Name: net/anubis/client/gui/HudRenderer$LyricShift.class
+SHA-256-Digest: kMdxZZ3glnqMITBFJzgHhVx6MVNls+gS3jQOrqauGqU=
+
+Name: net/anubis/client/esp/EspStyle.class
+SHA-256-Digest: jWbcDQSODo2M6ZAztah/wjRreg2K7A05SYU2wAxibHA=
+
+Name: net/anubis/client/module/ModuleList.class
+SHA-256-Digest: V7zVjGZM0nutp/EPBQFlnDi71YwZBnfON9ligeDqgtQ=
+
+Name: net/anubis/client/module/impl/misc/nameprotect/NameMatcher.class
+SHA-256-Digest: lO2XZC87QUCeyc14l68M7PcOx7muKp+mhQt/LYm4r3I=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Radial.cl
+ ass
+SHA-256-Digest: /Q9RsJaQp9fzPr1bNVW7FCuJlTOFiRfECKFIYuaFab8=
+
+Name: com/example/client/mixin/MixinGui.class
+SHA-256-Digest: LXq+qwQOCuB3gikMeVuF8rToPWscDqZ6dB7Cg3GxIDw=
+
+Name: net/anubis/client/event/EventHandler.class
+SHA-256-Digest: DJwx/w5Zlx6ZNcJMdbIgawBCsKh71Cb6Fzz4vEsBlBE=
+
+Name: net/anubis/client/module/impl/combat/anchor/AnchorGuard$Spot.class
+SHA-256-Digest: rVP8g9KimM8Yx5qmvbYy7mYXpU7K+4F1j7Q91TGZgu0=
+
+Name: net/anubis/client/gui/ArmorStatus.class
+SHA-256-Digest: UUIDvA2oSJPRQpjJq4gX0zH5EWc6Cf5NJY6U5avk/+Y=
+
+Name: net/anubis/client/module/impl/render/character/kit/SurfaceNets$Ext
+ raction.class
+SHA-256-Digest: T6jktBcHEH+ZpVK8vsFPRIbH/L0O0aNQJ8eWm9yQFI4=
+
+Name: net/anubis/client/util/playerbypass/LightDataClassifier.class
+SHA-256-Digest: OrerjuvqHC1w5vGBEXo6n4L89yc++aWELgFI4tI7BGA=
+
+Name: net/anubis/client/util/spotify/ScriptedPlayer$MissingTool.class
+SHA-256-Digest: T6QRmi+JLahlN61DHl04IIxPblycdUf4qDPv+haDT3c=
+
+Name: net/anubis/client/module/impl/donutmacros/SniperBot$Problem.class
+SHA-256-Digest: eLmIR9nL5R37JkUqLiYFo3ebUp4iMy7gq1LWDYsLCmk=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Ellipse
+ .class
+SHA-256-Digest: MUrMYqg5Ii9Cq2UkTJVDjSKw37BdvuopXP2ZYjBagVM=
+
+Name: net/anubis/client/module/impl/render/character/gltf/ShapeCut.class
+SHA-256-Digest: YH7T3LLjWCUi2w3evqnEHHRQdNiRqObDyIXm+ZQycNU=
+
+Name: com/example/client/mixin/MixinTranslationGuardKeybind.class
+SHA-256-Digest: oOO0kC79Rxc3Kjp2o2jwmH8zySXEhrb31ZBEvjWL8xg=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shape2D$Offset.
+ class
+SHA-256-Digest: suzGujr2GndPgN64Q46KbKepbWqfxZ5ehUvQS6PdMHs=
+
+Name: net/anubis/client/module/impl/donutmacros/SnipeTarget.class
+SHA-256-Digest: ke2LNOFmEssqFnfuq7ZFcyhYJKpfDeoz/v75hFSQdzk=
+
+Name: net/anubis/client/module/impl/misc/SlowSwingModule.class
+SHA-256-Digest: 4TQy4C80Cokx9aMvfWnMPTIPni/L8qszuZuBHyisv4o=
+
+Name: net/anubis/client/util/glyph/GlyphCanvas.class
+SHA-256-Digest: Wc+8gZ8TQ+jQyyhSkcnCON1BQZLTDsgPCRw9baOTDHk=
+
+Name: com/example/client/mixin/MixinEntityControlAbstractBoat.class
+SHA-256-Digest: uYtDJZbeHyqBsXmz5ELnSNrZ4KfZF4hyuLfyu+9mUB0=
+
+Name: net/anubis/client/module/impl/render/character/CharacterRotationTa
+ ble.class
+SHA-256-Digest: ducxoSLrCuw/hj+iaDE7HZl8FYVXB4zYifvExV+fzFc=
+
+Name: net/anubis/client/security/EarlyBuildCheck.class
+SHA-256-Digest: HDZbNIas6FMxddhvD3uNq2RfeAVu6ccGc7iEA7YJ80I=
+
+Name: com/example/client/mixin/indigo/AnubisIndigoMixinPlugin.class
+SHA-256-Digest: JXseZQ9wkJ4iVJyERJHSg5lxqMBRtG7Id9BRukAh6dY=
+
+Name: net/anubis/client/module/impl/render/WaypointsModule$Point.class
+SHA-256-Digest: dBxhthx/E0tXc9ozkDIYUhN5pQOPc2tLJkOxJpNJJWk=
+
+Name: net/anubis/client/module/impl/combat/totem/DoubleHand.class
+SHA-256-Digest: cSwP63YGKFj/osN2H5VSshu/E++BlUXh+d7EaA57Ros=
+
+Name: net/anubis/client/module/impl/render/FreelookModule.class
+SHA-256-Digest: n98tHeDq8Or1KR44/6HOvEJ5pP7yfPXdQCjxGW19Vgs=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$ExplosionEvent
+ .class
+SHA-256-Digest: 9zJcEYe+uaRh9ddA3IeW05n3Zkd3RsSHroQs1LoKaCY=
+
+Name: net/anubis/client/util/seedscan/PredictionArea$ChunkClusters.class
+SHA-256-Digest: 8LzSiJXMlY0XEDN5S+cL0SH05FR7WaJc0IGnaKL5iw4=
+
+Name: net/anubis/client/module/impl/render/SkyPaint.class
+SHA-256-Digest: zQ8PlBEFQj6SRFlEg/cDhaxmSRrNvDrUUsdZYDmNCn4=
+
+Name: net/anubis/client/util/spotify/WinRt$Combase.class
+SHA-256-Digest: QtrdrpJvJo2RorNnZuQcURu/Zrx5+pxUjunawETEVmM=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Scale.cl
+ ass
+SHA-256-Digest: 3CkmotIUEkXldjcrK1dn9cfoPinEEM6pJD3fcBMpL8Q=
+
+Name: net/anubis/client/module/impl/render/character/designs/Luna$Pen.cl
+ ass
+SHA-256-Digest: Odwu/CYEgVsyrYmzafQxeIPv5rJbwwhwh4mtuxkFoek=
+
+Name: net/anubis/client/util/spotify/NowPlaying$1.class
+SHA-256-Digest: hKgNCARO9zfitHck0ywg9bkTDmouZtd7yVXKVmG1Gys=
+
+Name: assets/anubis/icons/icon_32.png
+SHA-256-Digest: v4ZYTXV4Dkn8iSEjYXk65uLF6Mqko57ny43NYo60Z+o=
+
+Name: net/anubis/client/module/impl/render/SpawnerNotifierModule.class
+SHA-256-Digest: 3Rz3A7Wkv0r1bbFBVFX3P8tvf1HwXJe5J/ekiynn8Dw=
+
+Name: net/anubis/client/gui/HudRenderer$DrawTransform.class
+SHA-256-Digest: 7PJcLwzcDT4ghqRJ/jAXjOZkGUgczvrf+GTXgmaM5qg=
+
+Name: net/anubis/client/gui/HudRenderer$1.class
+SHA-256-Digest: yJvkCGmL+Za/a9dEGa2aOklvo3m2xOF3x8KH6lStkEY=
+
+Name: net/anubis/client/module/impl/misc/PlayerBypassAutoRtp$1.class
+SHA-256-Digest: c0JuV521el+K8DcE8den7/9Nl66iKZe9TW95Vg6Hf9s=
+
+Name: net/anubis/client/module/impl/render/SusChunkFinderModule$GeodeSli
+ ce.class
+SHA-256-Digest: nKTIOE1M6DfAn4EoPa1iQkWyNDZ6C1vVxUSLvLCG7PU=
+
+Name: net/anubis/client/util/glyph/GlyphShapes$Builder.class
+SHA-256-Digest: 2ZJV90R4HUUjBx26/FKadPTxvu+U/xdWFVKILeTkffk=
+
+Name: net/anubis/client/module/impl/render/BetterSusChunkModule.class
+SHA-256-Digest: LIBzy+7K10+9Sumy/LTA+/4xd/ErAwxNcIZditkhXzk=
+
+Name: net/anubis/client/module/impl/misc/HomeMetaModule.class
+SHA-256-Digest: WNpqp498xvpNOy1dPMfrKgY8czwsUz+NdFpYyQhB+kI=
+
+Name: assets/anubis/textures/sky_emoji/shy.png
+SHA-256-Digest: P850Z41+ILjBIbMWBlph1g3jirS5N6mw5BoJ7LGHBkA=
+
+Name: net/anubis/client/module/impl/render/character/kit/Canvas.class
+SHA-256-Digest: FfV1klMvrnvNMfxTareagM5/LZDlz9tb8A0jbcFNnJQ=
+
+Name: net/anubis/client/gui/Motion$Rows.class
+SHA-256-Digest: IY9KurG1nuBkwa1Ym49bhDFBfvbzoKDsJ9FLQJM4Dyg=
+
+Name: com/example/client/mixin/AccessorHandItemRenderState.class
+SHA-256-Digest: NEVYTmcCxV9iyX+8r2/67nayfQXWI+Lto3AsVxibwFg=
+
+Name: net/anubis/client/util/Ballistics$Body.class
+SHA-256-Digest: e6A9IZp89sx1Wj5K/VQaFnSspR2Gj2u/xWEIREpD3Fg=
+
+Name: com/example/client/mixin/AccessorOrderDialogScreen.class
+SHA-256-Digest: MrrJ13Y6Ee7li1yfLybv+df6UQvN8oFzt2ShmanKc7E=
+
+Name: net/anubis/client/module/impl/render/character/kit/Vec3.class
+SHA-256-Digest: Wl0oqxyYYWeWpzMKmHf84y1rWvJ7xQcV3YY6k+sDYzM=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/DigitFont$Sink.class
+SHA-256-Digest: Q2t8Bothuu/OZw9V37dHSDlVxiDfagejXj+Yn0rNz2w=
+
+Name: net/anubis/client/esp/BlockLayer$Palette.class
+SHA-256-Digest: uOVYpl2XokaxonZty2P0CZ/jIiWp9tJoT6N9mbZ/QeE=
+
+Name: net/anubis/client/util/spotify/LyricsService$BusyException.class
+SHA-256-Digest: +wQv3SsvZUF9CIcPCRGAppgBUsSKQ3i21nJu29FZA7A=
+
+Name: assets/anubis/fonts/manrope-medium.ttf
+SHA-256-Digest: qDm1+DhyfW4GXeG5Be9jmmkWB5GzQUc2i68wIbIqJw0=
+
+Name: net/anubis/client/module/impl/misc/StaffListModule$Staff.class
+SHA-256-Digest: sfoyTC9vQTo5kJYdnbTzyf4kiZxDgb6rklyi4giI0f0=
+
+Name: net/anubis/client/util/staff/StaffMatcher$Word.class
+SHA-256-Digest: EzKCpZ+WJK2zJ667Asxngqxj8lOXALgQTiri6R+le8g=
+
+Name: assets/anubis/textures/gui/menu/bg_mid.png
+SHA-256-Digest: LKsjo40dRigatkGhg3wognuzi+286jeMwau/o2OgUAM=
+
+Name: net/anubis/client/gui/mainmenu/DuskWidgets$TextField$1.class
+SHA-256-Digest: F78lAcbI1T2Th9Tm8VLaFqL2O+4M3p6F6yLgmiBWvxw=
+
+Name: net/anubis/client/gui/BorderlessFullscreen$Switchable.class
+SHA-256-Digest: Uk9/ivSpeCrkVa3bCw2jXr75taigR9XDg8RUPu/vMm0=
+
+Name: net/anubis/client/module/impl/render/SkyMesh.class
+SHA-256-Digest: 6PRX/iNrdd16ogax4cOF/LYRwWNdXH4OLc+3NzQVshw=
+
+Name: net/anubis/client/module/impl/render/TotemSpiritModule$Spirit.clas
+ s
+SHA-256-Digest: Yd7vR2qnxLELUNeS7gTcdVPODLFLmxC3Q9FMmnFJB3w=
+
+Name: net/anubis/client/module/impl/render/SpawnerNametagsModule.class
+SHA-256-Digest: YdlVbjIotrbZlwIjS0JbQW9NjHHL4uswwwta6A/2NFM=
+
+Name: net/anubis/client/gui/HudRenderer$StaffPlan.class
+SHA-256-Digest: wNmLklwfnRbpaMNAvJxx8hDNR+v2bIoz0TVGIGA6mzI=
+
+Name: net/anubis/client/gui/mainmenu/DuskBackdrop.class
+SHA-256-Digest: MPnw4kYKeijj0xchzKgPpOS+kHcKkU4Czp7PgUPKtwU=
+
+Name: net/anubis/client/gui/HudRenderer$CoordPlan.class
+SHA-256-Digest: Z+Nz5j3yqqlgXWPEyX2mxaciuycG0ugE4gwVGlNJ+qU=
+
+Name: net/anubis/client/security/OfficialBuild$Result.class
+SHA-256-Digest: oe+lZokkmcPkkv5g8ENl9/BQQwsU52Pyq3w/KbIURHI=
+
+Name: net/anubis/client/config/ConfigProfiles.class
+SHA-256-Digest: 3RFKft7SPP0ZEyw0vpUkfowL1hUK9cc/1h1EzEoXFY0=
+
+Name: net/anubis/client/event/ListenerList.class
+SHA-256-Digest: JZbZt4M81NBexCPngcotFD+cEobDL0+rt4XKoWvvDww=
+
+Name: net/anubis/client/module/impl/misc/VehicleLogModule.class
+SHA-256-Digest: 3GSJcBq/AxqUfal6tCMe70oLEzX9eOnozCXz5Fq0yhE=
+
+Name: net/anubis/client/util/seedscan/AdvancedScanner$Copied.class
+SHA-256-Digest: qAyI5imAsfiRxG6dEjAMej27TN/hUZFPiEzO+s4SQro=
+
+Name: assets/anubis/textures/peep/rose.png
+SHA-256-Digest: qhMt3RoJX/KxNiBsi5CYlizEFdnCeUIzzF0RPDg3+JI=
+
+Name: net/anubis/client/module/impl/render/SusChunkFinderModule.class
+SHA-256-Digest: khWnIYRDmp/Jovr32r4JNWgVg81tdx/2x2X4Hw87nRc=
+
+Name: net/anubis/client/module/impl/combat/totem/OffhandRefill$Phase.cla
+ ss
+SHA-256-Digest: IuYEfMzEwWdrkEoJVr9EA2XXpXwY1MRVy1hSB4Un3ow=
+
+Name: net/anubis/client/util/spotify/LyricsService$Response.class
+SHA-256-Digest: fjoUKP2Bnc+BwrKyEStqpoBGd9FtRU3ta+VS3kIC0Sg=
+
+Name: com/example/client/mixin/MixinCharacterLighting.class
+SHA-256-Digest: aoQOA3scnd4sjjl7kiZWj/Ezto89BLo+7yjFO8h3ulk=
+
+Name: net/anubis/client/module/impl/render/CustomGlintModule.class
+SHA-256-Digest: TCMneHldHnOuEjeSu+kIBK+dSeBMSAQNVBYI7FR6yKU=
+
+Name: com/example/client/mixin/MixinClientConnection.class
+SHA-256-Digest: ahWnrGk2pFsAALj/hxQ+h5tBOnWGla6rhsDo/6HTDBM=
+
+Name: net/anubis/client/module/impl/movement/SprintModule.class
+SHA-256-Digest: 8DEzWKxS/97kqdSjbt6w0UADvwAKECey7HD9k/Aaomk=
+
+Name: net/anubis/client/module/impl/render/TracersModule$1.class
+SHA-256-Digest: /gnJvc8+tSdG8pJromIpknTT8ys3q7bXkV2eNgSSDwU=
+
+Name: net/anubis/client/util/seedscan/VBlock.class
+SHA-256-Digest: hrPzbo7oPK8Mr0PNhtL3nYdJHSuhQzEw48bDLpktYys=
+
+Name: net/anubis/client/util/CompletionChannel$Request.class
+SHA-256-Digest: S/NIaqk+P1WoR8SF0ZISE/FcZVzLeIbIHDdPt4uKSzA=
+
+Name: net/anubis/client/module/setting/ItemColorListSetting.class
+SHA-256-Digest: KTMs6HH0Kn+EH5zjnc59OnuSpthSCfTgI5ffTjQh6jM=
+
+Name: net/anubis/client/event/EventBus$HandlerSpec.class
+SHA-256-Digest: Bc66HeTY0FSMHcttLn73tIAIuM0ZJ/o2fTUVoqJQGU0=
+
+Name: com/example/client/mixin/MixinGlDevice.class
+SHA-256-Digest: WosP8HDMj8PtSIL2ToC5V7KqEmngkeg+0K1AcDK9xnk=
+
+Name: net/anubis/client/util/seedscan/OrePredictor$Answers.class
+SHA-256-Digest: xFGHCg0yboyyyc7kxo6kvvAuObVyanDhbhpXAk85qus=
+
+Name: net/anubis/client/module/impl/render/AtmosphereModule$Theme.class
+SHA-256-Digest: 45QTMdjIm4b2WjMIPsa31H8bJzJw02+j3dqJ+uFRG00=
+
+Name: net/anubis/client/util/spotify/LyricsService$CappedBody.class
+SHA-256-Digest: vZVk1B1zEu78TkPRmXgB35+5yszMok2DVQ17oDsdGbY=
+
+Name: net/anubis/client/module/impl/render/TrajectoriesModule$1.class
+SHA-256-Digest: gFhlEvrkRNlNc/FPwp92APdmP+z9TMcLTihNMKC2PCI=
+
+Name: assets/anubis/characters/cj.anc
+SHA-256-Digest: +B/1rXzCUdwRM+rUuwQ6e4L2pa3oz/izsiBTFtExw4I=
+
+Name: net/anubis/client/util/spotify/NowPlaying.class
+SHA-256-Digest: nMtAqoF3uhoolo4BK63e2vt/XtWwK55SOeQ29toCd10=
+
+Name: net/anubis/client/gui/mainmenu/MenuAction.class
+SHA-256-Digest: tih0/VxK/QRxkopgdGiG/fcAzrd6tOeRYN3K7oJ/wGw=
+
+Name: net/anubis/client/module/impl/movement/elytrafly/Pitch40Mode.class
+SHA-256-Digest: a2vRtmU1t5JXuzZRyqv7Q70iwco5dKvjvrtZ9zK9SfQ=
+
+Name: net/anubis/client/module/impl/combat/AutoTotemModule.class
+SHA-256-Digest: tNOdnUdQW6I6XL6tg34/rPV99Mthy7UV3emBDgwdPEU=
+
+Name: com/example/client/mixin/MixinElytraFlyLivingEntity.class
+SHA-256-Digest: qfIcADVAgN3kxWIFQEkNR1aSan1nV+AtwyCihAMG0Ac=
+
+Name: net/anubis/client/gui/HudRenderer$SpotifyCard.class
+SHA-256-Digest: dTSSJydLMVvdZpfNoNk8s9GaWBWW/TnC6XkPjjQL/Gg=
+
+Name: net/anubis/client/module/impl/render/BlockEntityDebugModule.class
+SHA-256-Digest: 8wdIaBBYMxKVcEUDB5yzGPXI7UEC3AJS9p3ASlaM0tU=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Roughen.
+ class
+SHA-256-Digest: ypM0QeNP+g29W1wSQWas6ucf1XlFhh3wNwJqSGCVA1E=
+
+Name: net/anubis/client/util/ChunkOverlay.class
+SHA-256-Digest: 8D1GxA5ZweXsu9qvTF/1GmOA9vx8dVZR+Q39knV8j+k=
+
+Name: net/anubis/client/module/impl/render/SusChunkFinderModule$ChunkSco
+ re.class
+SHA-256-Digest: Xb5TyVXdo4QDl1yA2STuCwPyRP3JzhEgUT47xqWoaQ4=
+
+Name: net/anubis/client/module/impl/render/InspectAnimation.class
+SHA-256-Digest: hnfHOfXcwNSD2lSLT9NlExF6NVHJW+neZ/Js/kZVq8o=
+
+Name: net/anubis/client/event/EventListener.class
+SHA-256-Digest: dI3HvKN98sSXJwz7OBN0ltKVIUalliEKpJTPVCXSyRA=
+
+Name: com/example/client/mixin/MixinAtmosphereCloudRenderer.class
+SHA-256-Digest: GlkwSczzY2CSeUIYpjwGdfFN3AXW1UKDp+EJrsrgdYc=
+
+Name: net/anubis/client/util/TranslationGuard$Load.class
+SHA-256-Digest: /m3lQOsd6qGLcv0HZiYzv16OBSoykXnJ9i/I4QGl4Vk=
+
+Name: net/anubis/client/module/impl/render/EspModule$Target.class
+SHA-256-Digest: A5QtQEm3J3n4EWaXUJzCV4eBbsLXOHs4Dfj4oQku8gk=
+
+Name: net/anubis/client/module/impl/donutmacros/Dialogs$View.class
+SHA-256-Digest: QZ0SI2mAdH+HWALqvB9ZVtwa6BGPbsOnuAOsmSf0D08=
+
+Name: com/example/client/mixin/AccessorServerboundMovePlayerPacket.class
+SHA-256-Digest: UJH2SYFiK+XVVLTJTJOA6OsPG6nKUF01z9splpFYZR8=
+
+Name: net/anubis/client/util/seedscan/AdvancedScanner$Want.class
+SHA-256-Digest: E5eCLoZ5xsEzdEWMH553iKcLqbuJ+iROSlBo0Q4s+bA=
+
+Name: net/anubis/client/module/impl/render/PeepArt.class
+SHA-256-Digest: ds3QEyN2H7ojVYu58XkXxxCeCm2E4t/7uLb5xo1snQM=
+
+Name: net/anubis/client/esp/ChunkScanner$ScanBatch.class
+SHA-256-Digest: Shi3a9iKLjMyV9ITzGbw1QOLIOWx8YXf4dD741SNI0I=
+
+Name: net/anubis/client/module/impl/misc/nameprotect/ProtectedText.class
+SHA-256-Digest: ogdvl1QasQYyQ9CsmMu9+0DzeFwzgO6dLhomfOGYs2w=
+
+Name: net/anubis/client/module/impl/render/LightEspModule.class
+SHA-256-Digest: RJtDrbm00efF3rtG2J2UfCoQOcMV9Q/q1B34rTxIIJk=
+
+Name: assets/anubis/textures/peep/rip.png
+SHA-256-Digest: Ac3SdZwR0tGgTkmiRqMDoiUps7dYUcI3qxiGLDOEPpw=
+
+Name: net/anubis/client/module/impl/render/KnifeMesh$Voxels.class
+SHA-256-Digest: GXJAv4VDOv8VPRplyoZvfHQqeie+YPyUQ2pkLc6LzZc=
+
+Name: net/anubis/client/module/impl/combat/CrystalAuraModule$Step.class
+SHA-256-Digest: NLFVZBVg+ciNcDScQ2vwEJPHlbrDKfUyWR8RE8lmv0Q=
+
+Name: net/anubis/client/module/impl/render/MotionBlurModule.class
+SHA-256-Digest: M96V+I3pguO3/PCppumJE+rWcJyO4vC5YMMkeq0rgjU=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/OverlayArt$Slice.clas
+ s
+SHA-256-Digest: c1+cKkuyewjZ0ZtirHOE72i5VgTqKmd0tiAAqnDRMv8=
+
+Name: net/anubis/client/util/BlockBoxHelper.class
+SHA-256-Digest: q6uG6UkAQ0KNY0Oyo4Idp63v3P6TVqWQJmlnnuUpZOk=
+
+Name: net/anubis/client/module/impl/combat/FriendGuardModule.class
+SHA-256-Digest: u2ueu4ykvQL9DDJJOj0ZSIYDTbqafa7Rm7kPLcC5k0Y=
+
+Name: net/anubis/client/util/seedscan/DecorationOrder$Pair.class
+SHA-256-Digest: 8Ia2PGGhLwgf/RKZoWnGGQOIWK8y0h8VOUuk0TWb2+A=
+
+Name: net/anubis/client/module/impl/render/SpawnerNotifierModule$1.class
+SHA-256-Digest: DxKc5JFW7+r5StU1k0R9OeAwKQmaiksw5Ki6VPRO5pc=
+
+Name: net/anubis/client/module/impl/render/character/gltf/CharacterBake$
+ Options.class
+SHA-256-Digest: ORfniH8hM8P8lO0CYIrUy46cTuFfh1pHh9fDPfn5JM0=
+
+Name: net/anubis/client/module/impl/render/character/gltf/ImageDecoder$P
+ icture.class
+SHA-256-Digest: +TIUBNCPRXI4yvP3XN8pgKNsN08/bjTCYgJjSNsVKzk=
+
+Name: net/anubis/client/module/impl/combat/CrystalOptimizerModule$Ghost.
+ class
+SHA-256-Digest: +ozlfSgnQXja6NPAZLRqKXdNsvaBD4HsWqSxwOG2fG8=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Twist.cl
+ ass
+SHA-256-Digest: 7JUddEBNEOhXTy4WOVuz9DGZ/sejSS/011zczzWndcU=
+
+Name: net/anubis/client/util/glyph/GlyphTint.class
+SHA-256-Digest: 1F9h7T2FIBpmBt4mrT8dHN/Uyo9uoWXQXr2dia3axUs=
+
+Name: META-INF/jars/fabric-key-binding-api-v1-1.1.7+4fc5413f3e.jar
+SHA-256-Digest: K8UvvG/gb/DXLsuVj1JjMCiDPy0dHJJ/1oquFA7E+4A=
+
+Name: net/anubis/client/util/seedscan/ChunkDecoration$Fog.class
+SHA-256-Digest: RJi1uaABMJDzlrAoZy4viDu23xDzSqMgpY16+3gdWTk=
+
+Name: com/example/client/mixin/MixinGameRenderer.class
+SHA-256-Digest: wwlzcKKVTljNE35yql8CyK7RRpWXCsRyF/YJ5w2vSQo=
+
+Name: net/anubis/client/util/spotify/ScriptedPlayer.class
+SHA-256-Digest: cruUbajyb9ptTirVRWLk2oFWHjINByv1gN7Zf3D2cIg=
+
+Name: com/example/client/mixin/MixinPharaohAvatarRenderer.class
+SHA-256-Digest: SD3x0Tllwl42MGKGD7NyIJAkYSrjaVFqOtkbQ/SpsmQ=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Sphere.c
+ lass
+SHA-256-Digest: +LBr5FKTCcnAtBEYCUeOP5Gx8WyJasMzPLXd1aGDrv4=
+
+Name: net/anubis/client/module/impl/render/SkyLyrics$Raster.class
+SHA-256-Digest: YVJbK2aEQzoqp3lTbO9GGtp8nv4jSNT0g/GBDCPsLoQ=
+
+Name: com/example/client/mixin/MixinBlockStateBase.class
+SHA-256-Digest: YwWgUa8r+6B9AGfrydNdEQslQNlI/sw1aYEf867oiIY=
+
+Name: com/example/client/mixin/MixinAirStuckLocalPlayer.class
+SHA-256-Digest: +9SRcLV0NhsHXcwwBGH2ANa3WLFWSxsD9aonyJQTRSQ=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/DigitFont.class
+SHA-256-Digest: PdsA9mTQmVrGjlTB9g3yRysmwAx+Ybdr/lXelZ5t0/8=
+
+Name: net/anubis/client/module/setting/ModeSetting.class
+SHA-256-Digest: CKLb6P867ryGtl0Rlt0EX5gSLEvWHjMYRlXo/L9yGU8=
+
+Name: net/anubis/client/module/impl/misc/NetheriteVisuals$Wave.class
+SHA-256-Digest: Z1LQdmP9pVjlNaNyHCOhIAvKiPuE+lwYrvipu1YFYG8=
+
+Name: net/anubis/client/module/impl/combat/CrystalMacroModule$Step.class
+SHA-256-Digest: iQr5vH/11EsnwIDjQ/nbCIrCsvP6CbpBWjrl2jOpgY8=
+
+Name: assets/anubis/icons/icon_48.png
+SHA-256-Digest: 2YSgfpQSG7RMYbEOImgHDsUYuID42X2a97nb28yofTs=
+
+Name: net/anubis/client/gui/EgyptDraw.class
+SHA-256-Digest: /F0Blu9aemOGUYnXGHskieWGhCgFbsYiwTRzs0/Bk8s=
+
+Name: net/anubis/client/module/impl/render/AtmosphereAurora.class
+SHA-256-Digest: 3vwBctPvsBbjqB8ZjCSsA64ZWWs8WgwBXF4gUZQRSr0=
+
+Name: net/anubis/client/esp/BlockLayer$Shapes.class
+SHA-256-Digest: dVC9fjahMmOFRPuNnbuVr9wpnd+L+84XkdlVK5XluFA=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint.class
+SHA-256-Digest: 76tT37gKwzV5IvZtdlcE6XujXlN2K/UTL6eArk9rrX4=
+
+Name: net/anubis/client/util/spotify/SyncedLyrics$Line.class
+SHA-256-Digest: Q6fbj9dQjNlcfXu4aD9ZgOTtJfVd/kPFpGcSRzU3kZA=
+
+Name: net/anubis/client/esp/BlockLayer.class
+SHA-256-Digest: CtX02U9fkbIwRF4iKRvPTlayfrl+IT3Fu4CgTbFFMqU=
+
+Name: net/anubis/client/module/impl/render/PharaohMesh.class
+SHA-256-Digest: sSXTOClNgDu53u+m1f/hJF1VLg6bMBfHkyZnYMOYL30=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes.class
+SHA-256-Digest: /zZf4SS+l8HohTgaCdctuiQerszYJkeBrCzfIyHBxEg=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$RecentMessage.
+ class
+SHA-256-Digest: gYd/rlfkXaCCsk7t/qr5feSQyZJdXiH54NskDLXYjA4=
+
+Name: assets/anubis/textures/misc/jump_circle_logo_glow.png
+SHA-256-Digest: Nm8+YT7Ih+6Hbl044ahlzS0AIjj12mZD7QcIsQMZwiI=
+
+Name: net/anubis/client/module/impl/render/SkyEmoji$HeartPaint.class
+SHA-256-Digest: PcaiQV7uTo1UF+4IZ+kUAHLCjJ4eaArd2tJygG5o83A=
+
+Name: assets/anubis/textures/sky_emoji/devil.png
+SHA-256-Digest: 7aXiw8JZiDOayvVLdSjN/39t0K2qx+VhD4l/Q/LQ47g=
+
+Name: net/anubis/client/module/impl/donutmacros/AhSniperModule.class
+SHA-256-Digest: z14PC64uSp9OvT53moeepYBl3tOBx+L4fH6WUXgYUbo=
+
+Name: com/example/client/mixin/AccessorLoadingOverlay.class
+SHA-256-Digest: KO8DEAzxDvJMrujA5hWhzpPVG5wHyxyvbjlQHDObRn4=
+
+Name: net/anubis/client/module/impl/render/FirstPersonArm.class
+SHA-256-Digest: CLu7zUUJTCFkPpXLMHOL4BSjtpROofQspLd7c92J1FE=
+
+Name: net/anubis/client/module/impl/render/character/kit/CharacterDesign
+ .class
+SHA-256-Digest: 8DY9wk54WUFiIcL5vXu2QUPDz2y5Lh3ckUJYMdxoHH8=
+
+Name: net/anubis/client/gui/ClickGuiRenderer$CategoryPanel.class
+SHA-256-Digest: jEKmA8bmZ7fQ1uy6Hl6PVmhjb+FC4dKOvcGCfrBD2Dk=
+
+Name: net/anubis/client/module/impl/movement/SneakModule.class
+SHA-256-Digest: ySf3LxGKo/m90oZLxXeRCnkkER1dS3j4HRaKrPSo3qM=
+
+Name: com/example/client/mixin/MixinAtmosphereRainFog.class
+SHA-256-Digest: LEGsPOWSML/zFdR35UYSPSYITcaOVkXyXXsjXQF9vfs=
+
+Name: net/anubis/client/gui/ToggleToasts.class
+SHA-256-Digest: +MsMdTmIwrCPSwhobbac6+YyxLaLbOtBiDOCIer1GeM=
+
+Name: net/anubis/client/gui/ItemLook.class
+SHA-256-Digest: 7WdA7dK7iFwcXBxXPgQZ7HGYjMm/8EAOmLrL0uoPeBQ=
+
+Name: net/anubis/client/gui/DonutRegionMapData$RegionInfo.class
+SHA-256-Digest: mJbENgp9lSp0/dlJSGxawJbB0hg3iZe9cgWv3Vh3dmc=
+
+Name: net/anubis/client/gui/GuiPalette.class
+SHA-256-Digest: qDDCvJBuY8vSG03C6MoErWhxAT1KDRCGCVIDthYz2CU=
+
+Name: net/anubis/client/module/impl/render/character/kit/Bone.class
+SHA-256-Digest: nMTKWGrePVGTvFWkSTi29RgUCjrl/ATjZ26ggXu5x/Q=
+
+Name: net/anubis/client/module/impl/misc/FastUseModule.class
+SHA-256-Digest: RvDlC22MBzW4h44HXn1qLjhBbMiZiIGXTX3OAx86v1o=
+
+Name: net/anubis/client/module/setting/BlockColorListSetting$BlockEntry.
+ class
+SHA-256-Digest: 2aflSCVQh1EiMqtymmii/K+SsBA3ey+hpq3rpUiUpvI=
+
+Name: net/anubis/client/module/impl/donutmacros/AutoTpaHereModule$Bucket
+ .class
+SHA-256-Digest: rueuT/7u7pTMktR/4BAP9hM2jkJpEZZColhJBscAOkg=
+
+Name: net/anubis/client/module/setting/BlockColorListSetting.class
+SHA-256-Digest: ad5aO876Lp8x1ejYqbcFnozzIlHZyiKYr/Cuw0nAYcg=
+
+Name: assets/anubis/fonts/jersey10-regular.ttf
+SHA-256-Digest: 09o+2oDMTdJcVdnUvXfDlYIVprjQ91QIXRn3zTxTkhs=
+
+Name: net/anubis/client/gui/GifDecoder$Sink.class
+SHA-256-Digest: U+PHRgLCyEWcX6ZtAC/Hyr29Z1TzCD/SiVbSfetv22c=
+
+Name: net/anubis/client/gui/HudRenderer$PotionRow.class
+SHA-256-Digest: gZOEEKEj3WHVmxivTrcOjTDzHI0XX/WDIpWrOyfK/jQ=
+
+Name: net/anubis/client/gui/ClickGuiRenderer$Tab.class
+SHA-256-Digest: +CULP1QHL/eFqI3lfQbOzB32w8sSNzT9FeeNRCseNoI=
+
+Name: com/example/client/mixin/MixinPlayer.class
+SHA-256-Digest: dRr6Rv2d4U7POQiE2eVc6YluQad2BPE1QqECySaxIZQ=
+
+Name: net/anubis/client/gui/StableWidth.class
+SHA-256-Digest: HgvZia+kbVWydzSxEoN9GF8EqQ/vFKyMxUpnx6Rq7uA=
+
+Name: net/anubis/client/module/impl/misc/noinvleak/OverlayArt.class
+SHA-256-Digest: Ar5CdxIw7l1j7d4NqROrHNOi0R9SF/jsNZq46+HrjBk=
+
+Name: net/anubis/client/module/impl/misc/SkinChangeModule$SkinSource.cla
+ ss
+SHA-256-Digest: GkmQu/6eDVa8g+emn4yQ2dzqKDQtk+7KJp7ZE946fsY=
+
+Name: com/example/client/mixin/indigo/MixinAbstractTerrainRenderContext.
+ class
+SHA-256-Digest: CZu1GB4SM2NHsQf7sQpszK4DFG5BXcXYBbhKbdl4QNY=
+
+Name: net/anubis/client/module/impl/render/PinkWater$Fog.class
+SHA-256-Digest: 6SO7ybU+JM5N4SAu5ySmCZXkVBxj8HowfVHwKPnUvy8=
+
+Name: net/anubis/client/module/impl/render/ShaderEspModule.class
+SHA-256-Digest: 3Bi3oXCG2AyMoagkh36J69O05onzLhKF7q5hdlq9DXs=
+
+Name: com/example/client/mixin/MixinJesusEntity.class
+SHA-256-Digest: VOaGd5fr0JZRAOVc4oklRoAfSu1bvmKjUlhkEoKbAAY=
+
+Name: net/anubis/client/AnubisClientMod.class
+SHA-256-Digest: x9xceSZpF7JcIbww5cLFGNT+si6PJ2cuz/+81iGsQlg=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$HiddenSpell.cl
+ ass
+SHA-256-Digest: BUDDU/Jp03Jz3dk0HelhsZn0EqlNneGUmwLu2R5a+rY=
+
+Name: assets/anubis/textures/misc/jump_circle_logo.png
+SHA-256-Digest: u3dIWJALEjrRSOhvmG1+Ibz8ERUg7o/MaWz/494lGRY=
+
+Name: net/anubis/client/util/netherite/HiddenDebrisScanner$PaletteRead.c
+ lass
+SHA-256-Digest: wLgKnigW133OM0ZL2FGHeEAVzdfDdqgAqPjqL1jhECI=
+
+Name: net/anubis/client/input/ModuleKeybinds.class
+SHA-256-Digest: w/OG+OdDpkOT0/pWab/LwRhERbNeNemLmsXX2GRp+Dc=
+
+Name: net/anubis/client/util/spotify/AlbumArt.class
+SHA-256-Digest: g4r9AmwNAqpAhb+mXZZilPW4aCP7BiHxiqcy5FUDwiA=
+
+Name: net/anubis/client/module/impl/combat/crystal/ShotView.class
+SHA-256-Digest: ZLNFfa4Ja6NRQNJJtVcotPM34POIvqJkBPwnuEGh1FU=
+
+Name: assets/anubis/fonts/OFL-manrope.txt
+SHA-256-Digest: IdEpW7rr7GZiMODHrkKUcGMD9mek3Tt8N8pgsRw8ArQ=
+
+Name: net/anubis/client/module/impl/render/FirstPersonArm$Arm.class
+SHA-256-Digest: sEGzDcxgcsBWygWuDKH83i83gFcdjtVstVC5nweVtfo=
+
+Name: net/anubis/client/gui/mainmenu/MenuContext$1.class
+SHA-256-Digest: VyIg04P2cMdXSxJlqd6lvqzYdLVEXu3S5Cf8otR2L4Y=
+
+Name: assets/anubis/textures/peep/mom.png
+SHA-256-Digest: Gps7/42pLT2k269kCnJThaOXQveo+RJASlMEAIxmceE=
+
+Name: com/example/client/mixin/MixinBlock.class
+SHA-256-Digest: UOXcdvDeg/heHEF5EndLDS+fsrIVimtufOBdBrs3fEU=
+
+Name: net/anubis/client/module/ClientModule.class
+SHA-256-Digest: oQoAe3Fl0tqDjjvxgTz+qqK7qnUZ87rE0hun6QtFmlw=
+
+Name: assets/anubis/shaders/core/aura_spread.fsh
+SHA-256-Digest: A2z+MuoJjyG+gB1ST6OF481pK+AVFlpyn94S2sO9o9w=
+
+Name: net/anubis/client/util/playerbypass/ChunkEntryGuard.class
+SHA-256-Digest: IzAGoQOLqytZ5YBi7d/wlB503lXP3futhEulQbSQ7HY=
+
+Name: net/anubis/client/gui/ItemIcons$Sheet.class
+SHA-256-Digest: bUnrL3mprXwszg9LQNh4Gq5SMf0VUjPqE9bds9wofIc=
+
+Name: assets/anubis/fonts/OFL-jersey10.txt
+SHA-256-Digest: xgj5T1qm14SpqhmBkfJgDfH9jpKxmwWLsgc3dG41f0A=
+
+Name: net/anubis/client/module/impl/misc/PlayerDetectionModule$WebhookHo
+ lder.class
+SHA-256-Digest: BDVCjZPcR0iXqbX9la7MGozRlhX8qJFjNXSeFAWk9V0=
+
+Name: net/anubis/client/module/impl/render/character/CharacterMotion$Sta
+ te.class
+SHA-256-Digest: XzLTwopxWgRu9Q3QwlJQNYyMTzbMLwXYAw7wOGfyKjI=
+
+Name: net/anubis/client/module/impl/render/character/designs/Luna.class
+SHA-256-Digest: hehoiD2es9eqvwi7fLhX+HWmS2wBcNZwWx14q4xG5hM=
+
+Name: net/anubis/client/util/spotify/LyricsQuery.class
+SHA-256-Digest: aZ4tdozNBCv0CcYRh8rPe2r+n0+ZvhsKUZo3Njh4LWk=
+
+Name: net/anubis/client/module/impl/combat/CrystalOptimizerModule.class
+SHA-256-Digest: urgZzwSl/EznoMYKvcaEsbzAjcyhEbOQvGmdIgAHxPU=
+
+Name: net/anubis/client/module/impl/render/character/designs/Mika.class
+SHA-256-Digest: HLJ9U/Srihvirifar/vya/eJhPYfGBsg6Dgx/PtZilk=
+
+Name: net/anubis/client/module/impl/render/ChunkScannerModule$Find.class
+SHA-256-Digest: 9bpaeOKfVWPs64GS9jRELcqAVX8nUdm0lKgCQLzWy+E=
+
+Name: net/anubis/client/module/impl/misc/NetheriteVisuals$Label.class
+SHA-256-Digest: jE0iwXQai9nZ9dsD7CErmdOmctYC6/kuR2/xoTJ7Wxo=
+
+Name: com/example/client/mixin/MixinFakeStatsScoreboard.class
+SHA-256-Digest: 6usS/KL3hzjgyZ/n3miQN61EMKOues8QRuyi3r4jNTY=
+
+Name: net/anubis/client/gui/HudRenderer$PotionPlan.class
+SHA-256-Digest: Ycz5C8yS/IEbmU3U9Sd7CRWWpYWiC7v06SgKEIUO1GU=
+
+Name: net/anubis/client/gui/ItemIcons$Cell.class
+SHA-256-Digest: VqtvCSYkQK7uHfmp4MzTylKGVIm+wBiv59rJuzOOgdo=
+
+Name: net/anubis/client/addon/AnubisAddon$GithubRepo.class
+SHA-256-Digest: S7dAJ99OEgVZ+gLMVxIERMAADmAiShJXsd2nNc5Jt/0=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Band.clas
+ s
+SHA-256-Digest: LUyCDUq7GNKOmVOw4+HYhUa0F/d1TPWodYCK9LyiYMo=
+
+Name: net/anubis/client/util/playerbypass/LightSectionStatus.class
+SHA-256-Digest: uvM0A8+sr98wMtZWyGbUotSueId9k6P+eVSUlk7AWEM=
+
+Name: net/anubis/client/event/CancellableEventType.class
+SHA-256-Digest: US9CiV6biYWb6EQgBXeXgYVqnRMWRGelbeK5qfqqKKc=
+
+Name: net/anubis/client/discord/DiscordIpc$Frame.class
+SHA-256-Digest: wJoBCQtZ5S/Mz23ZvIBeLMv26kR853j0xJpoEsU6epg=
+
+Name: net/anubis/client/module/impl/misc/AntiVanishModule$PendingVanish.
+ class
+SHA-256-Digest: 38BFwqWFkX86daP9FEcOav0HB4IJWCW/Ahap4KgYTgs=
+
+Name: net/anubis/client/module/impl/render/character/kit/Paint$Linear.cl
+ ass
+SHA-256-Digest: fyZHBiBT4TcWSwOwCTlhqzUArdUOVGZ2lXlr+jgjA8s=
+
+Name: com/example/client/mixin/MixinPlayerRenderer.class
+SHA-256-Digest: X4ZyUpZ8AUAfB8j0yzRVgZ8S6/gtmNMRr7N01iRfyFU=
+
+Name: com/example/client/mixin/AccessorElytraFlyBlockBehaviour.class
+SHA-256-Digest: p5yVh+NR84P0cbvGCqiwM1L6XaujIVfGKfZJmBkA6cc=
+
+Name: net/anubis/client/module/impl/combat/CrystalAuraModule$Fight.class
+SHA-256-Digest: O3264ZS3TsxO2jo9q4Ii6rBwQwpHrdbVI1DmqB7KVmk=
+
+Name: net/anubis/client/module/impl/render/character/kit/Shapes$Mirror.c
+ lass
+SHA-256-Digest: Lhn1suYB2l169mm+L1cBCMpY5GcVR+c8NAFCv1zIzxI=
+
+Name: net/anubis/client/util/spotify/WinRt$Refs.class
+SHA-256-Digest: fTYHBRb1oVyP2T3NCznm2uaBNwKGzAV3zVvsa6+ME3Y=
+
+Name: net/anubis/client/module/impl/movement/AutoJumpModule.class
+SHA-256-Digest: /rqi4bwnCm04Z32sJNJ8uYBY8buwb5+3n2vrK3QlyW4=
+
+Name: net/anubis/client/module/impl/render/HoleEspModule.class
+SHA-256-Digest: Ne6ZrkumtJQW51hc4jphv19dyvie1zLXCi4KIYdcVzE=
+
+Name: net/anubis/client/gui/ClickGuiRenderer$1.class
+SHA-256-Digest: 7kMxO7URuU5rvf8CDwBd0c+a8nZHVUKsuSn/M21wbgI=
+
+Name: net/anubis/client/util/AmethystLight$Sink.class
+SHA-256-Digest: FcJQL7oA2TS5ss5SfL+6/HYBTKJ9Ttfg/DMdlq07mzg=
+
+Name: net/anubis/client/util/playerbypass2/SimulationSignals$Pin.class
+SHA-256-Digest: 8UoWNJKcp/6jVGu1BjOsloYs70d+GweaXcQ7SBtuSC8=
+
+Name: SECURITY.md
+SHA-256-Digest: eg9cPcQPwJVjxIpcPbT4EhrXQxAIxi9xpJxtzOyVVXI=
+
+Name: com/example/client/mixin/MixinTridentItem.class
+SHA-256-Digest: zLcrzg1zHCkHxai42/Yy3yv/2q1uOxGFVvvYlj7XGz0=
+
+Name: assets/anubis/textures/sky_emoji/shock.png
+SHA-256-Digest: 72Cq8KSxjvBxeu1GUiXzzP60oyXMlJXSxwlP7bzZqF8=
+
+Name: com/example/client/mixin/MixinAutoCityMinecraft.class
+SHA-256-Digest: w5HybXdM3Kj3EecsZGFjYTgD57XKXoNQ02fLWoWoG5E=
+
+Name: net/anubis/client/gui/HudLayoutStore.class
+SHA-256-Digest: 94F+Uoo08emY0FHP/AFjb49G7uNY9s4r9JAgjzE1R14=
+
+Name: META-INF/jars/fabric-lifecycle-events-v1-2.6.15+4ebb5c083e.jar
+SHA-256-Digest: lR094H/DRZnip/Usa54wIuLES3GfoPc7N9WobW/I+IA=
+
+Name: net/anubis/client/module/impl/render/BlockEntityDebugModule$1.clas
+ s
+SHA-256-Digest: mm6og5Oe0qZ6K8JO+8eRv9Svuuo0fgwcbXAO6VcZNa8=
+
+Name: com/example/client/mixin/MixinNoRenderLavaFog.class
+SHA-256-Digest: nOanXN0nB7NAcu+0Xrw6Cn8wfyNO77n6AKn3qt3g89w=
+
+Name: net/anubis/client/module/setting/StringSetting.class
+SHA-256-Digest: l++gx04ScK5LQy1VbGm7htWKibWksHbrIGsAl8DX4bs=
+
+Name: net/anubis/client/gui/HudRenderer$SpotifyColors.class
+SHA-256-Digest: mDWI9iKSZ/Oz58x+Ta+FQo1x3c3ytY62aHu+J6LYigU=
+
+Name: net/anubis/client/gui/mainmenu/DuskPill.class
+SHA-256-Digest: hOa3LXnQ90ITsQ9DYyov10lugZgjCeJH4e6t/J+OZk8=
+
+Name: com/example/client/mixin/MixinWeaponInspectItemInHandRenderer.clas
+ s
+SHA-256-Digest: EXZjGauW4Qw8BNTeRX8q9Ox76hnC9ZOuXqefGDebIZY=
+
+Name: assets/anubis/fonts/geist-medium.ttf
+SHA-256-Digest: hc7v9zdy/4hz7+D9q/knoHVDxcKS83Fd1SuVsvj6mfQ=
+
+Name: net/anubis/client/module/impl/render/character/CharacterCatalog.cl
+ ass
+SHA-256-Digest: gSiw5gAygfDRF/fwPBVXukE6XBaazMMwaf3l/p0qvmo=
+
+Name: net/anubis/client/event/impl/PacketReceiveEvent.class
+SHA-256-Digest: O9zR1JnPaJWNT+LUJ4fRTa0EO+RmPT5BNg1Kmlxp02s=
+
+Name: net/anubis/client/module/impl/donutmacros/OrderAhBot.class
+SHA-256-Digest: +i260XaVX41JipuhQgRm/MMvru8MCwHB/4RTYxhtEBM=
+
+Name: assets/anubis/textures/sky_emoji/star.png
+SHA-256-Digest: /CbtJqecRflqA4cxlOcOQeZSFHpFFWJcKT7k26mxj8s=
+
+Name: net/anubis/client/gui/HudGlyphs.class
+SHA-256-Digest: qJBsX+ccSj53NVG1H5ggK9bTTc17wyEZ7cSevE8RgoM=
+
+Name: net/anubis/client/module/impl/misc/nameprotect/NameMatcher$Match.c
+ lass
+SHA-256-Digest: X8lNX53eS1A5Nxn5tSY+Zxjjt4VxbwssHyEjSCJ04UI=
+
+Name: net/anubis/client/module/impl/render/CosmeticAccent.class
+SHA-256-Digest: uNQ6kuhMHuKbV50V+JN+I6UPqQEpgS85YAibgVMeg5U=
+
+Name: net/anubis/client/util/quantum/ChunkSnapshotStore$BlockChange.clas
+ s
+SHA-256-Digest: fz117QYWVOWf/zHhtpLPq4evz0cDoR2uC1rwxY1Yufw=
+
+Name: net/anubis/client/module/impl/misc/SkinChangeModule$SwapCache.clas
+ s
+SHA-256-Digest: 5TygsnhE12P2guhFhv9W5HCM/4LU0n10LvUQa6+R5Uk=
+
+Name: net/anubis/client/util/seedscan/AdvancedScanner$1.class
+SHA-256-Digest: sOnlZQHxl8Kow8zVNM17oqJQ6QHvuT0O6cKk+bqXZHI=
+
+Name: assets/anubis/textures/gui/dusk_backdrop.png.mcmeta
+SHA-256-Digest: 1CIaDJ6HJSgR4Zk1XHxSbM03j41kw2LaX9nBuBk54SM=
+
+Name: assets/anubis/textures/peep/horseshoe.png
+SHA-256-Digest: HibP8z4QsVkFMcvGWviu20hAWMdhBotQvxVMTDWIZRQ=
+
+Name: com/example/client/mixin/MixinFlyEntity.class
+SHA-256-Digest: qZfUp724skPl1oNU7J/jWRDRsoo6sZuA634wUPksJCs=
+
+Name: net/anubis/client/module/impl/render/ShaderEspPass.class
+SHA-256-Digest: mL7Azm2J8O9c4rmiGKKkgyTT+NDCcVmZsMQbXcXkrLw=
+
+Name: net/anubis/client/module/impl/render/character/WornCharacter.class
+SHA-256-Digest: Ig+IIZUvEaHqp8WddjQowtCnK7cQ4Bv5QZrEuwBt/kc=
+
+Name: net/anubis/client/module/impl/misc/SkinChangeModule$CustomSkin.cla
+ ss
+SHA-256-Digest: eFLEZW3muAlFW8hxXyJreMeDsyoBlD/hfoJCFLTHCYM=
+
+Name: assets/anubis/fonts/rajdhani-bold.ttf
+SHA-256-Digest: gOdCDNUKH5F5MEfBxSU6bres7YqtWFvocTPbf7AFLkI=
+
+Name: net/anubis/client/module/impl/movement/elytrafly/VanillaMode.class
+SHA-256-Digest: zSTC9zO1SMqn2oLKpmZpIMNeQPIKYVtYQ8+761MejA0=
+
+Name: com/example/client/mixin/MixinJesusPowderSnowBlock.class
+SHA-256-Digest: 05571zF/jPohe6zPFkqNVee4Arkblh7TqpZiMmiDLh4=
+
+Name: net/anubis/client/util/seedscan/ChunkDecoration.class
+SHA-256-Digest: fcRDX360I1MNU7Qchv+G6s/P4wZFVlADKRlKenbxV7g=
+
+Name: assets/anubis/textures/sky_emoji/sad.png
+SHA-256-Digest: 7owb/f77xRk80Kx2BVJbXPMe0N3SSJ1dH/CsguuTBfg=
+
+Name: net/anubis/client/module/impl/render/TrajectoriesModule$Label.clas
+ s
+SHA-256-Digest: 79EmAt0NQKuBcJpf+3i46G7/KY4zOdFQ6lws+I+XbR8=
+
+Name: net/anubis/client/util/AmethystLight.class
+SHA-256-Digest: 6yRDRiCn7vudhGjX7uvPDVXAU/qSxK9JyM7nOAv5GdU=
+
+Name: net/anubis/client/gui/BlockListEditor$Row.class
+SHA-256-Digest: 9HB1TJzwt8cAP8wL3gUVWxZ1DZDUDzbuK0JRyXZRt7g=
+
+Name: net/anubis/client/module/impl/donutmacros/SellRoutine.class
+SHA-256-Digest: Z8aUrSQko9Sp/lDUM/lF6Zo+f3q84MKZOeDCJBpG4Bo=
+
+Name: net/anubis/client/module/impl/misc/FreecamModule.class
+SHA-256-Digest: 2hVsRD0tA4OHEfRxh80GPRZZqYbwJ+u1ASidB4D5zNA=
+
+Name: assets/anubis/defaults/presets.json
+SHA-256-Digest: aYXVfDvg0lrVuo0kBb3jQ92LWIeATCsRW9Ei/i1FrTo=
+
+Name: net/anubis/client/discord/DiscordIpc$Pipe.class
+SHA-256-Digest: m4GAlucDrKu/dnMen/tg6QjSxGtDEYJLNdbY3GsC5MA=
+
+Name: net/anubis/client/module/impl/movement/JesusModule.class
+SHA-256-Digest: HELvTWcqsj+9sViPhD6Qq6Dyozu48skoO/SVkTJcmSA=
+
+Name: com/example/client/mixin/MixinNoRenderEntityFire.class
+SHA-256-Digest: gJz4u9XWXMCfbcl0lMiQegVc9rLsJy0pvrUAo4E7daE=
+
+Name: net/anubis/client/util/seedscan/AdvancedScanner$2.class
+SHA-256-Digest: gJk/JIiZoI76h0jkrDcMdgYrsNJHBTRALm512/W+3+s=
+
+Name: net/anubis/client/module/impl/movement/ElytraSwapModule.class
+SHA-256-Digest: zwmJ8hEhUWVkg+G6YX6mVVCBK1106uL1CKxW8VhzWuo=
+
+Name: net/anubis/client/module/impl/render/HoleEspModule$Hit.class
+SHA-256-Digest: w07tRttttJEC8eoOSvgTtqnZn1paIvnNI/p/sTnAUM0=
+
+Name: net/anubis/client/util/seedscan/BlobJudge$Status.class
+SHA-256-Digest: dBIsW7kXSAS2j6hJLwsO0y5Lr+wX0aCv6hqn3FycAlk=
+
